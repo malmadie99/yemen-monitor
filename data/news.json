@@ -1,5 +1,62 @@
 [
  {
+  "ts": "2026-10-25T09:01:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "intercept",
+  "source": "Anadolu Ajansı",
+  "title": "التحالف: اعتراض صاروخ باليستي حوثي ومسيّرتين باتجاه الرياض",
+  "summary": "نقلاً عن Anadolu Ajansı.",
+  "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxNZ1RLaG5mb3VoMFlEUHo2U3RGd05hVEVGbzBTR1F2T2NwVTAwSGRxTGpoeUtoNHFEUUpZVFZuMGc4SVJ5cnlSbkFjZmlDckpyMjJxdXBJRGpjT3FMdU1kVnk4TFJGR3JqS3FYV2tyOTVqZHQ0cm5JajNxT0FIOTNDd2VoUW5sWF9WZ1BmbUVVdGVDVkpJbUpwUWdiSTlTVDFHMVVidEJsZUdzYkRtQTJudEt2UHFRX2NmdlVVdXZQbEFqU2ZOSExrNDU3V21rZEpRcXBEelVRTEpFd19sMDFzUGdVal83cnRtTG5IWXdlMllwVkZZT0t5bGFPbGtsaTg0bDRxSWR3eUNleC0tNEtuclJzQ2lMengxaHN4RTBRMmtlOHpLMFdhY1pwanZIQkFsNXA0QWtUZnRsVEN3SUpGLXhKZmJWUF9ldXJ3MHBDVmk0VjdKM09MS0E1bmJERUFnT24yWFNGX0M5ZnRUdVdVVENMMVZSWkZxQUFrR3dCX3YtTWxjT2tNZWRCVDJyWXE2TnpHNm5ucVJMV056dmdoWEFMSkxMVEp1R1plcHBsdGhwYlkzTnFaRVdHU1pBM3Vwc294dEVYaHVfV0tualZaUHQzYklTcG9oRWZrc29sWUFKTFVTZm9Mdk1pOFQtT0RfY2xOTVZEeVlWdFN3SHJDNjhPQ1h5UQ?oc=5",
+  "missiles": 1,
+  "drones": 2,
+  "id": "2026-10-25-int-zeevlwdfn3shjdnjhpq1h5uq"
+ },
+ {
+  "ts": "2026-10-25T08:05:00+03:00",
+  "region": "ksa",
+  "type": "report",
+  "kind": "other",
+  "source": "ajel.sa",
+  "title": "محلل عسكري: استهداف ميليشيا الحوثي مكة والمدينة تصعيد بالغ الخطورة أمنيا وعسكريا",
+  "summary": "نقلاً عن ajel.sa.",
+  "url": "https://ajel.sa/local/sythcnrjj",
+  "id": "2026-10-25-ksa-local-sythcnrjj"
+ },
+ {
+  "ts": "2026-10-25T07:58:00+03:00",
+  "region": "yemen",
+  "type": "report",
+  "kind": "other",
+  "source": "https://www.sabanew.net/",
+  "title": "وزارة النقل تدين استهداف ميليشيات الحوثي لمطار عدن بصاروخين باليستيين",
+  "summary": "نقلاً عن https://www.sabanew.net/. رواية طرف واحد.",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1peUdkZU1OdHBYM3QycVc2c0ptLWpiLWI1VzluNjAyMHhqdlQzelZlWXhYWXl2Xzk5OUZsd1AyNDhWM0NhYV9Fd2JCVGRDZjVY?oc=5",
+  "id": "2026-10-25-yemen-ndhwm0nhyv9fd2jcvgrdzjvy"
+ },
+ {
+  "ts": "2026-10-25T07:48:00+03:00",
+  "region": "ksa",
+  "type": "report",
+  "kind": "other",
+  "source": "ajel.sa",
+  "title": "محلل عسكري: مليشيات الحوثي عاجزة عن تحقيق أهدافها وخسائرها تتواصل بجبهات القتال",
+  "summary": "نقلاً عن ajel.sa.",
+  "url": "https://ajel.sa/international/t86am6c4n",
+  "id": "2026-10-25-ksa-international-t86am6c4n"
+ },
+ {
+  "ts": "2026-10-25T07:09:00+03:00",
+  "region": "ksa",
+  "type": "report",
+  "kind": "other",
+  "source": "ajel.sa",
+  "title": "«الأرصاد» عن طقس الأحد: أمطار رعدية وسيول متوقعة على عدة مناطق في المملكة",
+  "summary": "نقلاً عن ajel.sa.",
+  "url": "https://ajel.sa/local/l6cppkg6v",
+  "id": "2026-10-25-ksa-local-l6cppkg6v"
+ },
+ {
   "drones": 0,
   "kind": "intercept",
   "missiles": 1,
@@ -13,6 +70,28 @@
   "id": "2026-10-25-int-riyadh-ballistic-morning"
  },
  {
+  "ts": "2026-10-25T07:07:00+03:00",
+  "region": "east",
+  "type": "report",
+  "kind": "other",
+  "source": "alyaum",
+  "title": "تنبيه من موجة ضباب وأمطار خفيفة على المنطقة الشرقية",
+  "summary": "نقلاً عن alyaum.",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EblBkbnhYRmoxbC1RMlUzYnhxX1FBMG80cmo5djliTE9ZT002SnYza1h2azhDUnpLUS1WLU9lTzAtaGlHR2lSX3cwMnVOTmF2RTJZ0gFTQVVfeXFMTkRuUGRueFhGajFsLVEyVTNieHFfUUEwbzRyajl2OWJMT1lPTTZKdjNrWHZrOENSektRLVYtT2VPMC1oaUdHaVJfdzAydU5OYXZFMlk?oc=5",
+  "id": "2026-10-25-east-oaudhavjfdzaydu5oyxzfmlk"
+ },
+ {
+  "ts": "2026-10-25T07:03:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "other",
+  "source": "الشرق الأوسط",
+  "title": "الدفاع المدني السعودي يعلن «زوال الخطر» عن الرياض بعد إطلاق الإنذار المبكر",
+  "summary": "نقلاً عن الشرق الأوسط.",
+  "url": "https://news.google.com/rss/articles/CBMimgVBVV95cUxPLXdSRlRpbE96RE1VSG1aZUQ4Vnh2ek1yWkFrS3hOUFV2Y1hxVkVWblpfbzNfZkZtTkJaTk9MQTA0dVJHdUVqS09PM2VwLWhXNmJnUVlVZlE2NnpINlFCTHpvQThwX0NZdDh6LUZJYm5NT2RBanhxNFFQOFQ4VHF2ajQ0WEhlcXN6ZEE5S1gzQkp1UEhrQzZZdFh6Sk1odFl6QjlmWnhZTlQwM2MyQTluQjdoUVdUNXBScHB1aVktREtidF9rY1YzNllHMUl6eGZnbnRYRTJVMXZBWGR2V2xXM25VdElvR1pVbnlnR3lUbWFGNWxrSk0xM1hkZ1hBVVYxXzdtOXh2ajBGYlBFMDNyWVNzaXdRaUk1UjByLWdoUmxBbXZ2NVdISE5vQVJweE9PdnpiYlItSkFaZU1VNHd2NnJSa2ZlMVJxdzJYc1VsQ3phNldjS3pZVE55LWdhUVZhYXdiNjNzM1BtdlFmWmpIdzg1RncxQUhPV3JTY3VTT3hOZVJqY215bXR4YW44UlZ1TGxzSERkNWI1M0ZQUzZ0bFlZX3BSRkp1S3pBZEdzZk5jM280bDdqX3p5aVZ0VVlxVWNZdFk4c2MtWTVEYmJPT3c0TWVlbTZBSVN0dlNfaE5weVBLNllDQ2dES1J1dlpldDdSd1pjY0ROemZ4LWt1NnZXYmpqSG9kUEFzNFBYaUt6R0xKMXpweDJ5eWNCSGpfWWNHeTZyYVp5UkVaLWRiUEZtM21SdDQ3eTZDYmpEU3d3VUZ1U2ZYZjZMN1ltZjd1QVUybXVPbG5JVGxmbTlYcENPNlVzSmdmU0NXOGxFNUFiMnZpd0xwVnYyMTVmaTJHLWlTZFRPQ1dlUHMzNk9VQkJBMmxXeTZWLXc?oc=5",
+  "id": "2026-10-25-ksa-luhmznk9vqkjbmmxxetzwlxc"
+ },
+ {
   "kind": "other",
   "region": "ksa",
   "source": "الدفاع المدني عبر صحيفة عاجل",
@@ -22,6 +101,30 @@
   "type": "official",
   "url": "https://ajel.sa/local/53kwxckgt",
   "id": "2026-10-25-riyadh-allclear"
+ },
+ {
+  "ts": "2026-10-25T05:45:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "intercept",
+  "source": "عكاظ",
+  "title": "التحالف: اعتراض وتدمير طائرتين مسيّرتين في منطقة الرياض",
+  "summary": "نقلاً عن عكاظ.",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BSjR3TE1NaVAwMWlnVWE0ZGxqQUpwN0M2UlV5bU1JRGY3aHJUV1huQjJlVTZVSzdQdnhXR2x5dVpRb1FWdDlycHhaUUI2NHZNalHSAVRBVV95cUxNZnBBNW81U1lqUndjT0UzdW5oaTRub3JNb2o1dFl2V0MtdEJRUDVvU2s4VWpSR1ZsSGJibnhMckhPMlR5VVBDMzlLaHA5WkpOSGJwXzc?oc=5",
+  "missiles": 0,
+  "drones": 2,
+  "id": "2026-10-25-int-5vvbdmzllaha5wkposgjwxzc"
+ },
+ {
+  "ts": "2026-10-25T05:07:00+03:00",
+  "region": "ksa",
+  "type": "report",
+  "kind": "other",
+  "source": "ajel.sa",
+  "title": "\"الأرصاد\" ينبه أمطار ورياح نشطة على منطقة القصيم",
+  "summary": "نقلاً عن ajel.sa.",
+  "url": "https://ajel.sa/local/8o4nsmvw7",
+  "id": "2026-10-25-ksa-local-8o4nsmvw7"
  },
  {
   "drones": 1,
