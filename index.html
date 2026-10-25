@@ -183,14 +183,14 @@ section.refs h2{font-family:var(--f-display);font-size:1rem;font-weight:600;marg
     var days=v.houthiDays||{}, keys=Object.keys(days), sum=0; keys.forEach(function(k){sum+=+days[k]||0;});
     var hasToday=days[today]!=null;
     document.getElementById("c-hd").textContent=hasToday?days[today]:"—";
-    document.getElementById("c-hdlbl").textContent=hasToday?"محيَّد اليوم":"اليوم: ما انعلن رقم للحين";
+    document.getElementById("c-hdlbl").textContent=hasToday?"محيَّد اليوم":"اليوم: لم يتم اعلان الرقم لحتى الان";
     document.getElementById("c-h").textContent=v.houthiTotalOfficial!=null?v.houthiTotalOfficial:(keys.length?sum:"—");
     document.getElementById("c-hlbl").textContent=v.houthiTotalOfficial!=null?"محيَّد من بدء فجر اليمن (حصيلة رسمية)":"محيَّد من بدء فجر اليمن";
     cap("c-hcap",v.houthiNote,v.houthiUrl,v.houthiAsOf);
     var vd=v.vehicleDays||{}, vk=Object.keys(vd), vs=0; vk.forEach(function(k){vs+=+vd[k]||0;});
     var vToday=vd[today]!=null;
     document.getElementById("c-vd").textContent=vToday?vd[today]:"—";
-    document.getElementById("c-vdlbl").textContent=vToday?"آلية حوثية اليوم":"آليات اليوم: ما انعلن رقم للحين";
+    document.getElementById("c-vdlbl").textContent=vToday?"آلية حوثية اليوم":"آليات اليوم: لم يتم اعلان الرقم لحتى الان";
     document.getElementById("c-v").textContent=vk.length?vs:"—";
     cap("c-vcap",v.vehicleNote,v.vehicleUrl,v.vehicleAsOf);
     document.getElementById("cas").hidden=false;
