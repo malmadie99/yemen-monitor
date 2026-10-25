@@ -1,5 +1,38 @@
 [
  {
+  "ts": "2026-10-25T22:54:00+03:00",
+  "region": "ksa",
+  "type": "report",
+  "kind": "other",
+  "source": "Anadolu Ajansı",
+  "title": "الحوثيون يتحدثون عن استهداف الرياض وخميس مشيط وجيزان بصواريخ باليستية",
+  "summary": "نقلاً عن Anadolu Ajansı.",
+  "url": "https://news.google.com/rss/articles/CBMikgVBVV95cUxQSDBEZTVrS0w1TkpxTmZkYXF4VFc0VWF4bzJoMGNFX1NCRHpVS2RhWW54UUQxZ2ZXSkdDRlFncWxIaWVrajQ3YlRrdkRJa096SEpJVnc2ZzZOZmtUeVlvN0l1Y1RKczM3M0FNT0FQcDNNVlI2ZDlJVU9xejNSV256R0FrZEJRaURrZndCdV9POGpsbEtWMWRiaUxGY3pGRWNEMEpFN3RNNnB1Y0VuNVRNN3NpaUZnN0MzVmZyckl4QjZnRHFJRUl5NlhaY3B1bFFSS1hlM2V2d0FpLUVNbmVja29iQVZwdEFLT0FIbllBdjk4ZzVXVzFDU1daYTNqWnFrOTRYZWpteE1RYm1WNDZtblRBT2JMYzNkbk81OVA3S0pWWEVkT3RTbjBQQzRsdEVGdUFxWmZfalhDYjRVRGh0enZqeVI3LWNrMzhPX1JOYTFYSGt5NjdkTEFnN0FGVnBpMmZ2VG9hTFY3TWRjS2NFTHdESGZqOThpci0zM202QU9vRzFJSV9WTjdWZWhWN0NLclJUYnh0SU83Qy1FZG5IeW5IOFRka0V4R0hRQmhVeXNZVHF1VTFvWXlZRkg3cGk5eVhlb0M5d3ktdDZWM2JvWHBPWEN3aXJURERyVGZjRTJUZmkxcDd3SHVfbUhqTDlFWW9uZDhJTjZtNERyQlZUVWNsX3dvMVhnYm5kMFpsOG9XX0NSSzNPUkE2aEJvdkZXQWdqRlNjVXdWUlpvbmhHbjAtZDVxVWpBclVLUlpVLVhHdVBqNXJ3ekhJdlZlU3JzdWRLZFZ0aUcxMWhHSm9Uc3FGZFc4cTROeDhPbXlxb3IyZzdiQUlEa0VHQjFQazl0VUVUT0NFVWJKdFdZMHRyV29B?oc=5",
+  "id": "2026-10-25-ksa-vuvut0nfvwjkdfdzmhryv29b"
+ },
+ {
+  "ts": "2026-10-25T22:37:00+03:00",
+  "region": "ksa",
+  "type": "report",
+  "kind": "other",
+  "source": "ajel.sa",
+  "title": "الكويت تدين استمرار هجمات ميليشيا الحوثي على المملكة وتدعم إجراءاتها",
+  "summary": "نقلاً عن ajel.sa.",
+  "url": "https://ajel.sa/local/ofomvxqci",
+  "id": "2026-10-25-ksa-local-ofomvxqci"
+ },
+ {
+  "ts": "2026-10-25T22:21:00+03:00",
+  "region": "yemen",
+  "type": "report",
+  "kind": "other",
+  "source": "ajel.sa",
+  "title": "القوات المسلحة اليمنية: استهداف مواقع وقيادات حوثية ميدانية في تعز والجوف",
+  "summary": "نقلاً عن ajel.sa. رواية طرف واحد.",
+  "url": "https://ajel.sa/international/6mw6vszcc",
+  "id": "2026-10-25-yemen-international-6mw6vszcc"
+ },
+ {
   "ts": "2026-10-25T21:23:00+03:00",
   "region": "ksa",
   "type": "report",
@@ -53,6 +86,17 @@
   "summary": "نقلاً عن ajel.sa. غير مؤكد.",
   "url": "https://ajel.sa/misc/daoth1988",
   "id": "2026-10-25-yemen-misc-daoth1988"
+ },
+ {
+  "ts": "2026-10-25T19:03:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "other",
+  "source": "الشرق الأوسط",
+  "title": "التحالف يدمر صواريخ ومسيرات حوثية... ومطار الرياض يستأنف عملياته",
+  "summary": "نقلاً عن الشرق الأوسط.",
+  "url": "https://news.google.com/rss/articles/CBMihwVBVV95cUxNaU4zNzk2Zll4Ni1VSE1jY3dkSWtvbFJHeFN6YU1Ycjk3Z3lVb0M3TlUtR08zSVZYcUh2NzRLSFZ3RWozRVJFMFNBcjQ3UmpVdnZtMHNuNG85T2kxSnRBSENNVm1WSG1nSm5kOGpSR0NRZWNQN0ZBRjVHSkVPc0lkRnpWeGNaamNiOXBMbmFZWUZkSXFyYnBoR1c0ZXQtTnczMWM4MHBlV2NJQjhzcnYyT2pXT2h3Mnk0bHJUbDQxN0hWVV9zOWlCdzNxbTdHTUtpMFJtUnFWVHpXTVBoYjlpS0dhaTdJZXhuMHpxU3FsZFBwTmVRbzVWemo0SFZfQ01Qdk9QblFzMjRPR0NIaXU4V056Sm50THZiaGRtREItNEhoWExQaTlnM0s2OTVoc1J1YUpVZ0tteDl1c29aSnZhV1RyQUFfNWVPV2s0MzBFVTUzVUhXeDR2TXBWQnBXS3dWQW1XYmRWTDVVeG9qbUNBM1BVb0U1VmM4ZEdyUzg0NGlDa2ZSU2ZndDA0Wk8yczUxaG1DZUMyUERHV0tRUWVhN3Y4U2pCdlVEOVJQWFJfVGJlTV9zVmVQTzllZC05enlXWHllejlxV1pCbnp4TlpwSGVPQVB0X29PVTAxWGpKaVAwOTh4cldDcjJwVXBoN3pkSXJ0Q1FidTd6Q1lCRXd4YnJ6VGYxYUdUcWcxbk9TQWVuRUpMdW1lV2hGNklPZU5HWEEtVlkzY01QaDM0Zlh5X0xPUTNPdHVrNDA5OXlPLXhRekNfLVhGSTRocExVbXNOTHY1NURJRzhjUHFaaFl5aHRNQ3k4TllTOHktbmFxcHVyQ3dTbVlrVnB1SkpxX1ViN216VlFXNA?oc=5",
+  "id": "2026-10-25-ksa-lrvnb1skpxx1vin216vlfxna"
  },
  {
   "ts": "2026-10-25T19:00:00+03:00",
