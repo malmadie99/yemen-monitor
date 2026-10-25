@@ -197,29 +197,70 @@ def call_llm(prompt):
             return json.loads(r["candidates"][0]["content"]["parts"][0]["text"])
         except Exception as e:
             errs.append(f"gemini: {e}")
-    tok = os.environ.get("GITHUB_TOKEN")
-    if tok:
-        body = {"model": os.environ.get("GH_MODELS_MODEL", "openai/gpt-4.1-mini"), "temperature": 0.1,
-                "response_format": {"type": "json_object"},
-                "messages": [{"role": "system", "content": RULES}, {"role": "user", "content": prompt}]}
-        hdrs = {"Content-Type": "application/json", "Authorization": "Bearer " + tok,
-                "Accept": "application/vnd.github+json", "X-GitHub-Api-Version": "2022-11-28"}
-        raw = b""
-        try:
-            try:
-                raw = http("https://models.github.ai/inference/chat/completions", json.dumps(body).encode(), hdrs, 120)
-            except urllib.error.HTTPError as he:
-                raw = he.read()
-                errs.append(f"github-models HTTP {he.code}: {raw[:300]!r}")
-                raise
-            log("github-models raw:", raw[:300])
-            r = json.loads(raw)
-            txt = r["choices"][0]["message"]["content"] or ""
-            txt = re.sub(r"^```(?:json)?\s*|\s*```$", "", txt.strip())
-            return json.loads(txt)
-        except Exception as e:
-            errs.append(f"github-models: {e} raw={raw[:200]!r}")
-    raise RuntimeError("; ".join(errs) or "no LLM configured (set GEMINI_API_KEY or GITHUB_TOKEN)")
+    # GitHub Models was retired (2026-07-30), so there is no free built-in LLM anymore.
+    # Fall back to a conservative rule-based classifier so the page keeps updating.
+    log("no LLM available (" + ("; ".join(errs) or "no GEMINI_API_KEY") + "); using rule-based fallback")
+    return rule_based(prompt)
+
+
+IMPORTANT = re.compile("اعتراض|عترض|تدمير|دمر|إنذار|انذار|زوال الخطر|الدفاع المدني|اعتداء|هجوم|استهداف|إصابة|اصابه|وفاة|مقتل|سقوط|مطار")
+EAST = re.compile("الشرقية|الدمام|الظهران|الخبر|الجبيل|الأحساء|الاحساء|بقيق|رأس تنورة|راس تنوره|القطيف|حفر الباطن|شيبة|شيبه")
+YEMEN_IN = re.compile("تعز|مأرب|مارب|لحج|الحديدة|عدن|صنعاء|المكلا|فجر اليمن|القوات المسلحة اليمنية|باب المندب")
+KSA_WORDS = re.compile("السعودية|المملكة|الرياض|جدة|جازان|نجران|عسير|خميس مشيط|ابها|أبها|التحالف")
+OFFICIAL = re.compile("التحالف|وزارة الدفاع|الدفاع المدني|الطيران المدني|وزارة الطاقة|المتحدث الرسمي|المتحدث باسم")
+CLAIM = re.compile("الحوثي|الحوثيون|جماعة انصار الله|جماعة أنصار الله")
+CLAIM_VERB = re.compile("تعلن|يعلن|اعلن|أعلن|تبنت|تبني|تبنى|زعم|تزعم|ادعى|تدعي|يدعي")
+DIG = str.maketrans("٠١٢٣٤٥٦٧٨٩", "0123456789")
+
+
+def _count(text, nouns, dual, single):
+    m = re.search(r"(\d+)\s*(?:" + nouns + ")", text)
+    if m:
+        return int(m.group(1))
+    if re.search(dual, text):
+        return 2
+    if re.search(single, text):
+        return 1
+    return 0
+
+
+def rule_based(prompt):
+    data = json.loads(prompt)
+    items = []
+    for c in data.get("candidates", []):
+        title, desc = c.get("title", ""), c.get("desc", "")
+        raw = (title + " " + desc).translate(DIG)
+        if not IMPORTANT.search(raw):
+            continue
+        t = norm(raw)
+        if EAST.search(raw) or EAST.search(t):
+            region = "east"
+        elif YEMEN_IN.search(raw) and not KSA_WORDS.search(title):
+            region = "yemen"
+        else:
+            region = "ksa"
+        official = bool(OFFICIAL.search(raw))
+        if CLAIM.search(raw) and CLAIM_VERB.search(raw) and not official:
+            typ = "claim"
+        elif official and region != "yemen":
+            typ = "official"
+        else:
+            typ = "report"
+        kind, missiles, drones = "other", 0, 0
+        if typ == "official" and re.search("اعتراض|عترض|تدمير|دمر", raw):
+            missiles = _count(t, "صاروخ|صواريخ", "صاروخين", "صاروخ")
+            drones = _count(t, "مسيره|مسيرات|طائره|طائرات|درون", "مسيرتين|طائرتين", "مسيره|درون|طائره بدون طيار")
+            if missiles + drones > 0:
+                kind = "intercept"
+        summary = "نقلاً عن " + (c.get("outlet") or "مصدر إخباري") + "."
+        if typ == "claim":
+            summary += " غير مؤكد."
+        if typ == "report" and region == "yemen":
+            summary += " رواية طرف واحد."
+        items.append({"i": c["i"], "region": region, "type": typ, "kind": kind, "missiles": missiles,
+                      "drones": drones, "source": c.get("outlet") or "", "title": title, "summary": summary})
+    return {"items": items, "yemen_daily": [],
+            "note": "تحديث آلي بالتصنيف الآلي بالقواعد (بدون نموذج ذكاء اصطناعي)."}
 
 
 def toint(v):
