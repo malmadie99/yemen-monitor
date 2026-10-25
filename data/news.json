@@ -1,5 +1,18 @@
 [
  {
+  "ts": "2026-10-26T00:21:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "intercept",
+  "source": "عكاظ",
+  "title": "التحالف يعترض 10 صواريخ باليستية وطائرة مسيرة و«كروز» باتجاه الرياض والجنوب وخميس مشيط",
+  "summary": "نقلاً عن عكاظ.",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mR05URmZtTVQ5N2lKb0FBeVY1Q2VnRTdBLUNkaEpnZUpqdUNjOVVBRWdDajk4TUI3Zm9RV0VZNHpnMDhMb1p5S29YTVVKNE1CN2fSAVRBVV95cUxPd1B2eFFBNzktS05ZZjJLMktISTdFSFhXdDczSTAyQjJ5VEtDZUdKN0c4dGdVMS1leUJCdjI5ZGV4bEpLWjFpbmNEcXhkZDh4dTlvdEQ?oc=5",
+  "missiles": 10,
+  "drones": 1,
+  "id": "2026-10-26-int-lwjfpbmnecxhkzdh4dtlvdeq"
+ },
+ {
   "ts": "2026-10-25T22:54:00+03:00",
   "region": "ksa",
   "type": "report",
