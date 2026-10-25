@@ -260,7 +260,7 @@ def rule_based(prompt):
         items.append({"i": c["i"], "region": region, "type": typ, "kind": kind, "missiles": missiles,
                       "drones": drones, "source": c.get("outlet") or "", "title": title, "summary": summary})
     return {"items": items, "yemen_daily": [],
-            "note": "تحديث آلي بالتصنيف الآلي بالقواعد (بدون نموذج ذكاء اصطناعي)."}
+            "note": ""}
 
 
 def toint(v):
