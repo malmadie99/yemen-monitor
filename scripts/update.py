@@ -24,6 +24,7 @@ import json
 import os
 import re
 import sys
+import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -201,12 +202,23 @@ def call_llm(prompt):
         body = {"model": os.environ.get("GH_MODELS_MODEL", "openai/gpt-4.1-mini"), "temperature": 0.1,
                 "response_format": {"type": "json_object"},
                 "messages": [{"role": "system", "content": RULES}, {"role": "user", "content": prompt}]}
+        hdrs = {"Content-Type": "application/json", "Authorization": "Bearer " + tok,
+                "Accept": "application/vnd.github+json", "X-GitHub-Api-Version": "2022-11-28"}
+        raw = b""
         try:
-            r = json.loads(http("https://models.github.ai/inference/chat/completions", json.dumps(body).encode(),
-                                {"Content-Type": "application/json", "Authorization": "Bearer " + tok}, 120))
-            return json.loads(r["choices"][0]["message"]["content"])
+            try:
+                raw = http("https://models.github.ai/inference/chat/completions", json.dumps(body).encode(), hdrs, 120)
+            except urllib.error.HTTPError as he:
+                raw = he.read()
+                errs.append(f"github-models HTTP {he.code}: {raw[:300]!r}")
+                raise
+            log("github-models raw:", raw[:300])
+            r = json.loads(raw)
+            txt = r["choices"][0]["message"]["content"] or ""
+            txt = re.sub(r"^```(?:json)?\s*|\s*```$", "", txt.strip())
+            return json.loads(txt)
         except Exception as e:
-            errs.append(f"github-models: {e}")
+            errs.append(f"github-models: {e} raw={raw[:200]!r}")
     raise RuntimeError("; ".join(errs) or "no LLM configured (set GEMINI_API_KEY or GITHUB_TOKEN)")
 
 
