@@ -1,5 +1,84 @@
 [
  {
+  "ts": "2026-10-25T17:43:00+03:00",
+  "region": "yemen",
+  "type": "report",
+  "kind": "other",
+  "source": "ajel.sa",
+  "title": "شابة يمنية ضحية قناص حوثي تروي إصابتها فى عمودها الفقري وفقدان جنينها",
+  "summary": "نقلاً عن ajel.sa. رواية طرف واحد.",
+  "url": "https://ajel.sa/international/r7ja80ax8",
+  "id": "2026-10-25-yemen-international-r7ja80ax8"
+ },
+ {
+  "ts": "2026-10-25T17:05:00+03:00",
+  "region": "ksa",
+  "type": "report",
+  "kind": "other",
+  "source": "Anadolu Ajansı",
+  "title": "السعودية.. إصابتان إثر سقوط شظايا صاروخين باليستيين بعد اعتراضهما",
+  "summary": "نقلاً عن Anadolu Ajansı.",
+  "url": "https://news.google.com/rss/articles/CBMiyARBVV95cUxNVHRxSWRfSFh4QUc2VjhqaGpYbmNpeFRnaDBTVlZ5YXZXWjhiWmpWdWJJNWJsUTJsNGp6RnNCcHlFVWFMbUFueFBiMWhPVDd5TFlKMkJEeG1OdVF1eHVzTEJxWVRsc1F0TjlJRGNISVpqRlpsbHIySVNESWNtVHFwTVhXWlRNWmtlM181VV8wdU5VbGNOcUpVdDlYYndreXRNa3lJeXNwbEJiOExpNnJhenFBd045SVFtVmRmbFRsVlJLS3dGLUlpMVlCSzNiSExrQU1uNEplekJmQW5CUXZKY2lQNkkyODNkZl93UWN1M2tBNnhZcUxCdm41S0EyTkxzdC1hSE1PRmo1TGZkOExhYjFIVHV4dzVrN0RQM0NKeWd0ZU9oSG1TRjYwSHVtRmlHcWZhM2xiWm5hTUVKUTEzWUlJc3dKR3dTNjFXSEF1d3ZuWUhWbVB5WmV3ME9XMzdoNXpHRzZqZUlxSHFSMnZuOVJaZjd0d1BpbXNLODJ4NHBjRjR3aDZ2WnJqb2V3emdwTThkTkFHcVAxSUxHa3RHLXd0TERlZzBDVnhWLXhWY1FqQnRKMU5ub2dqQVVaWVp6akhEYmI1WXl2M1hReFpMNHV6MnJMeG5lejlUVXA0QWRCXzlHQWtscHR5VlAxMUp5YmdteG4wNVJoMlVXa1NnNTQ0SVdMcS1CZzNQNlJOVEpkbTI4YTZRblN3TXN6QndVTXB5M0xOd2RpYTJPZWxsR2lVQkM1VW83RlZhNkJ2TVBhdXc3QU11TA?oc=5",
+  "id": "2026-10-25-ksa-83rlzhnkj2tvbhdxc3qu11ta"
+ },
+ {
+  "ts": "2026-10-25T16:28:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "intercept",
+  "source": "ajel.sa",
+  "title": "إصابتان وأضرار بـ 3 مبانٍ و7 مركبات إثر سقوط شظايا صاروخين باليستيين بخميس مشيط وأحد رفيدة",
+  "summary": "نقلاً عن ajel.sa.",
+  "url": "https://ajel.sa/local/zef52z4nd",
+  "missiles": 2,
+  "drones": 0,
+  "id": "2026-10-25-int-local-zef52z4nd"
+ },
+ {
+  "ts": "2026-10-25T15:36:00+03:00",
+  "region": "ksa",
+  "type": "report",
+  "kind": "other",
+  "source": "ajel.sa",
+  "title": "تأكيد التضامن مع المملكة وإدانة اعتداءات الحوثيين.. وزير الداخلية يتلقى اتصالا من نظيره اللبناني",
+  "summary": "نقلاً عن ajel.sa.",
+  "url": "https://ajel.sa/local/owglh6mzo",
+  "id": "2026-10-25-ksa-local-owglh6mzo"
+ },
+ {
+  "ts": "2026-10-25T14:38:00+03:00",
+  "region": "ksa",
+  "type": "report",
+  "kind": "other",
+  "source": "ajel.sa",
+  "title": "عالم يمني: الممارسات الحوثية أضرت بالمساجد وانتهكت حرمة كتاب الله",
+  "summary": "نقلاً عن ajel.sa.",
+  "url": "https://ajel.sa/international/9gy9y6hnh",
+  "id": "2026-10-25-ksa-international-9gy9y6hnh"
+ },
+ {
+  "ts": "2026-10-25T14:37:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "other",
+  "source": "ajel.sa",
+  "title": "محافظ جدة يؤكد رفع الجاهزية وتكثيف الوقاية في اجتماع لجنة الدفاع المدني السنوي",
+  "summary": "نقلاً عن ajel.sa.",
+  "url": "https://ajel.sa/local/mhaa2h8mx",
+  "id": "2026-10-25-ksa-local-mhaa2h8mx"
+ },
+ {
+  "ts": "2026-10-25T14:15:00+03:00",
+  "region": "ksa",
+  "type": "report",
+  "kind": "other",
+  "source": "Anadolu Ajansı",
+  "title": "السعودية.. 9 إنذارات مبكرة تشمل الرياض وجازان وعسير والطائف الأحد",
+  "summary": "نقلاً عن Anadolu Ajansı.",
+  "url": "https://news.google.com/rss/articles/CBMiwARBVV95cUxPdVl5Y2hERVBvUzY2UWV2cnFNNWpiUU1nSUY4Wm93S19CLTdWT082MTdnVFEtRlJ5V0JhNDh0eDBrZDQxal9OOU1RSFFsUzVIaEkxRHFLc3RPTThDUnl2cjAxRFJ1WDJvb1U2NjNyeXB1OFRlaWxqeTVDYUlMU0RqSnJJUU82WnNnRFQ3Y0dySGxuY3pZRzdaVnBQRGxjUWNvQlU3dHk3b3I2RzlXRmFlV0hsU0l6M05BSE9ORHRYdjFlRndIb2lVU2poY0VrTmpmUjM1S1RkQXZjWTNndEJCcm1UeGZld3ktM2dDb3VDZ2w2UTRqVVhteGd0VTNxMVNEX1IwMktVR0QxVXU0aXR0djFiRG5CYWJSVjhZUlNSdldrUWhVb1g2RFFORWRwQ0gzcnpGX1JEZFJPNkNNblBIT1FHQ1hZaHJRTl81bVY4cFp0MTlySGEzX2toOWpUcGNGQ2s3WDMyWWZjUFdjbF9LUkEyV0VVbjU4R0NYNng1SWhZRTJ5TERLVzg3MldDZ2dPeGhyS0haNXVHV3VGaXZsZGFHN21HT2pod3Jvd3N6ZExfZUt1Qjc5T0R0UUFXVTJ4eWU2QkZ4a2p1b2o4WEVsMkd6ODdnR3YzdU0tamVRZ3dKaUF2NkNYeHlfNndRdjVvQ1VNVWFSN2tjNzRXUmVVX29RaXk3MmZudERzLW5WN0hfZ21GOWlyMmV6U1BxV0h0V0RmQzEzM0NaQWtremtZVktzN1hxZldkejI1LTFVUjQ?oc=5",
+  "id": "2026-10-25-ksa-zvktzn1hxzldkeji1ltfvujq"
+ },
+ {
   "ts": "2026-10-25T13:43:00+03:00",
   "region": "yemen",
   "type": "report",
