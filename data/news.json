@@ -1,5 +1,82 @@
 [
  {
+  "ts": "2026-10-25T21:23:00+03:00",
+  "region": "ksa",
+  "type": "report",
+  "kind": "other",
+  "source": "ajel.sa",
+  "title": "هطول أمطار متفرقة مصحوبة بعواصف رعدية على منطقة الباحة",
+  "summary": "نقلاً عن ajel.sa.",
+  "url": "https://ajel.sa/local/bkbrsepsm",
+  "id": "2026-10-25-ksa-local-bkbrsepsm"
+ },
+ {
+  "ts": "2026-10-25T20:49:00+03:00",
+  "region": "ksa",
+  "type": "report",
+  "kind": "other",
+  "source": "ajel.sa",
+  "title": "رئيس وزراء الجمهورية الهيلينية يغادر الرياض وفي مقدمة مودعيه نائب أمير المنطقة",
+  "summary": "نقلاً عن ajel.sa.",
+  "url": "https://ajel.sa/local/5y6dihzty",
+  "id": "2026-10-25-ksa-local-5y6dihzty"
+ },
+ {
+  "ts": "2026-10-25T20:24:00+03:00",
+  "region": "yemen",
+  "type": "claim",
+  "kind": "other",
+  "source": "ajel.sa",
+  "title": "القوات المسلحة اليمنية: تحييد 218 من عناصر ميليشيا الحوثي وقياداتها الميدانية",
+  "summary": "نقلاً عن ajel.sa. غير مؤكد.",
+  "url": "https://ajel.sa/international/sjf0ug4m4",
+  "id": "2026-10-25-yemen-international-sjf0ug4m4"
+ },
+ {
+  "ts": "2026-10-25T19:53:00+03:00",
+  "region": "east",
+  "type": "report",
+  "kind": "other",
+  "source": "ajel.sa",
+  "title": "لقاح شخصي جديد يقلل خطر عودة السرطان والوفاة بنسبة 42%",
+  "summary": "نقلاً عن ajel.sa.",
+  "url": "https://ajel.sa/misc/9x39fy2lb",
+  "id": "2026-10-25-east-misc-9x39fy2lb"
+ },
+ {
+  "ts": "2026-10-25T19:47:00+03:00",
+  "region": "yemen",
+  "type": "claim",
+  "kind": "other",
+  "source": "ajel.sa",
+  "title": "الجيش اليمني: نخوض مواجهات عنيفة مع مليشيات الحوثي في جبهة الأقروض بجنوب تعز",
+  "summary": "نقلاً عن ajel.sa. غير مؤكد.",
+  "url": "https://ajel.sa/misc/daoth1988",
+  "id": "2026-10-25-yemen-misc-daoth1988"
+ },
+ {
+  "ts": "2026-10-25T19:00:00+03:00",
+  "region": "ksa",
+  "type": "report",
+  "kind": "other",
+  "source": "ajel.sa",
+  "title": "الإمارات تُدين بشدة استهداف جماعة الحوثي لعدد من المناطق في المملكة",
+  "summary": "نقلاً عن ajel.sa.",
+  "url": "https://ajel.sa/local/pxjr240sq",
+  "id": "2026-10-25-ksa-local-pxjr240sq"
+ },
+ {
+  "ts": "2026-10-25T18:49:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "other",
+  "source": "ajel.sa",
+  "title": "الدفاع المدني يدعو للحذر مع استمرار الأمطار الرعدية على معظم مناطق المملكة",
+  "summary": "نقلاً عن ajel.sa.",
+  "url": "https://ajel.sa/local/kdweyo3xh",
+  "id": "2026-10-25-ksa-local-kdweyo3xh"
+ },
+ {
   "ts": "2026-10-25T17:43:00+03:00",
   "region": "yemen",
   "type": "report",
