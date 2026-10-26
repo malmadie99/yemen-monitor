@@ -61,6 +61,7 @@ FEEDS = [GN + urllib.parse.quote(q + " when:1d") for q in [
     "الدفاع المدني إنذار زوال الخطر",
     "مطار اعتداء الحوثي الطيران المدني",
     "القوات المسلحة اليمنية فجر اليمن تحييد",
+    "المتحدث الرسمي للقوات المسلحة اليمنية قتل عنصر تدمير آلية",
     "تعز مأرب لحج الحديدة الحوثي",
 ]]
 
@@ -244,12 +245,31 @@ def _count(text, nouns, dual, single):
     return 0
 
 
+SPOKES = re.compile("قوات المسلحة اليمنية|المتحدث الرسمي للقوات المسلحة")
+KILLED = re.compile(r"قتل\s*(?:أكثر من|اكثر من|نحو|حوالي)?\s*\(?(\d{2,5})\)?\s*(?:عنصر|حوثي)")
+VEHICLES = re.compile(r"(?:تدمير|إعطاب|اعطاب)[^\d\n]{0,25}\(?(\d{2,4})\)?\s*(?:آلية|الية|اليه)")
+
+
+def daily_from(raw, ts):
+    """Official 24h tally from the Yemeni Armed Forces spokesman, as re-published by media / X relays."""
+    if not SPOKES.search(raw):
+        return None
+    k, v = KILLED.search(raw), VEHICLES.search(raw)
+    if not (k or v):
+        return None
+    return {"date": ts[:10], "neutralized": int(k.group(1)) if k else None,
+            "vehicles": int(v.group(1)) if v else None}
+
+
 def rule_based(prompt):
     data = json.loads(prompt)
-    items = []
+    items, daily = [], []
     for c in data.get("candidates", []):
         title, desc = c.get("title", ""), c.get("desc", "")
         raw = (title + " " + desc).translate(DIG)
+        d = daily_from(raw, c.get("ts", ""))
+        if d:
+            daily.append(dict(i=c["i"], **d))
         if not IMPORTANT.search(raw):
             continue
         t = norm(raw)
@@ -276,7 +296,7 @@ def rule_based(prompt):
             summary += " رواية طرف واحد."
         items.append({"i": c["i"], "region": region, "type": typ, "kind": kind, "missiles": missiles,
                       "drones": drones, "source": c.get("outlet") or "", "title": title, "summary": summary})
-    return {"items": items, "yemen_daily": [],
+    return {"items": items, "yemen_daily": daily,
             "note": ""}
 
 
