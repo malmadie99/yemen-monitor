@@ -48,7 +48,7 @@
   "ksaInjuries": 364,
   "ksaNote": "19 وفاة و364 إصابة بالمطارات حسب مؤتمر التحالف (15 أكتوبر)، مضافًا لها الحالات الرسمية المعلنة بعده: 6 إصابات في نجران (18 أكتوبر)، ووفاتان وإصابتان في حقل شيبة (21 أكتوبر)، ووفاة و8 إصابات في مطار الملك فهد بالدمام (21 أكتوبر). إصابات الهجمات خارج المطارات قبل 15 أكتوبر غير مشمولة",
   "ksaUrl": "https://sabq.org/article/ab8lehj",
-  "vehicleAsOf": "2026-10-24T21:11:00+03:00",
+  "vehicleAsOf": "2026-10-26T19:50+03:00",
   "vehicleDays": {
    "2026-10-11": 180,
    "2026-10-12": 380,
@@ -60,14 +60,15 @@
    "2026-10-19": 135,
    "2026-10-20": 90,
    "2026-10-23": 190,
-   "2026-10-24": 68
+   "2026-10-24": 68,
+   "2026-10-26": 140
   },
   "vehicleNote": "آليات وعربات وأسلحة حوثية دُمّرت أو أُعطبت، حسب الحصائل اليومية لمتحدث القوات المسلحة اليمنية من 11 إلى 24 أكتوبر (رقم من طرف واحد). حصيلة 18 أكتوبر قالت \"عشرات\" بدون رقم، و21-22 أكتوبر والأيام الأولى بدون أرقام، فالمجموع الفعلي أعلى.",
-  "vehicleUrl": "https://www.okaz.com.sa/politics/na/2272238"
+  "vehicleUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81SE5uamNOX1M5a09RVXFIZXhqQ1JnVGgxZEQ4SGJHMDA5UW9KQ0hhNlBsMGp6dUlBUk1tVTlsM2tid0xHc3JpcFZXaXE1OTBNZnM0Qjhn0gFUQVVfeXFMUDhsSjlSc3k2R0lmdXh3M2FoNUlpOWU0R0ZPdzJibGQ5OUs0ZzRKellYWG5qTVpqOFRvN25sOFRhc2l3UlFWM3NHaUlYV21VSVlxdVhn?oc=5"
  },
  "status": {
-  "lastRun": "2026-10-26T16:26:39+03:00",
-  "note": "ما فيه تطورات مهمة جديدة.",
-  "added": 0
+  "lastRun": "2026-10-26T22:29:34+03:00",
+  "note": "أُضيف 6 خبر.",
+  "added": 6
  }
 }
