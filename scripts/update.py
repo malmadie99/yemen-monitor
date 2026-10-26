@@ -47,14 +47,14 @@ UAE_NAMES = ["سكاي نيوز", "إرم", "ارم نيوز", "العين ال�
              "البيان", "الاتحاد", "الإمارات اليوم", "وام", "الرؤية",
              "Sky News", "Khaleej", "Gulf News", "The National", "Al Ain"]
 # Trusted outlets (Google News results must come from one of these).
-TRUSTED = ["ajel.sa", "sabq.org", "okaz.com.sa", "alyaum.com", "aawsat.com",
+TRUSTED = ["sabq.org", "okaz.com.sa", "alyaum.com", "aawsat.com",
            "alarabiya.net", "alhadath.net", "asharq.com", "spa.gov.sa",
            "alekhbariya.net", "aleqt.com", "arabnews.com", "saudigazette.com.sa",
            "sabanew.net", "qna.org.qa", "reuters.com", "apnews.com", "france24.com",
            "aa.com.tr", "afp.com", "alriyadh.com", "al-madina.com"]
 
 GN = "https://news.google.com/rss/search?hl=ar&gl=SA&ceid=SA:ar&q="
-FEEDS = ["https://ajel.sa/rss"] + [GN + urllib.parse.quote(q + " when:1d") for q in [
+FEEDS = [GN + urllib.parse.quote(q + " when:1d") for q in [
     "التحالف اعتراض وتدمير",
     "الحوثي صاروخ مسيرة السعودية",
     "المنطقة الشرقية الدمام الظهران الجبيل الخبر اعتراض",
@@ -110,6 +110,24 @@ def is_uae(u, name=""):
     return any(n in (name or "") for n in UAE_NAMES)
 
 
+BLOCKED = ["ajel.sa"]  # user asked to drop this outlet entirely
+
+
+def is_blocked(u, name=""):
+    h = host(u)
+    if any(h == d or h.endswith("." + d) for d in BLOCKED):
+        return True
+    return bool(re.search(r"ajel|عاجل", name or "", re.I))
+
+
+WEATHER = re.compile("طقس|أمطار|امطار|الأرصاد|الارصاد|رعدية|رعدي|سيول|ضباب|غبار|عواصف|عاصفة|رياح|هطول|الحرارة")
+ATTACK = re.compile("صاروخ|صواريخ|مسيّر|مسير|اعتراض|الحوثي|حوثي|باليستي|كروز|اعتداء|هجوم|استهداف")
+
+
+def is_weather(title):
+    return bool(WEATHER.search(title)) and not ATTACK.search(title)
+
+
 def is_trusted(u):
     h = host(u)
     return any(h == d or h.endswith("." + d) for d in TRUSTED)
@@ -153,7 +171,8 @@ def fetch_candidates(seen):
                     title = title[: -len(src_name) - 3]
                 if is_uae(src_url, src_name) or not is_trusted(src_url):
                     continue
-            if is_uae(link) or not KEYWORDS.search(title + " " + desc):
+            if is_uae(link) or is_blocked(link, src_name) or is_blocked(src_url) or is_weather(title) \
+                    or not KEYWORDS.search(title + " " + desc):
                 continue
             k = norm(title)
             if k in seen or link in seen or k in keys:
@@ -246,12 +265,9 @@ def rule_based(prompt):
             typ = "official"
         else:
             typ = "report"
+        # Without an LLM we cannot tell a new announcement from a re-report or a daily total,
+        # so interceptions are shown as news but never counted (counts would be inflated).
         kind, missiles, drones = "other", 0, 0
-        if typ == "official" and re.search("اعتراض|عترض|تدمير|دمر", raw):
-            missiles = _count(t, "صاروخ|صواريخ", "صاروخين", "صاروخ")
-            drones = _count(t, "مسيره|مسيرات|طائره|طائرات|درون", "مسيرتين|طائرتين", "مسيره|درون|طائره بدون طيار")
-            if missiles + drones > 0:
-                kind = "intercept"
         summary = "نقلاً عن " + (c.get("outlet") or "مصدر إخباري") + "."
         if typ == "claim":
             summary += " غير مؤكد."
@@ -279,7 +295,7 @@ def is_dup(new, news):
         except Exception:
             continue
         gap = abs((xt - t).total_seconds())
-        if x.get("url") == new["url"]:
+        if new["url"] and x.get("url") == new["url"]:
             return True
         if new["kind"] == "intercept" and x.get("kind") == "intercept" and gap <= 3 * 3600 \
                 and toint(x.get("missiles")) == new["missiles"] and toint(x.get("drones")) == new["drones"] \
@@ -296,8 +312,50 @@ def slug(c, item):
     return f'{c["ts"][:10]}-{pre}{base}'
 
 
+# One-off corrections (verified by hand against the original announcements, 25-26 Oct 2026).
+# These bot-added items re-reported or aggregated announcements that were already counted.
+NOT_COUNTED = {
+    "2026-10-25-int-5vvbdmzllaha5wkposgjwxzc",  # 05:45 re-report of the two earlier Riyadh drones
+    "2026-10-25-int-zeevlwdfn3shjdnjhpq1h5uq",  # 09:01 daily total (1 missile + 2 drones) already counted
+    "2026-10-25-int-uhhquug2yuviqzdzctzwaldr",  # 12:42 daily total (12 missiles + 2 drones) already counted
+    "2026-10-25-int-local-zef52z4nd",           # 16:28 damage/injury story, not an announcement
+}
+FIX_COUNTS = {  # coalition statement 26 Oct: 10 ballistic + 1 cruise missiles, 1 drone
+    "2026-10-26-int-lwjfpbmnecxhkzdh4dtlvdeq": (11, 1),
+}
+
+
+def clean_source(s):
+    s = re.sub(r"@?AJELNEWS24|ajel\.sa|Ajel", "", s, flags=re.I)
+    s = re.sub(r"عاجل\s*[و/،,]\s*", "", s)
+    s = re.sub(r"\s*[و/،,]\s*عاجل", "", s)
+    s = re.sub(r"\s*(?:عبر|—|-|/)?\s*(?:صحيفة\s+)?عاجل", "", s)
+    s = re.sub(r"\s*(?:عبر|و|—|-|/)\s*$", "", s).strip()
+    return s or "مصدر رسمي"
+
+
+def cleanup(news):
+    out = []
+    for x in news:
+        bot = (x.get("summary") or "").startswith("نقلاً عن")
+        blocked = is_blocked(x.get("url", ""), x.get("source", "") if bot else "")
+        if bot and (blocked or is_weather(x.get("title", ""))):
+            continue  # drop bot items from the blocked outlet and weather items entirely
+        if x.get("id") in NOT_COUNTED and x.get("kind") == "intercept":
+            x["kind"] = "other"
+            x.pop("missiles", None); x.pop("drones", None)
+        if x.get("id") in FIX_COUNTS:
+            x["missiles"], x["drones"] = FIX_COUNTS[x["id"]]
+        if re.search(r"ajel|عاجل", x.get("source", ""), re.I):
+            x["source"] = clean_source(x["source"])
+        if is_blocked(x.get("url", "")):
+            x["url"] = ""
+        out.append(x)
+    return out
+
+
 def main():
-    news = load(NEWS, [])
+    news = cleanup(load(NEWS, []))
     meta = load(META, {"status": {}, "casualties": {}})
     seen_list = load(SEEN, [])
     seen = set(seen_list)
