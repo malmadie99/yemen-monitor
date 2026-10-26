@@ -378,6 +378,13 @@ def cleanup(news):
 def main():
     news = cleanup(load(NEWS, []))
     meta = load(META, {"status": {}, "casualties": {}})
+    cas0 = meta.setdefault("casualties", {})  # drop links to the blocked outlet from the headline captions
+    for k0, v0 in list(cas0.items()):
+        if isinstance(v0, str) and v0.startswith("http") and is_blocked(v0):
+            cas0[k0] = ""
+    for e0 in cas0.get("ksaExtra") or []:
+        if is_blocked(e0.get("url", "")):
+            e0["url"] = ""
     seen_list = load(SEEN, [])
     seen = set(seen_list)
     cands = fetch_candidates(seen)
