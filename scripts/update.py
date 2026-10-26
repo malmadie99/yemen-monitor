@@ -206,16 +206,17 @@ def call_llm(prompt):
     gkey = os.environ.get("GEMINI_API_KEY")
     errs = []
     if gkey:
-        model = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
-        url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
+        models = [os.environ["GEMINI_MODEL"]] if os.environ.get("GEMINI_MODEL") else ["gemini-3.8-flash", "gemini-3.6-flash", "gemini-2.5-flash"]
         body = {"systemInstruction": {"parts": [{"text": RULES}]},
                 "contents": [{"role": "user", "parts": [{"text": prompt}]}],
                 "generationConfig": {"temperature": 0.1, "responseMimeType": "application/json"}}
-        try:
-            r = json.loads(http(url, json.dumps(body).encode(), {"Content-Type": "application/json", "x-goog-api-key": gkey}, 120))
-            return json.loads(r["candidates"][0]["content"]["parts"][0]["text"])
-        except Exception as e:
-            errs.append(f"gemini: {e}")
+        for model in models:
+            url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
+            try:
+                r = json.loads(http(url, json.dumps(body).encode(), {"Content-Type": "application/json", "x-goog-api-key": gkey}, 120))
+                return json.loads(r["candidates"][0]["content"]["parts"][0]["text"])
+            except Exception as e:
+                errs.append(f"gemini {model}: {e}")
     # GitHub Models was retired (2026-07-30), so there is no free built-in LLM anymore.
     # Fall back to a conservative rule-based classifier so the page keeps updating.
     log("no LLM available (" + ("; ".join(errs) or "no GEMINI_API_KEY") + "); using rule-based fallback")
