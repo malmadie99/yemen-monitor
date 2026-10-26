@@ -1,5 +1,38 @@
 [
  {
+  "ts": "2026-10-26T03:56:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "other",
+  "source": "ajel.sa",
+  "title": "الدفاع المدني يعلن زوال الخطر عن مدينة الرياض",
+  "summary": "نقلاً عن ajel.sa.",
+  "url": "https://ajel.sa/local/8nv0sbz73",
+  "id": "2026-10-26-ksa-local-8nv0sbz73"
+ },
+ {
+  "ts": "2026-10-26T03:45:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "other",
+  "source": "ajel.sa",
+  "title": "الدفاع المدني: إطلاق إنذار مبكر في الرياض للتحذير من خطر",
+  "summary": "نقلاً عن ajel.sa.",
+  "url": "https://ajel.sa/local/8hjnjnjtv",
+  "id": "2026-10-26-ksa-local-8hjnjnjtv"
+ },
+ {
+  "ts": "2026-10-26T03:02:00+03:00",
+  "region": "ksa",
+  "type": "report",
+  "kind": "other",
+  "source": "ajel.sa",
+  "title": "البحرين تدين بشدة استمرار الاعتداءات الإرهابية الحوثية على المملكة",
+  "summary": "نقلاً عن ajel.sa.",
+  "url": "https://ajel.sa/local/em17p17zq",
+  "id": "2026-10-26-ksa-local-em17p17zq"
+ },
+ {
   "ts": "2026-10-26T00:21:00+03:00",
   "region": "ksa",
   "type": "official",
