@@ -245,7 +245,7 @@ def _count(text, nouns, dual, single):
     return 0
 
 
-SPOKES = re.compile("القوات المسلحة اليمنية|الجيش اليمني|الناطق الرسمي للقوات|المتحدث الرسمي للقوات")
+SPOKES = re.compile("القوات المسلحة اليمنية|القوات اليمنية|الجيش اليمني|الناطق الرسمي للقوات|المتحدث الرسمي للقوات")
 KILLED = re.compile(r"(?:قتل|مقتل|تحييد|تحيّد|تحيد|يحيّد|يحيد|وتحييد)\s*(?:أكثر من|اكثر من|نحو|حوالي|ما يزيد على)?\s*\(?(\d{3,5})\)?\s*(?:عنصر|عناصر|حوثي|حوثيا|حوثيًا|حوثيين|من)")
 VEHICLES = re.compile(r"(?:تدمير|يدمر|ويدمر|تدمر|إعطاب|يعطب|ويعطب|وإعطاب|دمر)[^\d\n]{0,25}\(?(\d{2,4})\)?\s*(?:عربة|آلية|الية|اليه|آليات)")
 
@@ -347,6 +347,10 @@ FIX_COUNTS = {  # coalition statement 26 Oct: 10 ballistic + 1 cruise missiles, 
 }
 
 
+# Daily spokesman figures verified by hand against published reports (26 Oct: 382 neutralized; 27 Oct: 146 vehicles).
+MANUAL_DAYS = {"houthiDays": {"2026-10-26": 382}, "vehicleDays": {"2026-10-27": 146}}
+
+
 def clean_source(s):
     s = re.sub(r"@?AJELNEWS24|ajel\.sa|Ajel", "", s, flags=re.I)
     s = re.sub(r"عاجل\s*[و/،,]\s*", "", s)
@@ -432,18 +436,29 @@ def main():
             added.append(item)
 
         cas = meta.setdefault("casualties", {})
-        for y in res.get("yemen_daily") or []:
-            d = str(y.get("date") or "")
+        for k0, days0 in MANUAL_DAYS.items():  # hand-verified daily figures the pipeline missed (setdefault: never overrides)
+            for d0, n0 in days0.items():
+                cas.setdefault(k0, {}).setdefault(d0, n0)
+        merged = []
+        for i, c in enumerate(cands):  # rules first: a safety net for when the LLM returns only one of the two numbers
+            d = daily_from((c["title"] + " " + c["desc"]).translate(DIG), c["ts"])
+            if d:
+                merged.append({"i": i, "date": d["date"], "neutralized": toint(d["neutralized"]), "vehicles": toint(d["vehicles"])})
+        for y in res.get("yemen_daily") or []:  # LLM results override when they carry a number
+            merged.append({"i": y.get("i"), "date": str(y.get("date") or ""),
+                           "neutralized": toint(y.get("neutralized")), "vehicles": toint(y.get("vehicles"))})
+        for y in merged:
+            d = y["date"]
             if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", d):
                 continue
             try:
                 c = cands[int(y["i"])]
             except Exception:
                 continue
-            if isinstance(y.get("neutralized"), int) and y["neutralized"] > 0:
+            if y["neutralized"] > 0:
                 cas.setdefault("houthiDays", {})[d] = y["neutralized"]
                 cas["houthiAsOf"], cas["houthiUrl"] = c["ts"], c["link"]
-            if isinstance(y.get("vehicles"), int) and y["vehicles"] > 0:
+            if y["vehicles"] > 0:
                 cas.setdefault("vehicleDays", {})[d] = y["vehicles"]
                 cas["vehicleAsOf"], cas["vehicleUrl"] = c["ts"], c["link"]
 
