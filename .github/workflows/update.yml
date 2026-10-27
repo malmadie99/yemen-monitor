@@ -2,7 +2,7 @@ name: تحديث الأخبار
 
 on:
   schedule:
-    - cron: "3,13,23,33,43,53 * * * *"
+    - cron: "7 * * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -11,24 +11,29 @@ permissions:
 
 concurrency:
   group: update-news
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 355
     steps:
       - uses: actions/checkout@v4
-      - name: Update data
+      - name: Update data (loop until the next scheduled start)
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 scripts/update.py
-      - name: Commit
         run: |
           git config user.name "news-bot"
           git config user.email "news-bot@users.noreply.github.com"
-          git add data
-          git diff --cached --quiet && exit 0
-          git commit -m "تحديث تلقائي $(TZ=Asia/Riyadh date '+%Y-%m-%d %H:%M')"
-          git pull --rebase -q && git push
+          END=$(( $(date +%s) + 5*3600 + 40*60 ))
+          while true; do
+            python3 scripts/update.py || true
+            git add data
+            if ! git diff --cached --quiet; then
+              git commit -m "تحديث تلقائي $(TZ=Asia/Riyadh date '+%Y-%m-%d %H:%M')"
+              git pull --rebase -q && git push || true
+            fi
+            [ "$(date +%s)" -ge "$END" ] && break
+            sleep 300
+          done
