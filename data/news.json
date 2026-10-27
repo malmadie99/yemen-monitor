@@ -1,5 +1,60 @@
 [
  {
+  "ts": "2026-10-27T15:33:00+03:00",
+  "region": "east",
+  "type": "claim",
+  "kind": "other",
+  "source": "Anadolu Ajansı",
+  "title": "\"الحوثي\" تدعي استهداف مصفاة رأس تنورة بالسعودية بصاروخ باليستي",
+  "summary": "نقلاً عن Anadolu Ajansı. غير مؤكد.",
+  "url": "https://news.google.com/rss/articles/CBMi1gRBVV95cUxPMC1VR0RPdndTdGViR3dvekVMUzZ0dFBjdHN2SlRfU3pSUnpkaElzRmZrLUtWTzRVVnJYaEkxajVDSk91YWo4VkIwc210M0FRQjNqc3Z4WHVnLUpWUGNZMVNXTmluU1h5MElqMklmUEZFYkNENkZmS01jek5feE5iT0VEbmp5NkNTclVMekZucjlwcTktNWFEQWh0RU1LRlJ1LXdRdWhvWDB1enNENzZaSjhUOG4wUHhSYlFZdmxyMlhub0JPUVc0ZDFyVDVJNlBTcXFWS1ZBOG1QRXh4d0lEelNCcFlyYnhydm1RTElMa3plRk80c2c3bG5jT2diMldOTGR5YW1uaHo0RFMyeGxKbGdhRFVmYVQ2WmdaSjlTd0dQSDNfWGxpN0ZITUV6OEJWQmhicmJ6aXBsc1AycnBFVzROQjA2WE5fc2tOdU95aGZ4dEJHQzBZOEx2MzlYMk50QW1EU0JhQzRsaEJmS1cybU0xTlJSMXFERGpMUFhJNENHWUQwa2F0SVBKSWJwWEVQRjZCLVBJbmZpeF9NcDRxSXo0M182MTdPcEhRSE9kNlhrTWtVa0d6NkV0dk5vT0JTbURfVWllOHdxc0o3ei1TaEhlSU9DSVNQQkdiRmZDQXk3bEhXVV9VQjU3VXVNaWU5bC10QUMtc0JyZWQxeWpBZEI1a2xjMHBYZmhxQXVrZ0hOTHNzb0stUEs3WXRRdVNRWW5fQ2tESUw2Q09CWUhrTS1WenNHUkt1dm02WnNESW1Gb1F3dXdNN3otdHFFOFNMeTFrTFpB?oc=5",
+  "id": "2026-10-27-east-dxdnn3otdhffofnmetfrtfpb"
+ },
+ {
+  "ts": "2026-10-27T13:53:00+03:00",
+  "region": "ksa",
+  "type": "report",
+  "kind": "other",
+  "source": "Anadolu Ajansı",
+  "title": "السعودية.. 4 إنذارات مبكرة تشمل نجران وأبها وخميس مشيط",
+  "summary": "نقلاً عن Anadolu Ajansı.",
+  "url": "https://news.google.com/rss/articles/CBMiigRBVV95cUxQdUVrNi0yNDNocjF5UjRuaUxhM1p1SmlJT0F2OUpIZV83emNTRmJmMDdOMW5ReGNFX2haR29Ja1o2WlQ4enc5d3ZTWVlvTVZSZF9zTldReEhMVVhVdGdjRzExd1FUMWFBWFBGZldZSk1ma21zSzVEM1dvaTZZSk1yN2lzMVR5WDBzV1duNWlodDJ2Q2xnVGJTT0c5c200RjlfSWFSX2QzZEw0ZHkxenhPWnpIdjk1ZUJ1b3hsT1c5WTBwOHFBWGpjNlhTcDRIMklSMnVsX2hHLUZnNjdob1hHTXl6MjctWkJ1NTRlS3ZLUWl6Z0lGaFN4WXJyX1RZZW1xd3VvOHhLbDRwa1U5bnhyZWFieXhnenFSMGNXS1hxMHVDRllhYUY1YnFSMmprMS14VnVfX1RwZ2llMzJCUmVwZEpPbEpxMHFWSmF5enhRbVB4ZTFhVTdCWDNXblZFbERhSGNRc2k5cWhhQWwxeEhOeHNuekg0NjcwNXBKMVdvLUNmRjhJdkJxOXQ0SGZycHUzcGRIZ1dTVFd0eHY0T0F1U3FGck9RSE5ybnJvWUdSSHY5b1g0eU1zQmZRaWNnOUdoMjlleHNqTVNLd1g0Z1diV1pYcjNxYTVGS2o4Rzd2MVNmV1hwT25ITW5xV0lfU2NkeTYybEFqMXVaa182VGU1MDNjZ1Zaa25Qenc?oc=5",
+  "id": "2026-10-27-ksa-aa182vgu1mdnjz1zaa25qenc"
+ },
+ {
+  "ts": "2026-10-27T13:47:00+03:00",
+  "region": "ksa",
+  "type": "report",
+  "kind": "other",
+  "source": "الشرق الأوسط",
+  "title": "اعتراض وتدمير 3 صواريخ باليستية و4 مسيّرات أطلقتها الميليشيات الحوثية باتجاه السعودية",
+  "summary": "نقلاً عن الشرق الأوسط.",
+  "url": "https://news.google.com/rss/articles/CBMiswVBVV95cUxOZnNYMnJGNWRXcmhsbzhNS0NqT2tEdnJjS1VUTmJkNWtsQ0ZUWXVySVlzb0wzcG9UUnVQZDhfZ1VoMUQzOUtrRjQwaEdJbnM4aFJ5WG01R1NpbWU2MklkbXk5VTFCaWUyZVBQczcyQXA3ZllIVXBMQzVaTktQQVl1TVJjbU1MLVhjQzZhOHJJdWhMMHNNQlFZVTE0UzhMSFZJOTBLMmRLdURwVWt1bkhNcnVqZmFDMXpoNFN1WUE0T0FpZlpfdXJwU2xYLW1MVVFsMW5ZMDVvVDZ1cW10S2dIci0zS2FXYlo4MUdneWxiWUdnX3k5V1JCVDZVb096bmtWSmMwQTRodEMxaXJnRjQ4ck1wc3Z1QnROTEprVDBIeFhRRmF4S3FrUXI0Z0t2dmZKV0pIRkY0MUNVdVZtaHNMcGhLV2htdmRIMWR2aXpRbUczQ0JTc3MtemYtd0RveWxPUTIwT1p1REpoZURUalRVU3JnMUJNVnVQM1R6dDdXSTlEUnV4Y1lvNUpndm9vYWNpdmJ2LWlSbC03cXA2SDAwb3JuXzBVakMxcUhJMUNkTFFWSDJFV25wZDU2SmpPT2p4RFVVaWV1bGlXbm5QMVJCTkZ6NDBtRGJMUkZITTBsZjZaQWI1eFcwOUZNUUFuVFZ6UkhJOTF1c01EVy1JeURaeXFNYXlnZVFYV2FyUmlJOENMR1NNM0pxanBvVV9FeEI4aW9Rc2hKSFdVaU1jYllmWDRlUzJ6eHVlcGVHRDlrUDlNU1pqSzVEd0xpTmlVc2xPSGwzU0Z0ZGZxR0V5cHpRRUwzMWJOaUphU255RHdpcm5ZS1RIdURVM2hrS0lWY2FBOU1lQXl6eDRSMTJDOG54WkJ0NkRMZEh6a1d2bVBMVkJzNjVpbUUzeHM4OVVRbTB6YS1r?oc=5",
+  "id": "2026-10-27-ksa-njvpbuuzehm4ovvrbtb6ys1r"
+ },
+ {
+  "ts": "2026-10-27T13:36:00+03:00",
+  "region": "ksa",
+  "type": "report",
+  "kind": "other",
+  "source": "الشرق الأوسط",
+  "title": "وفاة مقيم وإصابة 8 آخرين في اعتداء استهدف مطار الملك فهد الدولي",
+  "summary": "نقلاً عن الشرق الأوسط.",
+  "url": "https://news.google.com/rss/articles/CBMi_ARBVV95cUxPMjNZVHdDQ2RHS0xjZlRHcm5PeGl0b1gtN1dwLU5UVFdYdmZGN3F5UmFOR3dEYWU0S0FONDJyMnlPZXVvSzRIV3lyeTl1Y05XcnFRSFFBdEFKS043aHJjTEhFRUtBTEltV2dsb3l2T080TmVUS1BwRnJCWjRPY3JMVUhyanZGNE1xb0VoWm53VS1PWXNDYWgyWnNOLTlDOS14X2M3dW5xSFVtRngtMXJqMUxzVjZTUUx1VjBuNDhCaWZuUTNyWU44SEhQczZncjVLMWZFeFRDY0NpUTVGR2p5NGFUR2tUN0w4RUl5NVB6ZERLYWdxOXViVTNSRlFveERfTFFEU2t0dE1BZXpRQ3pPajJNX0xuT3p4dUk2d2R0OUpkOTNERG1lRERibDFPckt5VTk4c2xpX09CSmwyeGZ0Sll5VHBDaVVNMnpIQTVua3YwOU12STVPdVlDUU9lRnNVdy1HTDhja2ZHbE1QR0tMUERha0pXVEJteHlLYnRIWkhHa0lYRXdxR3cwaXZWUGRhN01STWV2LTlHT0V4Szdfb0pWeWMyNG9vTHdsQVdnRXNlZG5RQUVGbkNjVXBNcUg0cy1zcThGRFJXa1hvMGplbHhRMkcyWGFaM0kwbnZGcFV0aEZwZkZNT285Nk81N0NSelFBaWZZR1p6d0k3OU5WbzNuVkJBTklGYkJUaDUtU2tGVXZFN3N0ZEV0aHMxRWcyS0tuYTgwMDZqXzF4eW5qZWxmVlBpb200QlBBVUFWQW1TQnBDTm83cWVhcU02SXI5Z19LM0FHbGtNcXRaaXlXMEdscHc5eVB2Y2tVZTNDdWFuTVQtZHRhdG9QVm8?oc=5",
+  "id": "2026-10-27-ksa-vztnddwfutvqtzhrhdg9qvm8"
+ },
+ {
+  "ts": "2026-10-27T11:05:00+03:00",
+  "region": "ksa",
+  "type": "report",
+  "kind": "other",
+  "source": "https://www.sabanew.net/",
+  "title": "إدانات عربية وإسلامية ودولية للاعتداء الحوثي الارهابي الذي استهدف مطار الملك خالد الدولي بالرياض",
+  "summary": "نقلاً عن https://www.sabanew.net/.",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rTlVWb1VjY3pJekNNNFg4R2RXSUhsYUNyTVRkMXNyZFRXRks4RlhZVnZmQ1NnMVRnZE1vbTVnTS1BZ1JBZng1WEJpSjRGZl9U?oc=5",
+  "id": "2026-10-27-ksa-ts1bz1jbzng1wejpsjrgzl9u"
+ },
+ {
   "ts": "2026-10-27T10:28:00+03:00",
   "region": "ksa",
   "type": "official",
