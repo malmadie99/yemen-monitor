@@ -1,5 +1,27 @@
 [
  {
+  "ts": "2026-10-27T04:30:00+03:00",
+  "region": "east",
+  "type": "official",
+  "kind": "other",
+  "source": "عكاظ",
+  "title": "التحالف: اعتراض 3 صواريخ باليستية أطلقتها مليشيا الحوثي باتجاه المنطقة الشرقية",
+  "summary": "نقلاً عن عكاظ.",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uRDJ0TUJ3THlXSVVBRmMwWTd6RURsWmJ0SlJ4RkNMQmM4eGRvWWtWVkFZcXFzOGQxUElteHFUVkpfblJnSFBFT184dkllVlVqbXfSAVRBVV95cUxPMTUtcWlJY0llUDRxOVFfYktoUWRTMmRuTkpCQmRqZ0VYdC1YRHFscWdIM0ZJTXkzQS1QRFpQdTlVQmtvNWxFckw3bnZONHYxRVRCVnA?oc=5",
+  "id": "2026-10-27-east-vnwxfckw3bnzonhyxrvrcvna"
+ },
+ {
+  "ts": "2026-10-27T03:18:00+03:00",
+  "region": "east",
+  "type": "official",
+  "kind": "other",
+  "source": "صحيفة سبق الإلكترونية",
+  "title": "الدفاع المدني يُعلن زوال الخطر عن المنطقة الشرقية ومحافظة الخرج",
+  "summary": "نقلاً عن صحيفة سبق الإلكترونية.",
+  "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1UOUwyZXJxYzFyMDlfTlAyNFpETnJlZDNwUV92bGtFRUxFbkpfMlFWWFhiaWdQY1RpRWdkR3d4c1N6U01mRkxB?oc=5",
+  "id": "2026-10-27-east-y1rprwdkr3d4c1n6u01mrkxb"
+ },
+ {
   "ts": "2026-10-26T21:55:00+03:00",
   "region": "ksa",
   "type": "claim",
