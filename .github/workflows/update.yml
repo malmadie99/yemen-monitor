@@ -28,11 +28,13 @@ jobs:
           git config user.email "news-bot@users.noreply.github.com"
           END=$(( $(date +%s) + 5*3600 + 40*60 ))
           while true; do
+            # always start from the latest remote state: an overlapping run may have pushed since we checked out
+            git fetch -q origin main && git reset -q --hard origin/main || true
             python3 scripts/update.py || true
             git add data
             if ! git diff --cached --quiet; then
-              git commit -m "تحديث تلقائي $(TZ=Asia/Riyadh date '+%Y-%m-%d %H:%M')"
-              git pull --rebase -q && git push || true
+              git commit -q -m "تحديث تلقائي $(TZ=Asia/Riyadh date '+%Y-%m-%d %H:%M')"
+              git push -q origin HEAD:main || { git fetch -q origin main; git reset -q --hard origin/main; }
             fi
             [ "$(date +%s)" -ge "$END" ] && break
             sleep 300
