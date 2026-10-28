@@ -2687,16 +2687,6 @@
   "id": "2026-10-07-riyadh-intercept"
  },
  {
-  "region": "yemen",
-  "source": "وزارة النقل اليمنية عبر رويترز",
-  "summary": "أحد الصواريخ سقط قرب المدرج قبل دقائق من هبوط رحلة لليمنية قادمة من القاهرة.",
-  "title": "الحوثي يستهدف مطار عدن الدولي بصاروخين ومسيّرات",
-  "ts": "2026-10-07T10:00:00+03:00",
-  "type": "official",
-  "url": "https://newsonair.gov.in/yemen-based-houthi-claims-to-attack-saudi-airports-and-military-base/",
-  "id": "2026-10-07-aden-airport"
- },
- {
   "drones": 0,
   "kind": "intercept",
   "missiles": 1,
