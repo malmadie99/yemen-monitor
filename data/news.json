@@ -1,5 +1,18 @@
 [
  {
+  "ts": "2026-10-29T00:43:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "intercept",
+  "source": "التحالف عبر صحيفة الشرق الأوسط",
+  "title": "المملكة: اعتراض وتدمير 7 صواريخ و6 مسيّرات، فجر الخميس",
+  "summary": "أعلن تحالف دعم الشرعية تدمير صاروخين باليستيين و5 صواريخ كروز و6 طائرات مسيّرة أطلقتها الميليشيات الحوثية باتجاه المملكة.",
+  "url": "https://news.google.com/rss/articles/CBMiygRBVV95cUxPcl9GaFhhVXdYOHpFUWpKQk42SC1XRWMzZVFLc0Y5allnN0g0NzZxMVhMdGZseVpjOTk4WS1QczdybHNtbEx6NmhBYk9fTTdnS2VGSWtFRE9HZ2YwaWpSQzlRZ0V0NE1wWks2RVpSSU1UMTVSLUZkMVNfNTYyQXJhMUZOZHpIZ0RlYUQ0UEsxMHZ5Y1R1QTB2cHdXZzlLWHhONERvLWRsdlQxcnlyaUNlT2l4VU1NcmJ2N05vMzVST2xMOVFKa2Y0MlpWVVRpYTlLZE5OTmdsRkFPbG1qcGV4NHBCMHhuQWZFWWtWekItbVkyRDAxLUplNDlmdDRhLXlSQktYVHFYWGNQbmloWllHb3F0MmQ2YWNudzhVRHNuMFBkUjNWLWpBRkJtenVsTXVaUHVUWWdhdHc5anFpeXlBWlNRREN4Q1lHbUVlYktEZlVhX2VFRHFpdnJRa213YXByV0twbUwyX0E2NTZodzliSHVZX0VFckpPQllHcUVhaVZhMm1qdEtSbU9IRS1ycU5CTlF2TUtTUkFjVFFRcDN2WUpjY0JHNHVtZVFkdFVzVkNKWnF5dFd6Rmt0cXVIcy1VLVgzSDFfV3RCV0hzY21HMF9tU0xLNTlNcmJkLW9IV2ZtVVBid19BRTc4eUV5d001anh6UkpLMUp2c1NLT1g5T2wxSzh1ajhibGlrdDdiRVJNTHRSNkJaTHotWVZXTW1TNkVhX3Z4WE5meldGd3ZIc1F5eUdza01fQUVuYl8wTFM0NGlTcXRneGVn?oc=5",
+  "missiles": 7,
+  "drones": 6,
+  "id": "2026-10-29-int-quvuyl8wtfm0ngltcxrnegvn"
+ },
+ {
   "ts": "2026-10-28T23:37:00+03:00",
   "region": "ksa",
   "type": "official",
