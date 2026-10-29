@@ -2767,16 +2767,6 @@
   "id": "2026-10-08-int-3missiles"
  },
  {
-  "region": "ksa",
-  "source": "السلطات السعودية عبر All India Radio",
-  "summary": "أعلنت السعودية أن الهجمات على مطار أبها الدولي ومطار الملك خالد في الرياض يومي ٦ و٧ أكتوبر أسفرت عن وفاة ٣ مقيمين وإصابة ٣٦.",
-  "title": "٣ وفيات و٣٦ إصابة في هجمات على مطاري أبها والملك خالد",
-  "ts": "2026-10-08T09:56:00+03:00",
-  "type": "official",
-  "url": "https://newsonair.gov.in/three-killed-36-injured-in-houthi-attacks-on-saudi-airports/",
-  "id": "2026-10-08-airports-casualties"
- },
- {
   "drones": 0,
   "kind": "intercept",
   "missiles": 2,
