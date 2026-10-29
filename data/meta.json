@@ -1,6 +1,6 @@
 {
  "casualties": {
-  "houthiAsOf": "2026-10-27T21:50+03:00",
+  "houthiAsOf": "2026-10-29T19:13+03:00",
   "houthiDays": {
    "2026-10-10": 1550,
    "2026-10-11": 1150,
@@ -17,11 +17,12 @@
    "2026-10-23": 620,
    "2026-10-24": 307,
    "2026-10-27": 440,
-   "2026-10-26": 382
+   "2026-10-26": 382,
+   "2026-10-29": 324
   },
   "houthiNote": "محيَّد = قتيل أو جريح، حسب متحدث القوات المسلحة اليمنية (رقم من طرف واحد). المجموع = حصائله اليومية (24 ساعة) المعلنة من 10 إلى 24 أكتوبر؛ أيام العملية الأولى و22 أكتوبر ما لقيت لها أرقام رسمية، فالمجموع الفعلي أعلى.",
   "houthiUnit": "حوثي محيَّد (قتيل أو جريح)",
-  "houthiUrl": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5MSjFkbVlLbHZXWGlRdEhhUm5VdWxRb1g1OFU4WWRJSm5NU05OcjNxLW95WEUzVUoyd3hFQUFncDQyeWY5TkxN?oc=5",
+  "houthiUrl": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxPOXlLTl9ibzBzWmVBVzI3dDJUWW8zQ084TGVCS1JTMjJJOGR3U2ZKblA0RXBCM3dtUjFMX2xnbWxrV3RFU3doNmpUWEFUYUQ1dFk5bGQ3bDQ4Q0NXZnlMMWpremJpOXRvSHhfQlBjWVhtdlpBSWFoa0tKeE8zeDNZQWFSMGNyeGNmeHJIUHcxLTJ6Sy1TZnNlVXliam5WUmRteDJYekhLQ19Bek15czgxUVZocHFadXVLckRYNVRuZjdUbGo2cWpVTzlfTGpFemhrWWhKckZmQzN2bjhJRUVJSVVTWHRrejZXem43SE1fblRJTWdSZks4Mk05djFvWUdDWmJtUHBpbm9HNEw4dFNoRFc3ZEM3Q2ItZVNXNktjQ0d1MjVLVlB6Y2o3cFl2RkgyVEp4ZHNGSHh6R2RoVm9tTktWblVJdFRjeEt0cHk3ZnlQNTQ0ZndnOXczUHpIbkFUaUM2OEQxV1FmT18wdXdjQnJmTm9Ma0VhTHItaUlRQkVSLTVWTHI3THo2UG8weWJyZDlfYWFXVFM0LXI5a3pjSFkzMEtVQ0tKcy1ub3ZGMGFpbHlKWnpXM2JWRDR6ZUtTdVJSVTBNWEVOdHlnWDRzTGl0Y2dMYlV0NVh5Yko4Mmw0NUZiN29n?oc=5",
   "ksaAsOf": "2026-10-18T18:33:00+03:00",
   "ksaDeaths": 19,
   "ksaExtra": [
@@ -70,7 +71,7 @@
   "vehicleUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81SE5uamNOX1M5a09RVXFIZXhqQ1JnVGgxZEQ4SGJHMDA5UW9KQ0hhNlBsMGp6dUlBUk1tVTlsM2tid0xHc3JpcFZXaXE1OTBNZnM0Qjhn0gFUQVVfeXFMUDhsSjlSc3k2R0lmdXh3M2FoNUlpOWU0R0ZPdzJibGQ5OUs0ZzRKellYWG5qTVpqOFRvN25sOFRhc2l3UlFWM3NHaUlYV21VSVlxdVhn?oc=5"
  },
  "status": {
-  "lastRun": "2026-10-29T19:15:57+03:00",
+  "lastRun": "2026-10-29T19:21:02+03:00",
   "note": "ما فيه تطورات مهمة جديدة.",
   "added": 0
  }
