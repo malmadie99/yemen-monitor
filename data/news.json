@@ -1,5 +1,18 @@
 [
  {
+  "ts": "2026-10-29T04:03:00+03:00",
+  "region": "east",
+  "type": "official",
+  "kind": "intercept",
+  "source": "التحالف عبر جريدة الرياض",
+  "title": "المنطقة الشرقية: اعتراض وتدمير صاروخ باليستي، فجر الخميس",
+  "summary": "أعلن التحالف اعتراض وتدمير صاروخ باليستي أطلقته الميليشيات الحوثية باتجاه المنطقة الشرقية.",
+  "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1aemdvWmtVdGhVUERudTF4enU4WDVkeG53ck5NY1Zqak91T0NkcDgtVEs0Nzl1NllhRy1sTWtONk4xcVFiS3hF?oc=5",
+  "missiles": 1,
+  "drones": 0,
+  "id": "2026-10-29-int-nllhry1stwtonk4xcvfis3hf"
+ },
+ {
   "ts": "2026-10-29T00:43:00+03:00",
   "region": "ksa",
   "type": "official",
