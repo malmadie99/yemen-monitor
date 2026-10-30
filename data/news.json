@@ -1,5 +1,18 @@
 [
  {
+  "ts": "2026-10-30T18:59:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "intercept",
+  "source": "تحالف دعم الشرعية عبر صحيفة سبق",
+  "title": "المملكة: اعتراض وتدمير صاروخ باليستي ومسيّرة، مساء الجمعة",
+  "summary": "أعلن تحالف دعم الشرعية عن اعتراض وتدمير صاروخ باليستي أُطلق باتجاه المنطقة الجنوبية، بالإضافة إلى اعتراض طائرة مسيّرة في منطقة الرياض.",
+  "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4tZGdZXzdIMHBCalpkNzlrb2NuYXVNRldaNER2TUFQTkFzQ0h4M0tmSW93Wk00Ymo1enhfUmExT3RzRG12MzZz?oc=5",
+  "missiles": 1,
+  "drones": 1,
+  "id": "2026-10-30-int-ymo1enhfumext3rzrg12mzzz"
+ },
+ {
   "ts": "2026-10-30T18:41:00+03:00",
   "region": "ksa",
   "type": "official",
