@@ -1,5 +1,18 @@
 [
  {
+  "ts": "2026-10-30T06:57:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "intercept",
+  "source": "التحالف عبر صحيفة سبق الإلكترونية",
+  "title": "منطقة مكة المكرمة: اعتراض وتدمير مسيّرة، صباح الجمعة",
+  "summary": "أعلن تحالف دعم الشرعية اعتراض وتدمير طائرة مسيّرة أطلقتها الميليشيا باتجاه منطقة مكة المكرمة.",
+  "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9uODBMa21lXy1renRwbEZVSGRfNFBwcjJfaVpJampKdlpqMzk4NWJ1TURMX0tKYWdkMFdRd3pZencwQkdLS1Rv?oc=5",
+  "missiles": 0,
+  "drones": 1,
+  "id": "2026-10-30-int-ywdkmfdrd3pzencwqkdls1rv"
+ },
+ {
   "ts": "2026-10-29T20:11:00+03:00",
   "region": "ksa",
   "type": "official",
