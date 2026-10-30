@@ -1,6 +1,6 @@
 {
  "casualties": {
-  "houthiAsOf": "2026-10-29T18:27+03:00",
+  "houthiAsOf": "2026-10-30T17:22+03:00",
   "houthiDays": {
    "2026-10-10": 1550,
    "2026-10-11": 1150,
@@ -18,11 +18,12 @@
    "2026-10-24": 307,
    "2026-10-27": 440,
    "2026-10-26": 382,
-   "2026-10-29": 324
+   "2026-10-29": 324,
+   "2026-10-30": 336
   },
   "houthiNote": "محيَّد = قتيل أو جريح، حسب متحدث القوات المسلحة اليمنية (رقم من طرف واحد). المجموع = حصائله اليومية (24 ساعة) المعلنة من 10 إلى 24 أكتوبر؛ أيام العملية الأولى و22 أكتوبر ما لقيت لها أرقام رسمية، فالمجموع الفعلي أعلى.",
   "houthiUnit": "حوثي محيَّد (قتيل أو جريح)",
-  "houthiUrl": "https://news.google.com/rss/articles/CBMiugNBVV95cUxNekUwZHp2S2hvWHNpOHhoNzZhdV9rTWVHNVlRby0tdXhDLVZoZ0kyNHJkR0ZYVWFKS1J0NmhjUElYcU5mT0pqV1RndnZjbTcxa3h4dmFJbXVaOGJKRXplYlNGSW9qY2hyeFM3c0xaMGVnOXlDcVB5aVdSODFxUUJJWFlWeVFaeU1tdW1xcUZjSUNyXzBXbTdKRWhtUGpldGNObkllYTBaNnV6Yi1YWnpYbGhPZ2xUVWJYdE1NREZ0T0dLU1FvVDN0NWFnWllEclN0WTFTVVUyUTB1WUJYOTFOLUpPeXBzdzdmc3B1anNCQnNVYmNYSDNVZnM2RW50MmloeDB5c0pGM2RDamlkeXhfZGU0SnFURUlLOGlnQTVBdFh6WkJPeVZJOE8yd1E5WTktbGt1X0tmSENDWWVZTmxSU045S0E2clJrTVJrZWhPa2lXSVRWWllVcnNrT2p5N0dLb09tc2pKMGh6UzV5WVF3Rkd4a2dZUGxJMVNKN0IyN3dQWXo3YThEZjVsVl9QVjdycGZSWnNlLWZWSHNyUUJxMGNXcmFzcW9UeDZPeFM5R2tBTmVKWU91Njln0gG_A0FVX3lxTFBIa2xkV2ZpMHlXQmVQZUVlbmdfR2tmY29GVDlFU1V3bGYyUVVxZ2hnay1lS1ZHM0hHNlFmZWJTRnZrM1JyaThhR3liLTlZMjd3ZG1mdUdtdldlSU1tUUdqSnlNWVgxdDd6bHFIY0lGalBwb1VmS3VXUFpuZXVZTFdNWU1PbDh0ZlZfUklOdGYwWGw3MGU3R0RoSHdMc2U0bHdZRmx3MVlJR2o0WVdmRW9nSjhNY2ZqNE5jNGpHVFk5U3h3d3lmaXZfTUlLaVBkcGxJT1paNXNOWkVEUTFkb3FzeTV1eUNGRUtsYXRtQXM5SGZELW5kQ28xSnJOeFdJQ3VYeUNJUUxrREk3cmxfQ3NrZlpPdzU2VjNza3B4NFVFVno3THhNbFRFbXhJWDdKVFpNbFNZMzcwUUNJZGpSRVlJcjNYUV9EUm42X0NqTHUtOHA5eGc4Ml9PSy1JOHdvVzJVRGNQVFpZdm1kVi16LVBfTHJhQnRuSlFjeVVVbEc4Rk80Q01rTHJBR3dwLTUxcWlEREdUX3ItNllLQ3RfdUNHdkhfREg3VWw4MkV6Tm0wQ29RT0dYSkE2Sm9wbWhUOA?oc=5",
+  "houthiUrl": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5BQUJwcnh1SWNQRzFCOUlTUm50WW1KSUU5MkQ4emxnX1RDdlc1NXVYZ1czRGxwakNRZ3c4VHQxa2k4Y1VrcDNR?oc=5",
   "ksaAsOf": "2026-10-18T18:33:00+03:00",
   "ksaDeaths": 19,
   "ksaExtra": [
@@ -71,8 +72,8 @@
   "vehicleUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81SE5uamNOX1M5a09RVXFIZXhqQ1JnVGgxZEQ4SGJHMDA5UW9KQ0hhNlBsMGp6dUlBUk1tVTlsM2tid0xHc3JpcFZXaXE1OTBNZnM0Qjhn0gFUQVVfeXFMUDhsSjlSc3k2R0lmdXh3M2FoNUlpOWU0R0ZPdzJibGQ5OUs0ZzRKellYWG5qTVpqOFRvN25sOFRhc2l3UlFWM3NHaUlYV21VSVlxdVhn?oc=5"
  },
  "status": {
-  "lastRun": "2026-10-30T17:18:28+03:00",
-  "note": "ما فيه تطورات مهمة جديدة.",
-  "added": 0
+  "lastRun": "2026-10-30T17:29:01+03:00",
+  "note": "إضافة التحديث اليومي لعمليات الجيش اليمني داخل اليمن.",
+  "added": 1
  }
 }
