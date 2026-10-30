@@ -1,5 +1,18 @@
 [
  {
+  "ts": "2026-10-31T01:56:00+03:00",
+  "region": "east",
+  "type": "official",
+  "kind": "intercept",
+  "source": "تحالف دعم الشرعية عبر صحيفة سبق",
+  "title": "المنطقة الشرقية: اعتراض وتدمير مسيّرة، فجر السبت",
+  "summary": "أعلن التحالف اعتراض وتدمير طائرة مسيّرة أطلقتها الميليشيا باتجاه المنطقة الشرقية.",
+  "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQMjJza2tCWm9IVmh0YlN4b05yLTRmZnBqdkdodUlkZXJGYzh4T1FpZ2x6WGtKMG93QlUzZUdkRzEtU2hyd3VxUXlBYzhTOTJFWXpaaGZMWXJydGtNbHRzT2NMaFB6TVhMTWYzVElHUWc2UG5EWWdkOGNJS0ZOQ0xVakRxY3hkSDBLdm4yYVc3ekRFQkUwNm5Cajhwa3VmdUtDZWlDYUQ2ZDZQME0ybFVpRHFwbkV2Q1gzVmQ5bUlLNUVNbk1JdUhXVEgzMWJVd3RGNmZlSmliRE1Gb2JEbWYyclRmWWFNMTFzOGg3ZGQtaTNKTnZ4VXZIeWF6UVRtUVNPLXZNdTJzb0h2MVAwWjZ2bmRkWlQ1SERrT3oyX19jTlc2WDRsVWFoMzhzakJTTGlPc0RNdGlrVGdjTlRYWDg1RERNZlc2X0NwVmVvVXg0VW5xSnhEOXdMMG5hWGFnUmdjZ0h4ckZVTmQ5bGNVcUN5SGlQZU5IVlRzM2JGWDZKVmhVbFVkNmt5RGRlMWFwbmFSZkpCVDdRMUlEbEQ0aW5fQkgtcWlFNDgyRm0ySS1TSQ?oc=5",
+  "missiles": 0,
+  "drones": 1,
+  "id": "2026-10-31-int-5fqkgtcwlfndgyrm0yss1tsq"
+ },
+ {
   "ts": "2026-10-30T20:42:00+03:00",
   "region": "ksa",
   "type": "official",
