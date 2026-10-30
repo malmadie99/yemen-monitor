@@ -1,5 +1,16 @@
 [
  {
+  "ts": "2026-10-30T07:12:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "other",
+  "source": "وكالة الأنباء السعودية",
+  "title": "عام / التحالف: اعتراض وتدمير طائرة مسيّرة بمنطقة مكة المكرمة أطلقتها الميليشيا الحوثية الإرهابية",
+  "summary": "نقلاً عن وكالة الأنباء السعودية.",
+  "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9scWtrbGRpMXlHLU9LNEdleGhOdWxyVHF5Q05wMUVDYlpGeTVrZ1pzdFVhd3FNQVhJeXZLX2VVZ0c?oc=5",
+  "id": "2026-10-30-ksa-zdfvhd3fnqvhjexzlx2vvz0c"
+ },
+ {
   "ts": "2026-10-30T06:57:00+03:00",
   "region": "ksa",
   "type": "official",
@@ -11,6 +22,17 @@
   "missiles": 0,
   "drones": 1,
   "id": "2026-10-30-int-ywdkmfdrd3pzencwqkdls1rv"
+ },
+ {
+  "ts": "2026-10-30T05:31:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "other",
+  "source": "وكالة الأنباء السعودية",
+  "title": "عام / التحالف: اعتراض وتدمير صاروخ مجنح (كروز) أطلقته الميليشيا الحوثية الإرهابية باتجاه المنطقة الغربية",
+  "summary": "نقلاً عن وكالة الأنباء السعودية.",
+  "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9kR01zYTA1LWk5Mlg5emZiSVFSaUFCRHNERktsbVc4MFM0VXBnX1NacnMwRzN0c24xU0pRcG5YNDlURFFaTVE?oc=5",
+  "id": "2026-10-30-ksa-0c24xu0prcg5yndlurffatve"
  },
  {
   "ts": "2026-10-29T20:11:00+03:00",
