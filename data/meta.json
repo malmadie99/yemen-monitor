@@ -1,6 +1,6 @@
 {
  "casualties": {
-  "houthiAsOf": "2026-10-30T18:24+03:00",
+  "houthiAsOf": "2026-10-31T19:48+03:00",
   "houthiDays": {
    "2026-10-10": 1550,
    "2026-10-11": 1150,
@@ -19,11 +19,12 @@
    "2026-10-27": 440,
    "2026-10-26": 382,
    "2026-10-29": 324,
-   "2026-10-30": 336
+   "2026-10-30": 336,
+   "2026-10-31": 427
   },
   "houthiNote": "محيَّد = قتيل أو جريح، حسب متحدث القوات المسلحة اليمنية (رقم من طرف واحد). المجموع = حصائله اليومية (24 ساعة) المعلنة من 10 إلى 24 أكتوبر؛ أيام العملية الأولى و22 أكتوبر ما لقيت لها أرقام رسمية، فالمجموع الفعلي أعلى.",
   "houthiUnit": "حوثي محيَّد (قتيل أو جريح)",
-  "houthiUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YMTNqQ2dIWV9FaGVwVWpKRV9xb1M1QjZoQ2FFTDF5ZFZWR09pdlRfTzFaMVU1c2E5dnFvWVZnWjFiLThWOGROWktkYzNqeHZrUU40Y1Fn0gFUQVVfeXFMTmwyNmQ0elpiM3I2aFpERW52NHNPdEY4akcyck5yWF82OWRSeGdydGJ2Z0hTcU54eW53bWhRUVo3djVBRGppaFhjeHlZS0d3c2J0N0tD?oc=5",
+  "houthiUrl": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPTVpQVG90OGdDc29WT0kzQkUyS3FjZDR4TERyTXYwLTh0bmh3TW9yVkd4eXcxcURvUjJQS1JNaTltM3dmZFFYZDRYeXBtMk1SY25fS0NhNGtQUzFSdl83dkpqUFJpRkxmRkdubGRRekU4VDA5TUtBblNucW1MLS1zTWVySXhkNFRxek9rMVdtLTJmRy1DZUxhS2REd1I5cTgwdG4tR19HRDNST3BQLWRDTENNcF9oLVg0ZlV0RnI3UlVNM2pUWFJmaEdSdUxLZnlZdl9pWm1oeFhJeThILXpvenI0b01tSGpGOGNnMEI5aDh5LUthZm50SHRmMVd0aG4xWHN2M0s0T29VUWtfWndBZ3RqMGwzWUo3bWtid01nUGJGS2pXZWphQTBLS1N5WVBuQVRYXzk5ZVd4NGxvS3lGdWNDNG5LVUU4N1E?oc=5",
   "ksaAsOf": "2026-10-18T18:33:00+03:00",
   "ksaDeaths": 19,
   "ksaExtra": [
@@ -72,8 +73,8 @@
   "vehicleUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81SE5uamNOX1M5a09RVXFIZXhqQ1JnVGgxZEQ4SGJHMDA5UW9KQ0hhNlBsMGp6dUlBUk1tVTlsM2tid0xHc3JpcFZXaXE1OTBNZnM0Qjhn0gFUQVVfeXFMUDhsSjlSc3k2R0lmdXh3M2FoNUlpOWU0R0ZPdzJibGQ5OUs0ZzRKellYWG5qTVpqOFRvN25sOFRhc2l3UlFWM3NHaUlYV21VSVlxdVhn?oc=5"
  },
  "status": {
-  "lastRun": "2026-10-31T19:48:40+03:00",
-  "note": "ما فيه تطورات مهمة جديدة.",
-  "added": 0
+  "lastRun": "2026-10-31T19:53:44+03:00",
+  "note": "إضافة حصيلة العمليات العسكرية للجيش اليمني خلال 24 ساعة.",
+  "added": 1
  }
 }
