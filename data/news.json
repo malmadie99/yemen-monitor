@@ -1,5 +1,16 @@
 [
  {
+  "ts": "2026-11-01T19:25:00+03:00",
+  "region": "yemen",
+  "type": "report",
+  "kind": "other",
+  "source": "القوات المسلحة اليمنية عبر جريدة الرياض",
+  "title": "اليمن: تقدم ميداني في الجوف وتكبيد الحوثيين خسائر، مساء الأحد",
+  "summary": "أفادت وسائل إعلام بتقدم القوات الحكومية على جبهة الجوف وتكبيد ميليشيا الحوثي خسائر بشرية، حسب القوات اليمنية.",
+  "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5OeWF1UUVJcURWUlhpOTVJVVd6bE5oMkJ2TG1UelVXY2pMSlhWVDlxWkQtRWNwbGgzWmFRd01Tb2phT0pwRjA4?oc=5",
+  "id": "2026-11-01-yemen-bggzwmfrd01tb2pht0pwrja4"
+ },
+ {
   "ts": "2026-11-01T19:02:00+03:00",
   "region": "ksa",
   "type": "official",
@@ -3068,17 +3079,6 @@
   "type": "official",
   "url": "https://english.alarabiya.net/News/saudi-arabia/2026/10/12/saudi-arabia-s-dammam-airport-attacked-drone-intercepted-in-eastern-province",
   "id": "2026-10-11-dammam-airport"
- },
- {
-  "kind": "other",
-  "region": "yemen",
-  "source": "مصادر عسكرية يمنية عبر عكاظ",
-  "summary": "مصادر عسكرية يمنية قالت إن الجيش استعاد مواقع في المصرخ بمأرب بعد تسلل حوثي، مع استمرار المواجهات في عدة جبهات. المعلومات من مصادر عسكرية ولم تُتحقق بشكل مستقل.",
-  "title": "معارك في جبهات مأرب وغارات على مواقع الحوثي في تعز يوم الأحد",
-  "ts": "2026-10-11T19:34:00+03:00",
-  "type": "report",
-  "url": "https://www.okaz.com.sa/politics/na/2270341",
-  "id": "2026-10-11-yemen-marib"
  },
  {
   "drones": 0,
