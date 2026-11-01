@@ -1,5 +1,18 @@
 [
  {
+  "ts": "2026-11-01T19:02:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "intercept",
+  "source": "التحالف عبر سبأ نت",
+  "title": "المملكة: اعتراض صاروخ باليستي ومسيّرة، مساء الأحد",
+  "summary": "أعلن التحالف عن اعتراض وتدمير طائرة مسيّرة وصاروخ باليستي أطلقا باتجاه المملكة.",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wZlNEVEZaa0RaR2dQa2pWWk1Xc2VaYXBHa0lmZERmSUpVQzQ5MG1iWnRYVFBDeENCTldkZFZDM0k5ZVRxbTZfanlvUEVpLWpy?oc=5",
+  "missiles": 1,
+  "drones": 1,
+  "id": "2026-11-01-int-m0k5zvrxbtzfanlvuevplwpy"
+ },
+ {
   "ts": "2026-11-01T18:49:00+03:00",
   "region": "ksa",
   "type": "official",
