@@ -1,5 +1,16 @@
 [
  {
+  "ts": "2026-11-01T20:00:00+03:00",
+  "region": "ksa",
+  "type": "report",
+  "kind": "other",
+  "source": "Qatar news agency",
+  "title": "تحالف دعم الشرعية في اليمن: ‏اعتراض وتدمير طائرة مسيرة باتجاه المنطقة الجنوبية السعودية",
+  "summary": "نقلاً عن Qatar news agency.",
+  "url": "https://news.google.com/rss/articles/CBMitwVBVV95cUxOYmk4MFl0MHBwdEN2ZFFCQmctUnJfdC15eUVLeUcwSVZvajJha2xrRTloVHZTOVJoTF9vb1Z6cUhYMkFtMi01UmxkU2V2ZDFiWjVHUFNwazd2ZUFpRDBaSlQzWE9ZWGV6cUNoM2tsaTZSRmdCdEJuZS0wRnZEcGFubHlvdjRMQmVtRzhpdDE4UG1xTklMbkgtWHc3bUdic3hZc2Z4V0lJbmhSZnZ3TlRQVlNDVEV3Z21JZXh6NHFtMndUSU1fWVVwNUZJYmlRWlMybURPV2g2aTlpY296S1VCSjVUOElvaXFsOUZtOGlUYnpDRk1QZHpWMGlSR09LOHpNM2p2NTEtOF9ITkFhQ0ZrV1FPMHlfVWVuVEVkZy01blBjX3VFNnRaOC1WcEVmRE8wY0xUeE13dHlUNUxfTDhJWWtsNWpaRk85UFBTZTBtTVVlN0d5VXNtZURrSWFJWThVakNuRF93ZmlwMENyMlduamhkLTBTNHFCOEF6bjZUcDJsanpNa2xwWWFSR1cyb2ZFQ25LSlplYWw2MkR0bFZfYkVwRG04Z2doeC1qX05xQVNKUHFKelN1Y2VyZHhfZHY0R3pvWHFPZTVjT0hnWmsyaDN4aUZMRnhsV0ROemsxN0FUNGIzM2F6YUEtSG0tOUY4TC1YZ0FJcDJJdDcwUmk4azczOGhIOXZnVjR3em9KcnpxNThhYzJlTmF0WW5yNm0yNUp4ajBKcm8wY3BfM1hNS2NmbFVKTDluNFBGdGx4a0ZnT0RtMjRVU25aWklwQ0hELVg1OVJyeHBVWXRSR3p0WUp3NU1nNk9ibXlEZHJndjNVa1Q5X1FPZ3dtdUhTalEyTGFaaUJrejhWQzZEd2JOaklCWVVlekc3QS0wallPWUFqQTRSS05najJrOFhkRVhWdTJQS1JKcw?oc=5",
+  "id": "2026-11-01-ksa-5najjrofhkrvhwdtjqs1jkcw"
+ },
+ {
   "ts": "2026-11-01T19:25:00+03:00",
   "region": "yemen",
   "type": "report",
@@ -3068,17 +3079,6 @@
   "type": "official",
   "url": "https://english.alarabiya.net/News/saudi-arabia/2026/10/12/saudi-arabia-s-dammam-airport-attacked-drone-intercepted-in-eastern-province",
   "id": "2026-10-11-int-east-drone-night"
- },
- {
-  "kind": "other",
-  "region": "east",
-  "source": "هيئة الطيران المدني عبر العربية",
-  "summary": "الهيئة أكدت الاعتداء مساء الأحد وقالت إن الأضرار قيد التقييم، والتحالف ذكر سقوط مقذوف بمحيط المطار. لم تُذكر إصابات حتى الآن.",
-  "title": "اعتداء يستهدف مطار الملك فهد الدولي بالدمام",
-  "ts": "2026-10-11T20:00:00+03:00",
-  "type": "official",
-  "url": "https://english.alarabiya.net/News/saudi-arabia/2026/10/12/saudi-arabia-s-dammam-airport-attacked-drone-intercepted-in-eastern-province",
-  "id": "2026-10-11-dammam-airport"
  },
  {
   "drones": 0,
