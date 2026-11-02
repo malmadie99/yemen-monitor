@@ -1,5 +1,18 @@
 [
  {
+  "ts": "2026-11-02T22:08:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "intercept",
+  "source": "تحالف دعم الشرعية عبر صحيفة الشرق الأوسط",
+  "title": "المملكة: اعتراض صاروخ باليستي ومسيّرتين، مساء الاثنين",
+  "summary": "أعلن التحالف اعتراض وتدمير صاروخ باليستي وطائرتين مسيّرتين أُطلقت باتجاه السعودية.",
+  "url": "https://news.google.com/rss/articles/CBMijgVBVV95cUxOTmhZVERSQS1hMWJkUHdSaUVBVWM2Q1hBOEFXaFJYb25EWERGaFJrZl9TVXd4WGpfVWV4bWIwQU1fRnNrLWw4SVF3VEhpX09ndE13YkVfcG8zemkyZFVFVmRZZkhHNm9Hd0JuQVNlOGVSb2RNcEVmTG9qeGRJeFl1Vml4NzhfR0FhTHVEWTJUNW1UMkJBdEtXZVpDZmU3MXA3YlZsdUxBcVROMFlXSm43SDJ0UGlNQ2k3N2doRkg2YTB6YW0xczJ6allDUXN6b29aaFc0WVB0UDd1dU53YzAxNEpfODBzTUk1WEhzMTFDdmR0ZGpmOVFqR1Q5Q1EzNzFJUHVEUlRpeDN2bkhZVHEyTG54U1RwTEFzUTI2cDhNNHBLalpHSThyUUljd2JrOHN0aEVtWmw1RlM2Tl9objdKVXE2X0R1WEEwbTBpWU9DWnpRV2p4R0lEMWFSb20yQWxwR0lrYXVXSnF3RlEtRDI5bWJ4RTNsVlBEazhYZW9TVXdDNGRKOUdBOGVpcV9rXzJDeU4xOF9fSDBZN05lWC1saUY5UVp4Sm83RWFpY2Z6M0Via1VMdjhtWEtPRmZIUXB4WG4wSnpxMHRnelFjYm9BdVlIMm1LbVVmVDRHUGdTY3BiUkNhSDJCeVlNR3JtbHZlQjhvbU9XSEtPOU9lNFhxdmsyV2tBa3k4UXk2T2NFZDRIQUZWUlhocmMzNzhCV3dMMTRVeVFHclczXzl1TGU5WmI1cG5QM0JpRFhRa1lBY3c2NklDVnFReVJVRGtUYjlMUWpvOE9CTXptRnU0d1F3SUVOQjVDNURtWm44RHNxclFmY09mYWVvRGY5ZEVyZVVsc1RPU09QZXZZM2FhRGc?oc=5",
+  "missiles": 1,
+  "drones": 2,
+  "id": "2026-11-02-int-yzvvsc1rpu09qzxzzm2fhrgc"
+ },
+ {
   "ts": "2026-11-02T18:55:00+03:00",
   "region": "ksa",
   "type": "official",
@@ -3032,28 +3045,6 @@
   "type": "official",
   "url": "https://www.okaz.com.sa/local/saudi-arabia/2270545",
   "id": "2026-10-13-int-khamis-2missiles"
- },
- {
-  "kind": "other",
-  "region": "yemen",
-  "source": "القوات المسلحة اليمنية عبر العربية",
-  "summary": "حسب الجيش اليمني: قصف مدفعي وبالمسيّرات على تجمعات حوثية في مأرب، وغارات شرق الحزم بالجوف وعلى الجبهات الجنوبية والشمالية الغربية. لم تُذكر أرقام محددة للخسائر.",
-  "title": "الجيش اليمني يستهدف مواقع الحوثي في مأرب والجوف مساء الاثنين",
-  "ts": "2026-10-12T22:37:00+03:00",
-  "type": "report",
-  "url": "https://www.alarabiya.net/arab-and-world/yemen/2026/10/12/القوات-المسلحة-اليمنية-تستهدف-مواقع-وتحشيدات-الحوثيين-في-مارب-والجوف",
-  "id": "2026-10-12-yemen-marib-jawf-strikes"
- },
- {
-  "kind": "other",
-  "region": "ksa",
-  "source": "تصريحات الرئيس الأمريكي، صحيفة اليوم",
-  "summary": "الرئيس الأمريكي وصف هجوم الحوثي على مطار الملك خالد بأنه أمر فظيع، وقال إنه تحدث مع ولي العهد وإن تصرفات الحوثيين سيئة.",
-  "title": "ترامب يجدد إدانته لهجوم مطار الرياض مساء الاثنين",
-  "ts": "2026-10-12T22:30:00+03:00",
-  "type": "report",
-  "url": "https://www.alyaum.com/articles/6686667",
-  "id": "2026-10-12-trump-condemns-houthi"
  },
  {
   "drones": 0,
