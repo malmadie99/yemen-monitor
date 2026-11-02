@@ -1,5 +1,18 @@
 [
  {
+  "ts": "2026-11-02T18:22:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "intercept",
+  "source": "التحالف عبر صحيفة سبق الإلكترونية",
+  "title": "منطقة الرياض: اعتراض وتدمير طائرتين مسيّرتين، مساء الاثنين",
+  "summary": "أعلن تحالف دعم الشرعية عن اعتراض وتدمير طائرتين مسيّرتين في أجواء منطقة الرياض مساء اليوم الاثنين.",
+  "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQbGJoaC1Iblg4SkRXdW50bGZJRjlKV2tKYUNQLTNxU09aT3B5bk1lb1ZESzJ6RWl1OVhDaExfa0dtcDhnYWtyNEJjXzJNdEM2ZkVXQ0xpcHFaRVpYVTRfbi1nUnUzUE04T0NnbWVMb0hBOS1wM2xkbWJRTmNCMzlvcnFnbkVfR05WSFVxNm81ZDhRY1FrUWpiQ1JXNGlCbnhwVHEzY3BialF2MzkwZ0ExdlJlYXFHRG5CN010RzZEZ1RabE8yWU92MHZoMFpwLW5zT0g1YnRXMmoxbUQyWXkySHZEQ3NJdWNERkNJckpIa0doQnRlQ29CMVA4aU1PN0o2R0MzeWF4TWNqX3hBTjNFWERieXRwcEt6NElWQlRUYVlsTXd5TFU1RVpBUXBkTFdpXzdBQUpjdjZ5eVpQMGoxazJPU2FqZlZSM3VXSXNBQXl1OXp4NHozcmFqSXU2aXhPWjZ6MXY2X2gyRTRUV0Z5MEJZRnU4OGEwQ25NWlpVbGd2SFBHVWNLaEVGMFZaMk9lSl9kVFV3cXRNS2xRaE42YUthVVBQNzE2VkpacHJfaw?oc=5",
+  "missiles": 0,
+  "drones": 2,
+  "id": "2026-11-02-int-42yuthvvbqnze2vkpachjfaw"
+ },
+ {
   "ts": "2026-11-02T13:38:00+03:00",
   "region": "ksa",
   "type": "official",
