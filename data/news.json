@@ -1,5 +1,16 @@
 [
  {
+  "ts": "2026-11-02T13:38:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "other",
+  "source": "الدفاع المدني عبر صحيفة سبق",
+  "title": "نجران: إعلان زوال الخطر والتحذير من التجمهر، ظهر الاثنين",
+  "summary": "أفاد الدفاع المدني بانتهاء حالة الطوارئ وزوال الخطر في نجران، محذراً من التجمهر والتصوير.",
+  "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1Yb2RSem4xblJnRk4zZmZuS0ZBUW82MjBUWnJBakx1TGNUUFpTTDdfSVB3cXFmM2hLY0x2VWxNV3FsYm11MlJN?oc=5",
+  "id": "2026-11-02-ksa-m2hly0x2vwxnv3fsym11mljn"
+ },
+ {
   "ts": "2026-11-02T09:22:00+03:00",
   "region": "yemen",
   "type": "report",
@@ -9,6 +20,17 @@
   "summary": "أعلن الجيش اليمني تنفيذ 1272 عملية عسكرية أسفرت عن تحييد نحو 500 من عناصر الحوثيين، حسب الجيش اليمني.",
   "url": "https://news.google.com/rss/articles/CBMiigRBVV95cUxNQXgyd3FUS0RNWW96U2lDRmhXMUh2MHRqa3NTaUFqNmtxeGxGWXEwdEZDZ3NNdm5UVDl4dkx5UXNiMng2V0FBWDFHS2VLcm8zdjYzWF83UFFtRS1RcERwTW5oQjFUYzVkTDVNVXFhZHNEdjlCRW5OdW9hVWUydHlXNGhuUUdqQXlOUXFlbzJ1REJVelRPR2U1SGFuR0txTlNXbGhNZVlBT2hadEo0NldYWnJlc3dtMHBvV1RsY2pwV2JKem1CVUU4cktSTUxHV3ZCQTl6X3FZRzNDNU9WRUJkaUptcUZyb1BKZENPYTlXM3FOa1dwQ3J5QjlzTlY1SHFzOUlzUmlQSTI0WnRBaXV2RURJbVBUY1AtWlo2NmNYZTk5NGFNdDNDR1BlNl9GbDctSXBpTDBqMVB3YkxFek9iMkhZY3VrNWs4b2VyMkVnY2s3enlzMkZDVWQ1NXNteVF5eVFueGtURlU3Q3ltVHNDZS1IUFR0SFRJX1BjeTF2cTNBa0U0a0Iyd3FSN3RBNENKUXRfalgyVEhTWlVXVDVNQ0lONG9QWXFFcll3T21uSFpjbXJ3QVVGVG9qM1hoN0EtSzU4bXZ5SDZXZ2l0dmpIanBvR1lqY0VLRmNjQ3NQRkJRQ0xEejdGNk1QVFRWNHpIam8tWnBuYndsQXZhd253dXM0cUZYMkJ0Vnc?oc=5",
   "id": "2026-11-02-yemen-sqxzhd253dxm0cuzymkj0vnc"
+ },
+ {
+  "ts": "2026-11-02T09:09:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "other",
+  "source": "الدفاع المدني عبر صحيفة سبق",
+  "title": "المنطقة الجنوبية والغربية: زوال الخطر عن عدة مدن، صباح الاثنين",
+  "summary": "أعلن الدفاع المدني انتهاء حالة التنبيه وزوال الخطر في كل من أبها وخميس مشيط والطائف ونجران.",
+  "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5KLUM4bWN4X0dTMUhCdDRBMVJGTnRuYktzS0psMHJmUVkxeDR6RktuMEd5RVFTUFhHbzVvNlhyNWQ2OEw4dkpz?oc=5",
+  "id": "2026-11-02-ksa-ufhhbzvvnlhynwq2oew4dkpz"
  },
  {
   "ts": "2026-11-01T21:00:00+03:00",
@@ -3043,49 +3065,6 @@
   "type": "report",
   "url": "https://www.alarabiya.net/arab-and-world/yemen/2026/10/12/اليمن-ضبط-خلايا-ارهابية-حوثية-خططت-لتنفيذ-عمليات-في-عدم-ولحج-وابين0",
   "id": "2026-10-12-yemen-aden-cells"
- },
- {
-  "kind": "other",
-  "region": "yemen",
-  "source": "القوات المسلحة اليمنية عبر عكاظ",
-  "summary": "ضمن عملية «فجر اليمن» استهدفت الضربات مواقع وتعزيزات في تعز، ومعسكرًا قرب مطار صنعاء ومخزن صواريخ، ومنصة إطلاق في إب. أرقام الخسائر الحوثية الواردة من بيان القوات المسلحة ولم تُتحقق بشكل مستقل.",
-  "title": "الجيش اليمني يقصف مواقع حوثية في تعز وصنعاء وإب يوم الاثنين",
-  "ts": "2026-10-12T13:23:00+03:00",
-  "type": "report",
-  "url": "https://www.okaz.com.sa/politics/na/2270451",
-  "id": "2026-10-12-yemen-taiz-sanaa-strikes"
- },
- {
-  "region": "ksa",
-  "source": "الطيران المدني عبر العربية",
-  "summary": "هيئة الطيران المدني أعلنت الحصيلة بعد يوم من إعلان حصيلة الهجوم السابق.",
-  "title": "هجوم الأحد ١١ أكتوبر على مطار الرياض: وفاة مقيم وإصابة ١١",
-  "ts": "2026-10-12T12:00:00+03:00",
-  "type": "official",
-  "url": "https://www.alarabiya.net/saudi-today/2026/10/12/%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A-%D9%85%D9%82%D8%AA%D9%84-%D9%85%D9%82%D9%8A%D9%85-%D9%88%D8%A7%D8%B5%D8%A7%D8%A8%D8%A9-11-%D8%B4%D8%AE%D8%B5%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1-%D8%B9%D9%84%D9%89-%D9%85%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6",
-  "id": "2026-10-12-riyadh-airport-11"
- },
- {
-  "kind": "other",
-  "region": "yemen",
-  "source": "محافظ تعز عبر الشرق الأوسط",
-  "summary": "المحافظ نبيل شمسان حذّر من نقص الغذاء والدواء والوقود، وطالب بممرات إنسانية آمنة.",
-  "title": "محافظ تعز يطلب تحركًا دوليًا لكسر حصار الحوثي",
-  "ts": "2026-10-12T11:17:00+03:00",
-  "type": "official",
-  "url": "https://aawsat.com/node/5328613",
-  "id": "2026-10-12-yemen-taiz-siege"
- },
- {
-  "kind": "other",
-  "region": "ksa",
-  "source": "هيئة الطيران المدني عبر واس، والنوتام عبر رويترز",
-  "summary": "الهيئة قالت إن التمديد لاستكمال التحقق من سلامة المرافق والجاهزية التشغيلية بدون موعد محدد، ونشرة للطيارين (نوتام) تشير إلى استمرار الإغلاق حتى مساء الجمعة ١٧ أكتوبر.",
-  "title": "تمديد تعليق العمليات في مطار الملك خالد بالرياض يوم الاثنين",
-  "ts": "2026-10-12T11:09:00+03:00",
-  "type": "official",
-  "url": "https://www.spa.gov.sa/N2699111",
-  "id": "2026-10-12-riyadh-airport-suspension"
  },
  {
   "drones": 0,
