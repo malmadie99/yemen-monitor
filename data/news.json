@@ -3045,17 +3045,6 @@
   "id": "2026-10-12-int-riyadh"
  },
  {
-  "kind": "other",
-  "region": "ksa",
-  "source": "مسؤولون إقليميون عبر أسوشيتد برس",
-  "summary": "أسوشيتد برس نقلت عن مسؤولين إقليميين لم تسمّهم أن السعودية تحقق في سبب عدم اعتراض هجوم مطار الملك خالد، وأن المسيّرات استُخدمت لفتح الطريق للصواريخ. الأرقام التي ذكروها (١٣ وفاة على الأقل) غير رسمية، والحصيلة الرسمية ١٢ وفاة.",
-  "title": "تقرير: تحقيق سعودي في عدم اعتراض هجوم مطار الرياض يوم الاثنين",
-  "ts": "2026-10-12T17:47:00+03:00",
-  "type": "report",
-  "url": "https://www.pbs.org/newshour/world/saudis-probe-how-defense-systems-failed-to-stop-deadly-houthi-attack-on-riyadh-airport",
-  "id": "2026-10-12-air-defense-probe"
- },
- {
   "drones": 0,
   "kind": "intercept",
   "missiles": 1,
