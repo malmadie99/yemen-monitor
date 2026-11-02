@@ -1,6 +1,6 @@
 {
  "casualties": {
-  "houthiAsOf": "2026-11-01T19:25+03:00",
+  "houthiAsOf": "2026-11-02T09:22+03:00",
   "houthiDays": {
    "2026-10-10": 1550,
    "2026-10-11": 1150,
@@ -21,11 +21,12 @@
    "2026-10-29": 324,
    "2026-10-30": 336,
    "2026-10-31": 427,
-   "2026-11-01": 500
+   "2026-11-01": 500,
+   "2026-11-02": 500
   },
   "houthiNote": "محيَّد = قتيل أو جريح، حسب متحدث القوات المسلحة اليمنية (رقم من طرف واحد). المجموع = حصائله اليومية (24 ساعة) المعلنة من 10 إلى 24 أكتوبر؛ أيام العملية الأولى و22 أكتوبر ما لقيت لها أرقام رسمية، فالمجموع الفعلي أعلى.",
   "houthiUnit": "حوثي محيَّد (قتيل أو جريح)",
-  "houthiUrl": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5OeWF1UUVJcURWUlhpOTVJVVd6bE5oMkJ2TG1UelVXY2pMSlhWVDlxWkQtRWNwbGgzWmFRd01Tb2phT0pwRjA4?oc=5",
+  "houthiUrl": "https://news.google.com/rss/articles/CBMiigRBVV95cUxNQXgyd3FUS0RNWW96U2lDRmhXMUh2MHRqa3NTaUFqNmtxeGxGWXEwdEZDZ3NNdm5UVDl4dkx5UXNiMng2V0FBWDFHS2VLcm8zdjYzWF83UFFtRS1RcERwTW5oQjFUYzVkTDVNVXFhZHNEdjlCRW5OdW9hVWUydHlXNGhuUUdqQXlOUXFlbzJ1REJVelRPR2U1SGFuR0txTlNXbGhNZVlBT2hadEo0NldYWnJlc3dtMHBvV1RsY2pwV2JKem1CVUU4cktSTUxHV3ZCQTl6X3FZRzNDNU9WRUJkaUptcUZyb1BKZENPYTlXM3FOa1dwQ3J5QjlzTlY1SHFzOUlzUmlQSTI0WnRBaXV2RURJbVBUY1AtWlo2NmNYZTk5NGFNdDNDR1BlNl9GbDctSXBpTDBqMVB3YkxFek9iMkhZY3VrNWs4b2VyMkVnY2s3enlzMkZDVWQ1NXNteVF5eVFueGtURlU3Q3ltVHNDZS1IUFR0SFRJX1BjeTF2cTNBa0U0a0Iyd3FSN3RBNENKUXRfalgyVEhTWlVXVDVNQ0lONG9QWXFFcll3T21uSFpjbXJ3QVVGVG9qM1hoN0EtSzU4bXZ5SDZXZ2l0dmpIanBvR1lqY0VLRmNjQ3NQRkJRQ0xEejdGNk1QVFRWNHpIam8tWnBuYndsQXZhd253dXM0cUZYMkJ0Vnc?oc=5",
   "ksaAsOf": "2026-10-18T18:33:00+03:00",
   "ksaDeaths": 19,
   "ksaExtra": [
@@ -75,8 +76,8 @@
   "vehicleUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93RkxrekVTWVpLLWcza1NRTTNXLU1naEd4NkQ5Q3A3V3l4ZXZkbkFIWFlRY3ZVQ2hWeTJjOVpjamdRcWZvSHJIOGNFYldScXQzbzRR0gFTQVVfeXFMT3dGTGt6RVNZWkstZzNrU1FNM1ctTWdoR3g2RDlDcDdXeXhldmRuQUhYWVFjdlVDaFZ5MmM5WmNqZ1FxZm9Ickg4Y0ViV1JxdDNvNFE?oc=5"
  },
  "status": {
-  "lastRun": "2026-11-02T09:17:34+03:00",
-  "note": "ما فيه تطورات مهمة جديدة.",
-  "added": 0
+  "lastRun": "2026-11-02T09:24:48+03:00",
+  "note": "إضافة تحديث حصيلة عمليات الجيش اليمني صباح الاثنين.",
+  "added": 1
  }
 }
