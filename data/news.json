@@ -1,5 +1,27 @@
 [
  {
+  "ts": "2026-11-03T19:42:00+03:00",
+  "region": "ksa",
+  "type": "report",
+  "kind": "other",
+  "source": "العربية",
+  "title": "الجيش اليمني ينفذ 1,208 عملية استهداف وتحييد 370 حوثيا خلال 24 ساعة",
+  "summary": "نقلاً عن العربية.",
+  "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxNajRxWkhoaVVhMnhIa2hnWHJsRHk4Ym9NckFLclZMbnFUZ25RQVQ0anF6XzZFb2d2LW5YWGt1RzlDaVFOenJlWVBMWDJLRU5vRm1iR3Buc3R3V1lVY1lXS18wc2RyalZTckRGR2xFak8tRnZJRjQ0WGtXZUxQNTVzZElkQlpJQlBmZ1pUVVQwbGpnVUNSczhwZVNMQ3BUTnZPUndPRlhVYld5dzZiZ3BMSjRUdkVyeGZQZnNaanp3d1Y4bHI2MDljY0dwRlp6aGJST081a2dzYmFDSUNUNFZrbmp1VFJhS05DdkdxdEZYc0dpeVQ1QWdaMW5RWk9rTGJQeWNUNkI1WGJiYWFNTGlnM2RfNFppODliU1FBeGpnYTZLYzhyR2NqRjNlNmxPRU5pRXRwSEZnWDY3M1daemdhV0xJQmFReGxMdGlDWFl5T3RIQWhwSG5jeTZpMWlBN29JSDd0TDU3bS05dy0tUkliQTVBTGNXN0dsV3lrMUZkLVVDZndGZTVsZlNROXNqal84bnFZd1BPZndvQ0tRNjBKQmYxdW5vZUhSQ3BfZmZzbk1jSTk5VlRqZk85dl9rVGY5dzd5NG94S3RUVWFHSFluUS1MUEFIZWZZdENpY3ZYVGZiRXNteGs3X2dfN1lIVEUxQ3hQOXB0OUs4QdIB-gNBVV95cUxNajRxWkhoaVVhMnhIa2hnWHJsRHk4Ym9NckFLclZMbnFUZ25RQVQ0anF6XzZFb2d2LW5YWGt1RzlDaVFOenJlWVBMWDJLRU5vRm1iR3Buc3R3V1lVY1lXS18wc2RyalZTckRGR2xFak8tRnZJRjQ0WGtXZUxQNTVzZElkQlpJQlBmZ1pUVVQwbGpnVUNSczhwZVNMQ3BUTnZPUndPRlhVYld5dzZiZ3BMSjRUdkVyeGZQZnNaanp3d1Y4bHI2MDljY0dwRlp6aGJST081a2dzYmFDSUNUNFZrbmp1VFJhS05DdkdxdEZYc0dpeVQ1QWdaMW5RWk9rTGJQeWNUNkI1WGJiYWFNTGlnM2RfNFppODliU1FBeGpnYTZLYzhyR2NqRjNlNmxPRU5pRXRwSEZnWDY3M1daemdhV0xJQmFReGxMdGlDWFl5T3RIQWhwSG5jeTZpMWlBN29JSDd0TDU3bS05dy0tUkliQTVBTGNXN0dsV3lrMUZkLVVDZndGZTVsZlNROXNqal84bnFZd1BPZndvQ0tRNjBKQmYxdW5vZUhSQ3BfZmZzbk1jSTk5VlRqZk85dl9rVGY5dzd5NG94S3RUVWFHSFluUS1MUEFIZWZZdENpY3ZYVGZiRXNteGs3X2dfN1lIVEUxQ3hQOXB0OUs4QQ?oc=5",
+  "id": "2026-11-03-ksa-dfn1liveuxq3hqoxb0ous4qq"
+ },
+ {
+  "ts": "2026-11-03T19:32:00+03:00",
+  "region": "ksa",
+  "type": "report",
+  "kind": "other",
+  "source": "عكاظ",
+  "title": "الجيش اليمني: نفذنا 1208 استهدافات وقتلنا وأصبنا 370 حوثياً",
+  "summary": "نقلاً عن عكاظ.",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kdHNwZUxQalVMVmtmQk9paU9xWWxRNGpnTEdpR0haWnQwLXdKVnhwemhwMTFKak45SF9lQW1mZWNneVpYZDNpTkpZcXprYWEwdzBBZzh3?oc=5",
+  "id": "2026-11-03-ksa-zdnptkpzcxprywewdzbbzzh3"
+ },
+ {
   "ts": "2026-11-03T16:56:00+03:00",
   "region": "ksa",
   "type": "claim",
@@ -2968,50 +2990,6 @@
   "type": "official",
   "url": "https://www.okaz.com.sa/local/na/2270676",
   "id": "2026-10-13-int-dhahran-harad"
- },
- {
-  "kind": "other",
-  "region": "ksa",
-  "source": "وزارة الداخلية",
-  "summary": "وزارة الداخلية نبّهت إلى أن تصوير أو نشر أو تداول أي معلومات أو مقاطع عن التصدي للصواريخ والمسيّرات أو مواقع سقوطها يعرّض صاحبه للمساءلة النظامية.",
-  "title": "الداخلية تحذر من تصوير ونشر مواقع الاعتراض مساء الثلاثاء",
-  "ts": "2026-10-13T21:22:00+03:00",
-  "type": "official",
-  "url": "",
-  "id": "2026-10-13-interior-filming-warning"
- },
- {
-  "kind": "other",
-  "region": "east",
-  "source": "الدفاع المدني عبر اليوم",
-  "summary": "الدفاع المدني أطلق إنذارًا عبر المنصة الوطنية للإنذار المبكر في المنطقة الشرقية قرابة التاسعة مساء الثلاثاء، ثم أعلن زوال الخطر نحو ٩:١٧ مساءً. التحالف أعلن لاحقًا اعتراض صاروخ باتجاه الظهران (الخبر المنفصل).",
-  "title": "إنذار مبكر في المنطقة الشرقية مساء الثلاثاء ثم زوال الخطر",
-  "ts": "2026-10-13T21:00:00+03:00",
-  "type": "official",
-  "url": "",
-  "id": "2026-10-13-east-alert-evening"
- },
- {
-  "kind": "other",
-  "region": "yemen",
-  "source": "رئيس مجلس القيادة الرئاسي اليمني رشاد العليمي",
-  "summary": "رئيس مجلس القيادة الرئاسي اليمني شكر المملكة على دعمها لاستقرار اليمن، وقال إن هجمات الحوثي على السعودية تضر بمصالح اليمنيين.",
-  "title": "العليمي يثمّن الدعم السعودي لاستقرار اليمن مساء الثلاثاء",
-  "ts": "2026-10-13T20:50:00+03:00",
-  "type": "official",
-  "url": "",
-  "id": "2026-10-13-yemen-alimi-saudi-role"
- },
- {
-  "kind": "other",
-  "region": "yemen",
-  "source": "المتحدث باسم التحالف العميد تركي المالكي",
-  "summary": "أعلن المتحدث باسم التحالف أن العملية استهدفت محطة الصباحة المركزية ومخازن وخزانات وقود احتياطية تحت الأرض في صنعاء، إضافة إلى أرصفة تحميل وتفريغ الوقود في الحديدة وصنعاء وذمار، وقال إنها تُستخدم لتغذية المجهود الحربي للحوثي. لم يذكر البيان حصيلة أو إصابات، وقال إنه اتخذ الاحتياطات لتجنب المدنيين.",
-  "title": "التحالف يعلن عملية على محطة الصباحة بصنعاء ومرافئ وقود في الحديدة وذمار مساء الثلاثاء",
-  "ts": "2026-10-13T20:43:00+03:00",
-  "type": "official",
-  "url": "",
-  "id": "2026-10-13-yemen-sanaa-sabaha-strike"
  },
  {
   "drones": 3,
