@@ -3034,17 +3034,6 @@
   "id": "2026-10-13-yemen-lahij-amalqa"
  },
  {
-  "kind": "other",
-  "region": "yemen",
-  "source": "قناة المسيرة التابعة للحوثي، نقلًا عن أسوشيتد برس",
-  "summary": "غير مؤكد: إعلام الحوثي تحدث عن غارات على جزيرة كمران ومديرية القناوص شمال غرب الحديدة ومناطق في الجوف وعمران، وادّعى إسقاط مسيّرة فوق صعدة. لم يصدر تعليق سعودي، ولم تُذكر إصابات.",
-  "title": "الحوثي يقول إن غارات استهدفت كمران والقناوص بالحديدة والجوف فجر الثلاثاء",
-  "ts": "2026-10-13T03:25:00+03:00",
-  "type": "claim",
-  "url": "https://www.wsls.com/news/world/2026/10/13/houthi-rebels-say-multiple-airstrikes-targeted-them-in-yemen-and-other-mideast-developments/",
-  "id": "2026-10-13-yemen-houthi-claim-strikes-hodeidah"
- },
- {
   "drones": 0,
   "kind": "intercept",
   "missiles": 2,
