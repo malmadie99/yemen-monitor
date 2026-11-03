@@ -13,6 +13,28 @@
   "id": "2026-11-03-int-ubl9quuvvmtl6vxvkyncycxc"
  },
  {
+  "ts": "2026-11-03T11:27:00+03:00",
+  "region": "east",
+  "type": "official",
+  "kind": "other",
+  "source": "sabanew.net",
+  "title": "التحالف: اعتراض وتدمير 4 طائرات مسيّرة أُطلقت باتجاه المنطقة الشرقية في السعودية",
+  "summary": "نقلاً عن sabanew.net.",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xU1cteXVOX2NScmQzMXh5cFZlYi15SlU1OUFGYWN0eDU0bnFjOHZtN2RlQmswRTl6Z1FjczZETHpOX1JhV0dIeFcxZmtKTE9HOWY4c1Nn?oc=5",
+  "id": "2026-11-03-east-v0diefcxzmtkte9howy4c1nn"
+ },
+ {
+  "ts": "2026-11-03T11:19:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "other",
+  "source": "sabanew.net",
+  "title": "التحالف: اعتراض وتدمير 4 طائرات مسيرة بمنطقتي الرياض والمدينة المنورة",
+  "summary": "نقلاً عن sabanew.net.",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04UlVHUUt0QzloeHRFcG10YzE4VjdoeVlseEdfUUtaUlE1SERCMXdyQWtkMm5JZWRta0ljRUNoM00xX0NZZERtNE5NUWoyUDgwZzFhVDB3?oc=5",
+  "id": "2026-11-03-ksa-zertne5nuwoyudgwzzfhvdb3"
+ },
+ {
   "ts": "2026-11-02T22:08:00+03:00",
   "region": "ksa",
   "type": "official",
