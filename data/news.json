@@ -11,6 +11,17 @@
   "id": "2026-11-03-ksa-ttdlsufd6chdlum41cla1awc"
  },
  {
+  "ts": "2026-11-03T22:07:00+03:00",
+  "region": "east",
+  "type": "report",
+  "kind": "other",
+  "source": "جريدة الرياض",
+  "title": "اعتراض وتدمير طائرة مسيّرة بالمنطقة الشرقية",
+  "summary": "نقلاً عن جريدة الرياض.",
+  "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1QRXZpZ1NZd3pGN25nTGJkQmZjZXJTQmItb0k0RFNEeDJlTjVkZ3dXVThNUnEwaGVuTFgycmpReU1UcFlhQXNv?oc=5",
+  "id": "2026-11-03-east-agvutfgycmpreu1ucflhqxnv"
+ },
+ {
   "ts": "2026-11-03T20:41:00+03:00",
   "region": "east",
   "type": "official",
