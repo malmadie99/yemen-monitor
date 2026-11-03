@@ -2990,17 +2990,6 @@
   "id": "2026-10-13-yemen-plc-collaboration-warning"
  },
  {
-  "kind": "other",
-  "region": "ksa",
-  "source": "المتحدث العسكري للحوثي يحيى سريع، عبر يورونيوز عربي",
-  "summary": "غير مؤكد: بعد إنذار التحالف بإخلاء محطة الصباحة في صنعاء، دعا متحدث الحوثي العاملين والسكان قرب أي منشأة لأرامكو إلى الابتعاد عنها واعتبرها أهدافًا. هذا تهديد ولم يُعلن عن أي هجوم مرتبط به حتى الآن.",
-  "title": "الحوثي يهدد منشآت أرامكو ردًا على إنذار صنعاء يوم الثلاثاء",
-  "ts": "2026-10-13T15:38:00+03:00",
-  "type": "claim",
-  "url": "https://arabic.euronews.com/2026/10/13/coalition-forces-order-civilians-to-evacuate-al-sabaha-oil-facility-in-sanaa-houthis",
-  "id": "2026-10-13-houthi-claim-aramco-warning"
- },
- {
   "drones": 3,
   "kind": "intercept",
   "missiles": 0,
