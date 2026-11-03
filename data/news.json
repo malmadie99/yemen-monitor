@@ -1,5 +1,16 @@
 [
  {
+  "ts": "2026-11-03T16:56:00+03:00",
+  "region": "ksa",
+  "type": "claim",
+  "kind": "other",
+  "source": "جماعة الحوثي عبر وكالة الأناضول",
+  "title": "أبها وخميس مشيط: ادعاء حوثي باستهداف المطار والقاعدة الجوية، عصر الثلاثاء",
+  "summary": "زعم المتحدث العسكري باسم الحوثيين تنفيذ هجمات على مطار أبها وقاعدة الملك خالد الجوية بخميس مشيط (غير مؤكد).",
+  "url": "https://news.google.com/rss/articles/CBMitgRBVV95cUxQSS1TNnJLbGQ1UUw5TEVQTEd6Tm5xMjZmOWlFaU5wY29JZ0kyX0N0T29sSmFMYkFPR042VnI3YVljanN1WHVoWHgtSUdEQzNzY1EtUEMtczJYaG1naUgzY3JGTTRnRkJIbTBEblZLbjYwOVBENGVObFhPa1FIa1pZcGlqbHoyV2NrS2lybjAyVEs5QmVPcTFIUV9vakRhWkk0Z3g1dGY0bS1iQm1TckRBLVFqbWdJUWlDbjFFVUNHTm1Nb2ZGeWJ4MGFITTRFNW1GaUZBbU5XMHZ0YUE3LUMyWXF5dWhkbFBibjY0NzhBWTA3NlNiNk44QnVnQVJYN2J2cWo2WGR3LUpPV0N2ZUhrUEhuUmJ0WEt0emNsdnlBSWpfR3RnTnp1dlZtRHNaQm12WVpFX0ZyN251TndmbzlsN25weUZ3Z0o2Zi00ODR5VFpnRFNXZzJRU2dmNFN6YjBUU1VxZ3pzaXZRanFORktwcHRRRnFfb2d6aGpPMzhIdjhuOG10cWRYZjZQbzdFSVBUSXFNd3JlNnBXTEJjcGtuLV9UYy14dXZ2aFVoOGNTUk90WDMxSEhMdWZpN05lZ212eXE1R3lIODc5RkU1XzlmXzcxaE9UTWY3VUdOYk83UU5xa0JPR0FxdFA5dHhQSGRRWDhOYU5tby1VZWpmZU5HMjM5MkRQbm9Xb2JIT1BOTHpmQkxBcl9LZEI3bWs2NVN3TE94eWRhUTg1SFFTTFdNRU9WV0Jrdw?oc=5",
+  "id": "2026-11-03-ksa-rhutg1sffttfdnru9wv0jrdw"
+ },
+ {
   "ts": "2026-11-03T13:08:00+03:00",
   "region": "ksa",
   "type": "official",
@@ -44,6 +55,19 @@
   "summary": "نقلاً عن sabanew.net.",
   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iVUZ1a3JuaDVXUFFQOGVmVW8xLXpSZlFCRnhubXR1REZkeVNaWUkxWW14cGhESHRNM3VmX1VPREFySXRFc2xxbFNrNGtpS3NUOFhsV2JB?oc=5",
   "id": "2026-11-03-ksa-c2xxbfnrngtps3nuofhsv2jb"
+ },
+ {
+  "ts": "2026-11-03T11:23:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "intercept",
+  "source": "تحالف دعم الشرعية عبر وكالة سبأ",
+  "title": "الرياض وخميس مشيط: اعتراض 3 صواريخ باليستية، ظهر الثلاثاء",
+  "summary": "أعلن تحالف دعم الشرعية اعتراض وتدمير ثلاثة صواريخ باليستية أطلقتها الميليشيا الحوثية باتجاه الرياض وخميس مشيط.",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5icHgxM2Zjck9xSEh0VEY0MUZZRzBwWC0xT29zZTIxdEJSaFk0TzF5N2x5SDBJS0dZaFo5bkpReElrX1ljS2lLc0NwcFlnaXphZk00eWxR?oc=5",
+  "missiles": 3,
+  "drones": 0,
+  "id": "2026-11-03-int-s2llc0nwcflnaxphzk00ewxr"
  },
  {
   "ts": "2026-11-03T11:21:00+03:00",
