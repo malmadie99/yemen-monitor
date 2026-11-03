@@ -1,5 +1,18 @@
 [
  {
+  "ts": "2026-11-03T12:26:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "intercept",
+  "source": "تحالف دعم الشرعية عبر وكالة الأنباء السعودية",
+  "title": "منطقة مكة المكرمة: اعتراض وتدمير طائرة مسيّرة، ظهر الثلاثاء",
+  "summary": "أعلنت قوات تحالف دعم الشرعية في اليمن عن اعتراض وتدمير طائرة مسيّرة جرى إطلاقها باتجاه منطقة مكة المكرمة.",
+  "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5JbzZRV2RGaU9qR0h2a3g4V0N0MklSSlFtNGVQNFJORlkzOE55UjBGSTFSVU5Ubl9QUUVVMTl6VXVKYncycXc?oc=5",
+  "missiles": 0,
+  "drones": 1,
+  "id": "2026-11-03-int-ubl9quuvvmtl6vxvkyncycxc"
+ },
+ {
   "ts": "2026-11-02T22:08:00+03:00",
   "region": "ksa",
   "type": "official",
@@ -2999,17 +3012,6 @@
   "type": "report",
   "url": "https://www.okaz.com.sa/politics/na/2270595",
   "id": "2026-10-13-yemen-ocha-taiz-displacement"
- },
- {
-  "kind": "other",
-  "region": "yemen",
-  "source": "مكتب حقوق الإنسان بتعز والشبكة اليمنية للحقوق، عبر الشرق الأوسط",
-  "summary": "تقارير حقوقية ومكتب حقوق الإنسان بتعز أفادت بمقتل ٥ إلى ٦ مدنيين وإصابة نحو ١٧ خلال ٢٤ ساعة، وقذيفة أصابت مستشفى الصفوة وسط المدينة فجر الثلاثاء وأصابت شخصًا. الطريق هو منفذ الإمداد الرئيسي للمدينة.",
-  "title": "الحوثي يقطع طريق تعز–التربة وسقوط مدنيين بالقصف",
-  "ts": "2026-10-13T12:16:00+03:00",
-  "type": "report",
-  "url": "https://aawsat.com/node/5329056",
-  "id": "2026-10-13-yemen-taiz-road"
  },
  {
   "drones": 0,
