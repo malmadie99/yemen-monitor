@@ -1,5 +1,16 @@
 [
  {
+  "ts": "2026-11-05T18:31:00+03:00",
+  "region": "east",
+  "type": "official",
+  "kind": "other",
+  "source": "https://www.sabanew.net/",
+  "title": "التحالف: اعتراض وتدمير طائرة مسيّرة بالمنطقة الشرقية في السعودية",
+  "summary": "نقلاً عن https://www.sabanew.net/.",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Mb3ZYdTBPbmdvb09lRDNWdEpzV3pWRHlQUjFBWHNhSmliQnQ4Vmc4dVFocHVRdW14Nnd4VXBpNjJoeWJpamlMMnpmY2JBMXBC?oc=5",
+  "id": "2026-11-05-east-njjoewjpamlmmnpmy2jbmxbc"
+ },
+ {
   "ts": "2026-11-05T14:23:00+03:00",
   "region": "yemen",
   "type": "report",
