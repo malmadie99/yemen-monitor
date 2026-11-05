@@ -1,5 +1,40 @@
 [
  {
+  "ts": "2026-11-05T13:15:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "intercept",
+  "source": "التحالف عبر صحيفة الشرق الأوسط",
+  "title": "المدينة المنورة: اعتراض وتدمير صاروخ باليستي، ظهر الخميس",
+  "summary": "أعلن التحالف اعتراض وتدمير صاروخ باليستي أطلقته الميليشيات الحوثية باتجاه المدينة المنورة.",
+  "url": "https://news.google.com/rss/articles/CBMizwVBVV95cUxOWHBwOENiTFpYT3BybVRldmhwSzBvZ3hXUV9mMzZCVUN0NTZBeEVkUGVxcDNWX0NOR1pORGxHcG1tQXZMR1UzaWlyYjF4bkJ6OWRZMXpubGdOTUk2RklLVkdZbkNRQjROVFFFSlpsajFrcDNvU25ja05SZEZveEd4RXNIdUxSWVhnVkVaTmt2ekpOVzNpMkxfR2dYVm16Y1NwS2t6Sy05T01GSS1oTGZfWnZiQlFkX1RIeHo4Qjg1WmxlZkhMYTVLNjlyTnBWdDB2dC1PYjRXVkkxRTFRSXlqWnFXcHNJVmlKS2Q4cW1icWVoYVU4Q0lNdnpuVmNuUnpRcG5TclAyMUIzU21xdVc0Yk9BN2lxLVItTGJKUnV5clk0N1BFY29fNE12TXVsNUtwS1ZBbFV5Q2h3TnQ3LVpVUG5tTGMxZmx3UVNwNGhkVTdRbzgyYkJGNzZvLS1YV3hWcWVHOV9fZnB6SDZjUzVXUkJ5UC1ETHRSUGRBdEtQSnBPT2JhSWR6ekZxOC15aGFYNzNHYWFpWjA5emY2Z0JyRTZTeFNtbzkyR1ktUjhCZThNUFlQcWJHS0RkTlo1eTRldnFpR1hJNUotLS01Z3BFTUo2ZTJ6VldhR1Z1N1V6M2xQQnpuVDBiMWQyQ3NsamVJbDF6V3pZT09QN0R0MVAzZ1VseFI4Ml9XU252MDF4akRhODFPb0Z3ZTdPNmgtRVM5LUMxMFN0LXRxdDVYRXVVdlFiLTFLUmdGaG14TW5kUEQwZWpmNkxNUlRmazN6UzRvMjB5X2dwOWc2SUdoblByb3B1NzctOEJvcmFld251Z2JOUXQ5M2E5YWFOT1QtYlNFUWVkaXJvampIZUhsUkxOWHY2Nm1YZnRWV1laQUJ6QnhTM1h2dUN0V1VPTkZENmxoZUJOMWNfVzRwRVZkVFRUNDV3blBhMlF6T2h6QVdTcw?oc=5",
+  "missiles": 1,
+  "drones": 0,
+  "id": "2026-11-05-int-rundv3blbhmlf6t2h6qvdtcw"
+ },
+ {
+  "ts": "2026-11-05T12:35:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "other",
+  "source": "الدفاع المدني عبر صحيفة سبق",
+  "title": "ينبع: إعلان زوال الخطر في المحافظة، ظهر الخميس",
+  "summary": "أفاد الدفاع المدني بزوال حالة الخطر عن محافظة ينبع، مؤكداً استقرار الأوضاع الميدانية.",
+  "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBHX0FHLVl4bUFPTjAtb0xDeFNiR2ZOQmh5QUVFdHh5UVBuRVNmTFJmMXlEWlVaZ2RVRkhhZHRURkxnZ1MtMVJZ?oc=5",
+  "id": "2026-11-05-ksa-z2rvrkhhzhrurkxnz1mtmvjz"
+ },
+ {
+  "ts": "2026-11-05T11:34:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "other",
+  "source": "الدفاع المدني عبر وكالة الأناضول",
+  "title": "نجران: إعلان زوال الخطر بعد إنذارين، صباح الخميس",
+  "summary": "أعلنت مديرية الدفاع المدني انتهاء حالة الخطر في منطقة نجران بعد إطلاق تنبيهين للإنذار المبكر.",
+  "url": "https://news.google.com/rss/articles/CBMiigRBVV95cUxNa3VfUzZYZHRFd2NMSTVtMDhWLVZhSnBxM0VRV3hWQWt5WXhYUWczUkVEZmhJWUpoaGZKUUZvajktaThPekpMVlowWlczSjA4b0ZyeFFxOXlGZFA5QWFCT0VMb01laFVwa0NqdGtFVEg5NmRlU2FYcmdRNDc2Qmw4ZVZ1YWt1NDlSNlRNaXZ5eTJEa0UyMnU0Sk4zS1Q2VnloZ21DV1FqRjZXblJxSlg0eUxhWnZxSjlia25qMDBYVFkzOE9yY3hPcENFVFUteGdWYUFacmdaYkNDLWtta0lBY1dGOXUzQ3lSYi13cnZIRVpmX29aaEdxREp6elJRd3Y2UllNVXkwODBiLXVfSVVFRWp4S2VuM2RFaGhNMWpCNkdiX1QwdHVGSlQ3SGdadHhzMWN0WldOcFI0bENHa1NHQ2w5UnU1Z0dCWXVwSGlaS1BManNVLXVnc3NhVG5xVTFzSkVJM0c1S0hNRG44WU9sblVzdXBBNFlUb3VuSXIyT0VxeHQ0bE5IczNwRXVzU0dra1NGZUJsV1dxN3lLNTJtaUFPbGE4RndJdXRlOXM0Zm5MYmtxSEpqdGgyMUpKdW1hczlEMVQtenJjd3FKX2t0SmhCM3hhUUZwOHRZamw1cElKeHR5X1psOFllTEtBb0hiVFpJa2R2ZXpNRmNRWVBkVGFWVDNLSWVvWEE?oc=5",
+  "id": "2026-11-05-ksa-nrmnrwvbkvgfwvdnlswvvwee"
+ },
+ {
   "ts": "2026-11-05T10:47:00+03:00",
   "region": "ksa",
   "type": "official",
@@ -2787,17 +2822,6 @@
   "type": "report",
   "url": "https://www.okaz.com.sa/politics/na/2270909",
   "id": "2026-10-15-yemen-lahij-giants-11th-brigade"
- },
- {
-  "kind": "other",
-  "region": "yemen",
-  "source": "الجيش اليمني (محور تعز) عبر الأناضول",
-  "summary": "حسب الجيش اليمني، تصدّت قواته لهجوم شنّه الحوثيون على جبل هان الاستراتيجي غربي مدينة تعز، وسط استمرار المواجهات على جبهات المحافظة. لم يصدر تأكيد مستقل للتفاصيل.",
-  "title": "تعز: الجيش اليمني يعلن صد هجوم حوثي على جبل هان يوم الخميس",
-  "ts": "2026-10-15T12:00:00+03:00",
-  "type": "report",
-  "url": "https://www.aa.com.tr/ar/%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D9%8A%D9%85%D9%86%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D8%B5%D8%AF-%D9%87%D8%AC%D9%88%D9%85-%D9%84%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%8A%D9%86-%D8%B9%D9%84%D9%89-%D8%AC%D8%A8%D9%84-%D9%87%D8%A7%D9%86-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A-%D9%81%D9%8A-%D8%AA%D8%B9%D8%B2/4089368",
-  "id": "2026-10-15-yemen-taiz-jabal-han"
  },
  {
   "drones": 0,
