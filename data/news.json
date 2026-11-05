@@ -1,5 +1,16 @@
 [
  {
+  "ts": "2026-11-05T21:11:00+03:00",
+  "region": "east",
+  "type": "claim",
+  "kind": "other",
+  "source": "جماعة الحوثي عبر وكالة الأناضول",
+  "title": "المنطقة الشرقية: ادعاء حوثي باستهداف مطار، مساء الخميس",
+  "summary": "ادعت ميليشيا الحوثي استهداف مطار بالمنطقة الشرقية وتعطيل حركة الملاحة فيه (غير مؤكد).",
+  "url": "https://news.google.com/rss/articles/CBMitwRBVV95cUxPa3BOV3R0Vmx3Y0IxeFNjbEZ6WUhZbUZ1QTFxTlUwNl9NYmZfMnZOcTVyUXdoVDFVRjJMRkp5aWlrSkNXVVFfWlBETmxHSkJOX2xLczBDMEljR3FDM2tTcDNxOGx1M3BRNmlLbWM2WlVYdUhRakEyQVVVQ0xmT2ZvQXhJam5QMFpaT211eVJsM29RZUIyc0tOS2ladng0NWl0NHpFVnctWXlURm9JODVTeXcyQk4tM2s3MWhHYk5yWlNicFFqM3pPSWU2aUVVVkxKVXJLVXU5VFZreWp5Ung4NTdRZ3pxTjIxTG9UQkRaYW9Qc3d5dVBjZUxxSEItUmsyLTBZX2xWRlZOR1d1bVFUZ0tUZFE2eWx2X3pDR09HcnNxUWJwbzZQQjNnMkljZVJOWVhHa19KZFpsdWxVNS1QTE1OM1RpMWZ5WGpHcV9YQlVZN3ZhMGhOWWNzTUNucTRrZ2hTbThEY084bmthQm9jR0UxUGNsbTR0RHFlLUYxWG1ZUE1ITGVGaDdYWWlDNTNseWJwdjRWdk54SlZLUndTVzhGNlRSXzFOODE2VUM2OHRZYWc4S25TbG9DZFZyRU9hNndkd1VQYV9DRWlLVVJLUjVUV2UyT1VHeXBCODRZWklKQTZEakV5dGFTYVBDWWVpTkFwc2h4UWhEX3BxZ1puaHpBdGZEaWVMdWdTRWpwa0ttRHhHUzMtMXE5Z1pvU2xZUUxuY3N0ZG5Bc05kSHdVbngxcHUwUmc?oc=5",
+  "id": "2026-11-05-east-0zg5bc05kshdvbngxchuwumc"
+ },
+ {
   "ts": "2026-11-05T18:57:00+03:00",
   "region": "yemen",
   "type": "report",
@@ -20,6 +31,17 @@
   "summary": "نقلاً عن https://www.sabanew.net/.",
   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Mb3ZYdTBPbmdvb09lRDNWdEpzV3pWRHlQUjFBWHNhSmliQnQ4Vmc4dVFocHVRdW14Nnd4VXBpNjJoeWJpamlMMnpmY2JBMXBC?oc=5",
   "id": "2026-11-05-east-njjoewjpamlmmnpmy2jbmxbc"
+ },
+ {
+  "ts": "2026-11-05T18:24:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "other",
+  "source": "الدفاع المدني عبر صحيفة الشرق الأوسط",
+  "title": "السعودية: إعلان زوال الخطر في 10 مدن، مساء الخميس",
+  "summary": "أعلنت الجهات المختصة رفع تنبيهات الطوارئ وزوال حالة الخطر في 10 مدن سعودية بعد إطلاق الإنذار المبكر.",
+  "url": "https://news.google.com/rss/articles/CBMi3ARBVV95cUxNaWY4NWxzc2FUTzQ4dk9VTVZkUU9wR0RIaXdnaVZGUEV3RG96eV9SZzZEaUxwZDd4SDhGdUVsek1neFdYYTJlYm96M2FGcTQyZGN0VVRBZFNJSUt2QTVHRl92ZWtaUWpFTkZ5eWtEaFRDMHVuX2FFdE5Tcm51MTFXX0VEQjFmVVdIalVsTWJTR056Z3pBM1FheWpTMUczX1Q5cHFDcS1KeVlmMWVHWjlFU1BEOXZSMXJ1a0UtWWhfYUNCbGZNYjdZTHR4aFdqZW9UU2N4aFN0R2JRZ1BNVGFPaHFNeVpudVQ3TUQ1THY1Y0ZZSHdLam9CN0I4VG5uUWNxbTFoUnpFUEZ6NDZYZW5BaU5pRUdoNlN6RnBYM0FaaExjS0JwT0ZXZlZXRVZJb2ZHbTYzTzNkR1Exc2JUR2RFOTJOWDZSb1laSG5IYzI3Rnc1MU5ESXdtQkdEZGQ1SklSSVgxSkdHS0Z0cm9UOTJsN2kyV3lJVTBJNHdKUllZa3RWc0lkMEgwa2M1dWRQZ3p3dHJzeU1kdG5Tc25EM0VVOGJ0bldCMllGUWhPTGx1M3VWQnluTmlKVUdYQWFGTmVibUNhUVJXRVRPTmtsalpLZDhQckZMTlBYWHNFeHhmNVNxcXFuT1hFZl9JRDV4VWtYcjRiR3E3ZVBaaW5UQm1ZUlZZWk9zaTktMHNRQjF4ZlN2eG80N25GQjliZkxtMktYVlJmanNjODQ2YWFHQktEdTdoeTlKNEtlN3B4Y0VXaGNHUDNfcF9GNmczQW5DNnFsZjVOZEJ6SDFVbXJh?oc=5",
+  "id": "2026-11-05-ksa-qw5dnnfszjvozej6sdfvbxjh"
  },
  {
   "ts": "2026-11-05T14:23:00+03:00",
@@ -2811,17 +2833,6 @@
   "type": "official",
   "url": "",
   "id": "2026-10-15-int-south-drone-evening"
- },
- {
-  "kind": "other",
-  "region": "yemen",
-  "source": "مجلس الوزراء اليمني",
-  "summary": "بعد استهداف قصر معاشيق، أكد مجلس الوزراء اليمني أن عدن ستبقى مقر مؤسسات الدولة وأن الهجمات لن تعطّل الحياة العامة، وأن مستقبل البلاد لن يكون رهينة للحوثي.",
-  "title": "الحكومة اليمنية: عدن تبقى مقرًا لمؤسسات الدولة رغم استهداف معاشيق، مساء الخميس",
-  "ts": "2026-10-15T19:41:00+03:00",
-  "type": "official",
-  "url": "",
-  "id": "2026-10-15-yemen-cabinet-aden-statement"
  },
  {
   "drones": 0,

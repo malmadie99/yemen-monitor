@@ -1,6 +1,6 @@
 {
  "casualties": {
-  "houthiAsOf": "2026-11-05T18:57+03:00",
+  "houthiAsOf": "2026-11-05T20:16+03:00",
   "houthiDays": {
    "2026-10-10": 1550,
    "2026-10-11": 1150,
@@ -28,7 +28,7 @@
   },
   "houthiNote": "محيَّد = قتيل أو جريح، حسب متحدث القوات المسلحة اليمنية (رقم من طرف واحد). المجموع = حصائله اليومية (24 ساعة) المعلنة من 10 إلى 24 أكتوبر؛ أيام العملية الأولى و22 أكتوبر ما لقيت لها أرقام رسمية، فالمجموع الفعلي أعلى.",
   "houthiUnit": "حوثي محيَّد (قتيل أو جريح)",
-  "houthiUrl": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9pNWUwdkhfanBsNlF2QU5TeExLTlZzcFBZVkl3Qm9PdjZfQlVRTVZZeV9CWC1qZWE4QV95S3B4MzZPM2NnNTkw?oc=5",
+  "houthiUrl": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxOdnQxUmF0a1BiRHpDbE5kMlVpSXlrREhmSlR1dzVNeVA2MG1ELU1mcWJOYmxOU0p0dno5WllHUjFROUl2WnAtUzlSM1NYYzQ2UTQxbmo4aEhwVE53ZS1mWHlQZ0I0Y0NfeHM0OERXTDEyQll4bFBYaGduLVE4dTZGQkZYQWgyUUI4cy11SDNXWlEtX3NiWi1YYTV4aEdJUEx2bVFQTzNrdnBVaUlvNVhsY2hhTGpYSzYzMUx4VkZkTE14SWVidEtlVVVUMHVjZ2lhWU01Y1R4bW1HTVJ5d2E5dWVGMGVFc3U5dGJlcUMtX2JxazZlRWViRHBsMXpkTzlGSThNWVFWcm9Rb0xzdjNQQXhGblJ3eDY2dFBnWUFJZkR6Ml80RlNvVXJQcEJIU3paR0J6eGtjaTVZUEtrakpsWEhxYTF3eHUyaGNOdnNrUHdyS0xPbXZUdVRQWDNmWTVSX0VPbDFfRmZzM2JSUzhmMnJlc2NQQWI5RktfTXF1WmdqYVFLTTlKQmdFUmdlb3hSdDd6M3dJaG5RLXQ0ay1RSmlwYWJ4aDFzU0lvVTg0SUJrazdmeUE3bnlvNm85VHpHRkVsbnExbGJJRnJPa3pQcm43TEdKckQzeHJHVXJKOHhOMVZZ?oc=5",
   "ksaAsOf": "2026-10-18T18:33:00+03:00",
   "ksaDeaths": 19,
   "ksaExtra": [
@@ -79,8 +79,8 @@
   "vehicleUrl": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA1Yk1sS1F5bDZJWFZoa2E0aFFWVzFBb3diWkZ3eGlvSEJ5WkRYZFdDQ0R4Z1U3S09NLTZNNlJPYm1xb0o2aVkw?oc=5"
  },
  "status": {
-  "lastRun": "2026-11-05T19:29:25+03:00",
-  "note": "ما فيه تطورات مهمة جديدة.",
-  "added": 0
+  "lastRun": "2026-11-05T21:41:50+03:00",
+  "note": "تم إدراج بيان زوال الخطر وادعاء حوثي جديد يخص المنطقة الشرقية، وتجاهل تقرير الجيش اليمني لتكراره في القائمة.",
+  "added": 2
  }
 }
