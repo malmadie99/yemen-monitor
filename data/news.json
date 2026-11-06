@@ -1,5 +1,18 @@
 [
  {
+  "ts": "2026-11-06T10:37:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "intercept",
+  "source": "قيادة التحالف عبر صحيفة سبق",
+  "title": "نجران: اعتراض وتدمير صاروخين باليستيين، صباح الجمعة",
+  "summary": "أعلنت قيادة التحالف عن اعتراض وتدمير صاروخين باليستيين أطلقتهما الميليشيا الحوثية باتجاه نجران.",
+  "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5LYWpqXy0wQk9vR3UtWi1rVHFveEgyWFFEMFVqUDlTMDFYempSMDJWLXQ0UmlmdDFndHJEMHQtbVJsa1Q1YWhV?oc=5",
+  "missiles": 2,
+  "drones": 0,
+  "id": "2026-11-06-int-ddfndhjemhqtbvjsa1q1ywhv"
+ },
+ {
   "ts": "2026-11-06T09:34:00+03:00",
   "region": "ksa",
   "type": "official",
