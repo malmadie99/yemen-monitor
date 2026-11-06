@@ -2842,17 +2842,6 @@
   "id": "2026-10-16-yemen-aden-airport-2missiles"
  },
  {
-  "kind": "other",
-  "region": "yemen",
-  "source": "المتحدث باسم التحالف اللواء تركي المالكي عبر الشرق الأوسط",
-  "summary": "أعلن التحالف مساء الجمعة إحباط محاولة تهريب أسلحة عن طريق البحر إلى الحديدة.",
-  "title": "التحالف يعلن إحباط تهريب أسلحة بحرًا إلى الحديدة مساء الجمعة",
-  "ts": "2026-10-16T20:00:00+03:00",
-  "type": "official",
-  "url": "https://aawsat.com/node/5330574",
-  "id": "2026-10-16-yemen-hodeidah-smuggling-foiled"
- },
- {
   "drones": 3,
   "kind": "intercept",
   "missiles": 3,
