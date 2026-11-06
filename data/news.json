@@ -2844,17 +2844,6 @@
   "id": "2026-10-16-int-yanbu-redsea-south-riyadh"
  },
  {
-  "kind": "other",
-  "region": "yemen",
-  "source": "العربية",
-  "summary": "حسب الجيش اليمني، دخلت القوات الحكومية مديرية مجزر شمال مأرب ضمن عملية فجر اليمن.",
-  "title": "مأرب: القوات اليمنية تدخل مديرية مجزر شمال المحافظة يوم الجمعة",
-  "ts": "2026-10-16T12:00:00+03:00",
-  "type": "report",
-  "url": "https://www.alarabiya.net/amp/arab-and-world/yemen/2026/10/16/%D9%81%D8%AC%D8%B1-%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D8%AD%D8%A9-%D8%A7%D9%84%D9%8A%D9%85%D9%86%D9%8A%D8%A9-%D8%AA%D8%AF%D8%AE%D9%84-%D9%85%D8%AF%D9%8A%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%AC%D8%B2%D8%B1-%D8%B4%D9%85%D8%A7%D9%84-%D9%85%D8%A7%D8%B1%D8%A8",
-  "id": "2026-10-16-yemen-marib-majzar"
- },
- {
   "drones": 1,
   "kind": "intercept",
   "missiles": 0,
