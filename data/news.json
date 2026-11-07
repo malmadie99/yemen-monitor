@@ -2881,17 +2881,6 @@
   "id": "2026-10-17-int-riyadh-east-south-4drones"
  },
  {
-  "kind": "other",
-  "region": "yemen",
-  "source": "عكاظ",
-  "summary": "حسب الجيش اليمني، نُفذت 1292 ضربة خلال 24 ساعة وسيطرت القوات على مواقع ومرتفعات شرق مأرب، مع صد هجمات حوثية على جبهة الشقب جنوب تعز.",
-  "title": "فجر اليمن: توسّع التقدم شرق مأرب وصد هجمات في تعز، السبت",
-  "ts": "2026-10-17T15:12:00+03:00",
-  "type": "report",
-  "url": "https://www.okaz.com.sa/politics/na/2271162",
-  "id": "2026-10-17-yemen-marib-taiz-advance"
- },
- {
   "drones": 3,
   "kind": "intercept",
   "missiles": 3,
