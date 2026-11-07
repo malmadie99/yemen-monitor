@@ -1,5 +1,18 @@
 [
  {
+  "ts": "2026-11-07T08:13:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "intercept",
+  "source": "المتحدث باسم التحالف عبر صحيفة سبق",
+  "title": "الرياض: اعتراض وتدمير صاروخ كروز، صباح السبت",
+  "summary": "أعلنت قوات التحالف اعتراض وتدمير صاروخ كروز أطلقته المليشيا الحوثية باتجاه منطقة الرياض صباح السبت.",
+  "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5rR21rRHBxRVdvVlMzRU5TN3h3aTdDdUpYblhsWktmNm9ZRU1naXJ4N1J4OWswdExHczQxaTBDM3dHZDdLWDdF?oc=5",
+  "missiles": 1,
+  "drones": 0,
+  "id": "2026-11-07-int-dexhczqxatbdm3dhzddlwddf"
+ },
+ {
   "ts": "2026-11-06T23:16:00+03:00",
   "region": "ksa",
   "type": "official",
