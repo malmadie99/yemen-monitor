@@ -1,5 +1,16 @@
 [
  {
+  "ts": "2026-11-07T22:18:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "other",
+  "source": "صحيفة سبق الإلكترونية",
+  "title": "الدفاع المدني: زوال الخطر عن منطقة جازان",
+  "summary": "نقلاً عن صحيفة سبق الإلكترونية.",
+  "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9jWHpHc2VlTFJXQl9VR2Q4YXZqS2dVeDBBdlIyWVR3V0pvNHZ4SFVzTGlrQ3RpVEoyREYwVkR6V2s1Y195ZTc4?oc=5",
+  "id": "2026-11-07-ksa-veoyreywvkr6v2s1y195ztc4"
+ },
+ {
   "ts": "2026-11-07T18:40:00+03:00",
   "region": "yemen",
   "type": "report",
