@@ -1,5 +1,18 @@
 [
  {
+  "ts": "2026-11-08T21:56:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "intercept",
+  "source": "التحالف عبر صحيفة سبق الإلكترونية",
+  "title": "المنطقة الجنوبية: اعتراض وتدمير صاروخ كروز، مساء الأحد",
+  "summary": "التحالف ينشر مشاهد توثق اعتراض وتدمير صاروخ كروز أطلق باتجاه المنطقة الجنوبية.",
+  "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5TSmFPRG1QYlNwNWFvX3o5VC00WXJ6Zjh6TFM5a2JidFNyLTlwMWhkT0NuZDdlb2JMSzEzSzQyc0toRURIMWdZ?oc=5",
+  "missiles": 1,
+  "drones": 0,
+  "id": "2026-11-08-int-b2jmszezszqyc0torurimwdz"
+ },
+ {
   "ts": "2026-11-08T19:16:00+03:00",
   "region": "yemen",
   "type": "report",
@@ -2721,17 +2734,6 @@
   "type": "official",
   "url": "",
   "id": "2026-10-18-abha-khamis-alert-allclear"
- },
- {
-  "kind": "other",
-  "region": "yemen",
-  "source": "مصادر محلية في المخا",
-  "summary": "حسب مصادر محلية، استهدفت غارات مواقع للحوثيين في جبل النار شرق مدينة المخا بالساحل الغربي.",
-  "title": "المخا: غارات على مواقع حوثية في جبل النار، مساء الأحد",
-  "ts": "2026-10-18T21:57:00+03:00",
-  "type": "report",
-  "url": "",
-  "id": "2026-10-18-yemen-mokha-jabal-alnar-strikes"
  },
  {
   "drones": 2,
