@@ -1,5 +1,18 @@
 [
  {
+  "ts": "2026-11-08T12:30:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "intercept",
+  "source": "التحالف عبر صحيفة عكاظ",
+  "title": "المنطقة الجنوبية: اعتراض وإسقاط مسيّرة، ظهر الأحد",
+  "summary": "أعلن التحالف اعتراض طائرة مسيّرة وإسقاطها قبل وصولها إلى المنطقة الجنوبية في السعودية.",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Cb2t1bTZRSHc4cVg2M0V4bUlNQlJGdkt5S2dEZmFQR2ZEWlR3ZnI0SmFnM0J5bFRYT00xTWNZOHRNWnpXUEJTS1E5blVmV2lJRnfSAVRBVV95cUxQZjZqNXlFOG9GcldjVjd2a04yZEFPaENwWTRVdTdKbnBxMFIyVXcyX1diaTkxQ0JhNFZ2UnpsZkVHeGFKSExEM3hzOUo1LUVUaDVLMlQ?oc=5",
+  "missiles": 0,
+  "drones": 1,
+  "id": "2026-11-08-int-ksexem3hzouo1luvuadvlmlq"
+ },
+ {
   "ts": "2026-11-08T12:02:00+03:00",
   "region": "ksa",
   "type": "official",
