@@ -1,5 +1,16 @@
 [
  {
+  "ts": "2026-11-08T08:15:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "other",
+  "source": "الدفاع المدني عبر صحيفة سبق",
+  "title": "الرياض ونجران: الدفاع المدني يعلن زوال الخطر، صباح الأحد",
+  "summary": "أعلنت المديرية العامة للدفاع المدني زوال حالة الخطر في منطقتي الرياض ونجران.",
+  "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBLZnR6Y2ZwbW11M2xpWDdYYTFnMDVhbTloYjhmQTdTTzFFV2NXMU5zUzBjcVB4NHNDamlhVmRjWUZpSUtHRFBJ?oc=5",
+  "id": "2026-11-08-ksa-nhndamlhvmrjwuzpsuthrfbj"
+ },
+ {
   "ts": "2026-11-08T06:17:00+03:00",
   "region": "ksa",
   "type": "official",
@@ -2840,17 +2851,6 @@
   "type": "report",
   "url": "",
   "id": "2026-10-18-yemen-mokha-strikes"
- },
- {
-  "kind": "other",
-  "region": "ksa",
-  "source": "المتحدث باسم التحالف اللواء تركي المالكي",
-  "summary": "رد المتحدث باسم التحالف ساخرًا على ادعاء الحوثيين إسقاط طائرة أباتشي سعودية قرب نجران، مؤكدًا أن الطائرة ستدخل الميدان قريبًا.",
-  "title": "المالكي ينفي مزاعم الحوثيين بإسقاط أباتشي قرب نجران، صباح الأحد",
-  "ts": "2026-10-18T08:16:00+03:00",
-  "type": "official",
-  "url": "",
-  "id": "2026-10-18-maliki-apache-claim-denial"
  },
  {
   "drones": 2,
