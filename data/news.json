@@ -1,5 +1,16 @@
 [
  {
+  "ts": "2026-11-10T14:15:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "other",
+  "source": "France 24",
+  "title": "دوي انفجارات جديدة في الرياض والتحالف يعلن اعتراض صاروخ حوثي",
+  "summary": "نقلاً عن France 24.",
+  "url": "https://news.google.com/rss/articles/CBMi6wRBVV95cUxOOGkwSWpCN3RPS2FIUFgtbG5HSG5aWm5zOW1WbnBsSmw5bnNWNTQ3cFFxcjdZUFdQNkxYR3pSTnBEc2VYcjQ0NjgtaF9jSjhIMFE0ZXloTjlacHBQSHY2UHg3SUhXT0xZT3pNa2JBY3B6ZXdRUVJ4ODFUTkMyLWdnMU9sWDRaTktQS1RkQ2hrU3QyREJoV0JzckVlalZOdXNhWE1WQ21WNExUeDdfVDl5dGV6ODNYdEV6TWZ0V21uTmU5TGZOQ0ZldFBGRUhHY1RwU3hkVkNiSlFQRFZSRU1MTEl6TTNnOHN4Ukt4NG9qajhMTHBGdU96TS01ZG00MW9TSl9sMTM3Y2duWHVtNWdRRGtCaGhKUnRuNE9Sb0l1WVNidjZaZDVxazFDMWFFZFpyS21hSzB6NmN3RUN4S0FCaGNUTXNWNkNpWk55aVA1WnRDTmp5R2hiM19UbHUxaUU1QlZNSkVGNmJmRUo1LWZrX2hzSllwWUN3aFNsUE1Qc2djNVlvZEQxVC00aDVFbFNyU09PdXN0eWFoSTlEUXZjT2N3MlBrSk0xbzJ2cVVVeXlqUy1DT3ZBNVRXSllybmpvU1NjUm9ld0pPX0doUXo0Q1k3dVQ4NHJIZ1QwOXhZeFBXbGtOZ1FyTnpJXzJBNlEzMG9vc2RPcHNDWWxReVJsSUd4d2czdlRyY21wMzhJck8yZFFZWkRiVXl6bFdiWURrWG9BSGFZa0dudDY1aWpxRm1rRF9wMnhGZjM5alZId2VmS3JYdS14MU1nRm9ZbUlTdGFxdDZLOTJLVDRDRmkyei0yeTVWcjNRaGFR?oc=5",
+  "id": "2026-11-10-ksa-vdrdrmkyei0yetvwcjnragfr"
+ },
+ {
   "ts": "2026-11-10T10:43:00+03:00",
   "region": "ksa",
   "type": "official",
@@ -2560,28 +2571,6 @@
   "type": "report",
   "url": "",
   "id": "2026-10-20-yemen-fajr-week3-taiz-strikes"
- },
- {
-  "kind": "other",
-  "region": "ksa",
-  "source": "وزارة الدفاع البريطانية",
-  "summary": "أعلنت وزارة الدفاع البريطانية خطة لتعزيز الدفاعات الجوية السعودية بمقاتلات «تايفون» من سلاح الجو الملكي، في ظل تصاعد هجمات الحوثيين.",
-  "title": "بريطانيا تعزز الدفاعات السعودية بمقاتلات «تايفون»، ظهر الثلاثاء",
-  "ts": "2026-10-20T14:19:00+03:00",
-  "type": "report",
-  "url": "",
-  "id": "2026-10-20-uk-typhoons-saudi-defense"
- },
- {
-  "kind": "other",
-  "region": "yemen",
-  "source": "وزير الداخلية اليمني",
-  "summary": "أكد وزير الداخلية اليمني أن الهجمات الحوثية على منتسبي الأمن ومنشآته لن تثني الأجهزة الأمنية عن أداء مهامها، في ظل التصعيد بعد هجوم شبوة.",
-  "title": "وزير الداخلية اليمني: الهجمات الحوثية لن توقف عمل الأجهزة الأمنية، الثلاثاء",
-  "ts": "2026-10-20T14:19:00+03:00",
-  "type": "official",
-  "url": "",
-  "id": "2026-10-20-yemen-interior-minister-security"
  },
  {
   "drones": 0,
