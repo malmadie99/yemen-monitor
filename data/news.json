@@ -1,5 +1,16 @@
 [
  {
+  "ts": "2026-11-11T02:02:00+03:00",
+  "region": "ksa",
+  "type": "report",
+  "kind": "other",
+  "source": "جريدة الرياض",
+  "title": "اعتراض وتدمير ثلاثة صواريخ ومسيّرة أطلقتها الميليشيا الحوثية الإرهابية",
+  "summary": "نقلاً عن جريدة الرياض.",
+  "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1zYVlCTy15R1ZhR1hNYW15ZHZjRjlacklQbGl2UlBnVlItN3VsNWNTdjVROTNBOVlENnRIZWdFTFZQZ3ZmSlFv?oc=5",
+  "id": "2026-11-11-ksa-ovlennrizwdftfzqz3zmslfv"
+ },
+ {
   "ts": "2026-11-11T00:03:00+03:00",
   "region": "east",
   "type": "official",
