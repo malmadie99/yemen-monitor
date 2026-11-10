@@ -1,5 +1,18 @@
 [
  {
+  "ts": "2026-11-10T10:43:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "intercept",
+  "source": "التحالف عبر وكالة الأناضول",
+  "title": "المملكة: اعتراض وتدمير 3 صواريخ حوثية، صباح الثلاثاء",
+  "summary": "أعلن التحالف عن اعتراض وتدمير ثلاثة صواريخ أطلقتها ميليشيا الحوثي باتجاه المملكة صباح الثلاثاء.",
+  "url": "https://news.google.com/rss/articles/CBMinwRBVV95cUxPTG01d3ZKS29ZZEx6NmVMUnB2WGxObTVsOWdOdG9HQ0htVkNFNWw5ZGIyZHBxSlU2NTlENFc5VVdWTHpnckQ4NlM0akFlYWlMUG5ldjJ1dmk5MG9RMkZmRFg5QTVCbjFkN3Z4UFJjNm1sQ1hZTVhIZ1Mzdy1sNXRaUFl2cEtoOTNVV1BZdmU0djhjUzQweG5ET2twTWJ5SFF2V01LdzR1OGFBS0RfUUpzOXBCQzhDV3NGS1V5WkVfb01kcXVRQjlYRlJ5b1NHZVJWNzQ1QU04RFNEMzIxaUYybERSUXFJZjN5aGFBdDlHd1VmdnQzcmZ0Q1ZmTF9GMm5IU0ZrdVRPS0MtNVRhVjlsUkhHVGV6dWtYVF91U2NQVEM4bHFFMXlHR2ltUUNVelhvOW9JMm5hb2N6SnFfeFhibjdJcEowTXB4dDhqOV90RUEtXzNPV1BZcmE2UkRiN2FzWFJ0T0RkUkY2SW11bEoxenlLV045bktsemcyMTFTc2VKN3lvamtzY1ZnOGxySF9NYXFQbVUwdGxwdnFNTENIVlZjWGJoRmpSZzh4TG1sbXY0UTVfTFFFZjZyNnIyaTIxTnN2TU5nMXVLTmhuMER5M3VBbU5VaWZOWWdSY2xzZ0o4M05odU9GdlFVMkFWX2VRNTlvb3NkbGY5R2xtMnZDZjMweERkZmZZQzhKR1lIRDV0bkwxMV9yeUV2clZVUG8?oc=5",
+  "missiles": 3,
+  "drones": 0,
+  "id": "2026-11-10-int-irdv0bkwxmv9yeuv2clzvug8"
+ },
+ {
   "ts": "2026-11-10T08:19:00+03:00",
   "region": "ksa",
   "type": "official",
@@ -2593,17 +2606,6 @@
   "type": "official",
   "url": "",
   "id": "2026-10-20-int-riyadh-ballistic-morning"
- },
- {
-  "kind": "other",
-  "region": "ksa",
-  "source": "الدفاع المدني",
-  "summary": "أطلق الدفاع المدني إنذاراً مبكراً لمدينة الرياض عبر المنصة الوطنية للإنذار، ثم أعلن زوال الخطر، مع التذكير بمنع تصوير مواقع الاعتراض. أعلن التحالف لاحقاً اعتراض صاروخ باليستي باتجاه الرياض.",
-  "title": "الرياض: إنذار مبكر ثم زوال الخطر، ضحى الثلاثاء",
-  "ts": "2026-10-20T11:42:00+03:00",
-  "type": "official",
-  "url": "",
-  "id": "2026-10-20-riyadh-alert-allclear"
  },
  {
   "drones": 2,
