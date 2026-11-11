@@ -1,5 +1,18 @@
 [
  {
+  "ts": "2026-11-11T19:30:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "intercept",
+  "source": "التحالف عبر صحيفة سبق الإلكترونية",
+  "title": "مكة المكرمة والمنطقة الجنوبية: اعتراض وتدمير مسيّرتين، مساء الأربعاء",
+  "summary": "أعلن التحالف عن اعتراض وتدمير طائرتين مسيّرتين أطلقتهما الميليشيا الحوثية باتجاه منطقتي مكة المكرمة والمنطقة الجنوبية.",
+  "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1vc1lDRFVlVF9XNVNZbDVZbmw0UlZKZHIzTUpPMWRpal9uODhQd1dZRjVqTmNjMngxS1dVdWJpcS1scFJITlZR?oc=5",
+  "missiles": 0,
+  "drones": 2,
+  "id": "2026-11-11-int-mngxs1dvdwjpcs1scfjitlzr"
+ },
+ {
   "ts": "2026-11-11T18:00:00+03:00",
   "region": "ksa",
   "type": "report",
