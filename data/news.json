@@ -1,5 +1,18 @@
 [
  {
+  "ts": "2026-11-11T23:41:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "intercept",
+  "source": "قوات التحالف عبر وكالة الأنباء القطرية",
+  "title": "المنطقة الغربية: اعتراض وتدمير صاروخين باليستيين، ليل الأربعاء",
+  "summary": "أعلنت قوات التحالف اعتراض وتدمير صاروخين باليستيين أطلقتهما ميليشيا الحوثي باتجاه المنطقة الغربية.",
+  "url": "https://news.google.com/rss/articles/CBMi4wRBVV95cUxNV1pzdUNMb2h4c3pPUjd1RTRWR2VxdkxKMzNsNVJRMmdYVE9hM1R5SW51TkV3SG1SeGpUbFJpTWZXTXpxbloxSjRXZWxnQzJTU25VS2FRYUZnS00taEZHY1RVUW5STlBjcHJrV0ZZZjMxZEZiY1lVSWU5N2dwSzB3eW1VT0x0ekU4bG9ud0FlU1RHWkJOWWdWbjN3RW1GeTdDc3RsTWo4WWVyWnE1a2JwbXowZVpYVXBSTktxeXNMQkZnSGg4eXhlSDl2dmVxelNXOTA3ZXdYYmdycV9SUGZiSDVMa1BGekZYVGFYS1FYMGhkRkRGb1dPekFEOTZibmFEb0FWQ3pSS1RlNjgyMEZSbW1nWXBoVURRdThRUFQ4S3J0UGdBc0dVSFVweTBfNUs5bmhBWGFmWk5QRS1MLUU0a0hiSEgwSWdpbV9XajE0MXdkWE1ROHp1VTZqYmpxOTQxcEpBOERSbzR4MXZQNDhRSk9QOTlSX19jM291ZUZURmdaRjVoTU9aTXlNSUt4d25CanpPbXJFUS1zNkNxYWIxUlBLZDZyZFhOMGlQMzNxZ2lqeFVkYklFa0FXYTU2SENzVmR5emJBUjg5T2w2eG5YaEFXRzMxdXpkSXBvcFVWaURVM0ljWFkyclRCVFlsYTdDS2txc0trYzBBU1RVN2FMUDNYYUdiVEI2Szl0N3MxZTgxa1dKOW9DclZRTU9rY1lUbXFTT3piWmZjbjVJN194a29RU1Q4bkVHTHpvS0pGWGxJSmlURDBnekhITGNRYnhqeFBEbXhZUHRDSzM2clJ5ZTRkZw?oc=5",
+  "missiles": 2,
+  "drones": 0,
+  "id": "2026-11-11-int-bebxhzuhrdszm2clj5ztrkzw"
+ },
+ {
   "ts": "2026-11-11T22:42:00+03:00",
   "region": "ksa",
   "type": "report",
@@ -31,6 +44,17 @@
   "summary": "نقلاً عن Qatar news agency.",
   "url": "https://news.google.com/rss/articles/CBMihgVBVV95cUxNSFM3cGF6UzFxN1VlVkd3WTBHM3NCX0IxZkJqZDFNempYM2V0aUloeXBtcnNrd3E0MHh0X0N1andKUExjSUlSZDRXWElCalBHSnRmTndYa2lFV2xoWXNuWll1XzUxRVJtNGE2VVhVTjF5aks4Ylg0MkROS1VYZlVoaEdkUkhnclN5cHVpWnU3NGZKZWxRM25WTHV6YlJUNGx2b2doYmtvRDc1SHF4MlpBVkpLZ044WHhjRGI5M1hTZENRa3Q1eDcyWWFKbzJaT29oeExJY2UyMW8wQlQtelZsS19URVF1RElxMnZ4Y1lLZE1uSldJX2duV2xKMUp1TlpTb1BWVlBFRVNFamdCZEpVa0Z0aGFmWTNrVjFQTmw0TjBmNGtJeTlrSjNSN1N5M2otRHluMVBwajFQUXJWTnZpeVdGdlZ1NEtkN3hMdlFwWmdETGE5VDRTWU9XNlgzV2tFeHlLRFRIMkJtS2lrQkwzTVYzV1ZJWVJwWk1Zb1JDbWg0UFFKdURJWGNDQXR4ZU9XNEloZW5RcGJ2Vy1ZSk9HSzlKSVZNUjJWS1R2c0w4NkszMlpMUm9fc0hISnFIQUY5TF9ZeEZIZV8tWXFvNlJRb0djc3NLd1dHT2FUSGpVRkszcm90Wnc1Z0ZWQlZzdkFsSksxT21BTm5IN3FPZnRIR25QWVVCZVN0Z1NKTzk5UExTUmN4WkFIcU1ZY2REUXlFSUh5dzJzRkFsYlFoZ29vSnNkV05zUHNHRFQzaEt1eGlMdW9NaHBVZXNUeEozbldFWFktSC1tUXZMT2d3eVdCQnBFYVAzb1VTMFpHZW1IXy0yaWo5OGtGX2JyaExHeFpORk4wc2p3?oc=5",
   "id": "2026-11-11-ksa-ogtgx2jyaexhefpork4wc2p3"
+ },
+ {
+  "ts": "2026-11-11T20:05:00+03:00",
+  "region": "yemen",
+  "type": "report",
+  "kind": "other",
+  "source": "صحيفة الشرق الأوسط",
+  "title": "تعز: سقوط صاروخ باليستي يسفر عن ضحايا مدنيين، مساء الأربعاء",
+  "summary": "سقط صاروخ باليستي أطلقته ميليشيا الحوثي على تعز ما أدى إلى سقوط قتلى وجرحى من المدنيين.",
+  "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxPVTJUOFNqS0dmYmJuUXNHU3d1UEJSSXY1Ym5GUlNEUl9Tc0FzM3JIMmlVOUlQYXVLOFBOZDVpem01V0RLcGxJbk1GajNpeVc1cUtJVzFsVm0zWnp0bnpuaHNxVDk4dUZORGhRTW5IMktvZGZ2ZW9wdl9tZllhUlNKczdmOVN4cVFEZ2E4RzVWenZiX2g3ZjEzV2tKZEhBMXJDdnRrZDAtd0dOeVRUN3UySTM0QXVPSnlzOEs0QmhCSDZXUEQwbU1RMkdGZUJ6b3ZfSTJIdmF3bk1IMFY2d216WHdJRFk2Ymc0SWVtS2FUT2IwcWpPMzViQzQ3QU1DUTFUTEdyd1BMM0oweFBDc25hNkE5dkh0SDhQNWJ5Vmw3QlhvTHkwUlhWYjI2Q2tWd2JCS1FOaVVHdHE2V1lqbElqSWtPWmdDM213OHBBQnBUT2gxbzdxcGdwRnpFUUpqamlyYmR0dWJHT01BX3lQS0hFMmNnWElNRXE2dzlVWEdlZGF5TXhGSm5vckpYLXpIdVBtYVdmQVhMaGV5NDB0emVCVGZOZw?oc=5",
+  "id": "2026-11-11-yemen-dmqvhmagv5ndb0emvcvgzozw"
  },
  {
   "ts": "2026-11-11T19:38:00+03:00",
@@ -2279,17 +2303,6 @@
   "type": "official",
   "url": "https://aawsat.com/node/5332535",
   "id": "2026-10-22-int-day-1ballistic-9drones"
- },
- {
-  "kind": "other",
-  "region": "east",
-  "source": "الهيئة العامة للطيران المدني عبر صحيفة الشرق الأوسط",
-  "summary": "أعلنت هيئة الطيران المدني تعرّض مطار الملك فهد الدولي بالدمام لاعتداء مساء الأربعاء، نتج عنه وفاة مقيم وإصابة 8 آخرين بإصابات متفاوتة وأضرار مادية قيد الحصر.",
-  "title": "الدمام: اعتداء على مطار الملك فهد الدولي ووفاة مقيم وإصابة 8، مساء الأربعاء",
-  "ts": "2026-10-21T23:23:00+03:00",
-  "type": "official",
-  "url": "https://aawsat.com/node/5332171",
-  "id": "2026-10-21-dammam-airport-1-dead-8-injured"
  },
  {
   "drones": 1,
