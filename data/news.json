@@ -2316,17 +2316,6 @@
   "id": "2026-10-21-int-east-drone-night"
  },
  {
-  "kind": "other",
-  "region": "yemen",
-  "source": "قناة العربية",
-  "summary": "حسب تقرير للعربية، رُصدت انتهاكات حوثية واسعة في تعز خلال يومين، بينها إطلاق 149 مقذوفًا وصاروخًا على مناطق في المحافظة.",
-  "title": "تعز: رصد إطلاق 149 مقذوفًا وصاروخًا حوثيًا خلال يومين، الأربعاء",
-  "ts": "2026-10-21T21:00:00+03:00",
-  "type": "report",
-  "url": "https://www.alarabiya.net/amp/arab-and-world/yemen/2026/10/21/%D8%A8%D9%8A%D9%86%D9%87%D8%A7-%D8%A7%D8%B7%D9%84%D8%A7%D9%82-149-%D9%85%D9%82%D8%B0%D9%88%D9%81%D8%A7-%D9%88%D8%B5%D8%A7%D8%B1%D9%88%D8%AE%D8%A7-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D8%AA-%D8%AD%D9%88%D8%AB%D9%8A%D8%A9-%D8%AC%D8%B3%D9%8A%D9%85%D8%A9-%D9%81%D9%8A-%D8%AA%D8%B9%D8%B2-%D8%AE%D9%84%D8%A7%D9%84-%D9%8A%D9%88%D9%85%D9%8A%D9%86",
-  "id": "2026-10-21-taiz-149-projectiles-two-days"
- },
- {
   "drones": 1,
   "kind": "intercept",
   "missiles": 0,
