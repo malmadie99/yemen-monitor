@@ -1,5 +1,18 @@
 [
  {
+  "ts": "2026-11-11T16:59:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "intercept",
+  "source": "الدفاع الجوي عبر صحيفة سبق",
+  "title": "الرياض: اعتراض وتدمير 3 صواريخ كروز، عصر الأربعاء",
+  "summary": "اعترضت قوات الدفاع الجوي ثلاثة صواريخ كروز أطلقها الحوثيون باتجاه مدينة الرياض وعملت على تدميرها.",
+  "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5ocVNDN1FObFJUQ2R2SkRFTEtYM3dBSkdYMkFxU1FHa1ZGbWdvNjMtV3RodUlMeXQwSFd2M2FEVVRpWlpLUTkw?oc=5",
+  "missiles": 3,
+  "drones": 0,
+  "id": "2026-11-11-int-exqwsfd2m2fevvrpwlplutkw"
+ },
+ {
   "ts": "2026-11-11T02:02:00+03:00",
   "region": "ksa",
   "type": "report",
@@ -2334,17 +2347,6 @@
   "type": "report",
   "url": "",
   "id": "2026-10-21-yemen-army-airports-statement"
- },
- {
-  "kind": "other",
-  "region": "yemen",
-  "source": "مصادر دبلوماسية",
-  "summary": "حسب دبلوماسيين، طرح قائد الجيش الباكستاني ملف الحوثيين خلال مباحثاته في طهران، ونقل تحذيرًا أمريكيًا حازمًا بشأنه.",
-  "title": "طهران: مباحثات قائد الجيش الباكستاني تناولت ملف الحوثيين، مساء الأربعاء",
-  "ts": "2026-10-21T17:26:00+03:00",
-  "type": "report",
-  "url": "",
-  "id": "2026-10-21-pakistan-army-chief-tehran-houthi"
  },
  {
   "drones": 4,
