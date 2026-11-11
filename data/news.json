@@ -1,5 +1,16 @@
 [
  {
+  "ts": "2026-11-11T17:35:00+03:00",
+  "region": "yemen",
+  "type": "report",
+  "kind": "other",
+  "source": "جريدة الرياض",
+  "title": "القوات اليمنية: 877 عملية استهداف ضمن «فجر اليمن» وتحييد 138 من عناصر الحوثيين الإرهابيين",
+  "summary": "نقلاً عن جريدة الرياض. رواية طرف واحد.",
+  "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFByQXBFeWZIUnRySV81RUdFV21aQjdGeHpseXBhcTJXVmVaMDJndTZEeXY4QV8zSmU1TUplWk4ydmpzdXY4MjJR?oc=5",
+  "id": "2026-11-11-yemen-smu1tuplwk4ydmpzdxy4mjjr"
+ },
+ {
   "ts": "2026-11-11T16:59:00+03:00",
   "region": "ksa",
   "type": "official",
@@ -2336,17 +2347,6 @@
   "type": "report",
   "url": "",
   "id": "2026-10-21-us-embassy-houthi-child-recruitment"
- },
- {
-  "kind": "other",
-  "region": "yemen",
-  "source": "القوات المسلحة اليمنية",
-  "summary": "حسب القوات المسلحة اليمنية، استهدف الحوثيون مطار عدن بصاروخ باليستي ومطار الريان بالمكلا بثلاثة صواريخ، إضافة إلى مصنع في بئر باشا بتعز، دون الإعلان عن إصابات.",
-  "title": "اليمن: الجيش يتهم الحوثيين باستهداف مطاري عدن والريان ومنشأة مدنية في تعز، مساء الأربعاء",
-  "ts": "2026-10-21T17:36:00+03:00",
-  "type": "report",
-  "url": "",
-  "id": "2026-10-21-yemen-army-airports-statement"
  },
  {
   "drones": 4,
