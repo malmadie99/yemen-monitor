@@ -1,5 +1,16 @@
 [
  {
+  "ts": "2026-11-11T22:10:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "other",
+  "source": "المديرية العامة للدفاع المدني عبر صحيفة سبق الإلكترونية",
+  "title": "الطائف وينبع وخميس مشيط: زوال الخطر، مساء الأربعاء",
+  "summary": "أعلنت المديرية العامة للدفاع المدني عن زوال حالة الخطر في الطائف وينبع وخميس مشيط.",
+  "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxQTFR6aHh2blBYODdfR054R3pJVXlFRUdCUFNETk5VRE9reXhhWXBOLVNFMVZwc0lpQlludm53aU4zUlBrMDJ0OGtKOE1vWjlZNDBNcGxGc1RIampmcjFNRmFaanE1c3FzUVNrOUdnempRNDliX1lDcWU4OGRVNHk5emdDMV9EY2k0MlBseEsydGFYNDdUb0tvWlhhRzEtOUNiVHhDdjhUNURWc0k5ZHFEanRqNTZKeV9lOVNOYkRSNU5fckN4Y0kyT1NzZGRETjkya3lnVmZqTElKLXZrcW5LYl95djJ6bVV6SVJjSzdzeEhERWlCSWEtZEN3OXVaajBUVUdJNTZ1RDNZcFpkcDd6UmtKVFZJb281d3puWHg4S3ZvbHBLbjB2Rll5S0xhNWJIbno4TGJYbU9UZzh4aEF4dUFFaU1Wd0VGWE1Ga1hXOWtOWm1Ub1ZOb3BIRVFiWnRNanNQX3hWQ0cyX2I2Wkx4WkwtSDkxcjFXcHVBMXRuSjQzaEtJaGp5UFFvNUYyc1YxTXU0ZHE2cGFHYlNnYmpMaQ?oc=5",
+  "id": "2026-11-11-ksa-yxtxu0zhe2cgfhylnnympmaq"
+ },
+ {
   "ts": "2026-11-11T20:37:00+03:00",
   "region": "ksa",
   "type": "official",
@@ -2279,17 +2290,6 @@
   "type": "official",
   "url": "",
   "id": "2026-10-21-alimi-shipping-land-threat"
- },
- {
-  "kind": "other",
-  "region": "east",
-  "source": "مصدر مسؤول في وزارة الطاقة",
-  "summary": "أعلنت وزارة الطاقة اعتراض مسيّرة حاولت استهداف معمل في حقل شيبة التابع لأرامكو، ونتج عن ذلك وفاة مقيمَين وإصابة اثنين، دون تأثير على العمليات التشغيلية. يُرجَّح أنها المسيّرة نفسها التي أعلن التحالف اعتراضها باتجاه الشرقية الساعة 9:08 م.",
-  "title": "حقل شيبة (الشرقية): اعتراض مسيّرة ووفاة مقيمَين وإصابة اثنين، مساء الأربعاء",
-  "ts": "2026-10-21T22:09:00+03:00",
-  "type": "official",
-  "url": "",
-  "id": "2026-10-21-shaybah-drone-2-dead-2-injured"
  },
  {
   "drones": 1,
