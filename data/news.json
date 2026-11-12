@@ -35,6 +35,19 @@
   "id": "2026-11-12-int-sdgzx244wgdws2hrrlbnqk9n"
  },
  {
+  "ts": "2026-11-12T18:40:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "intercept",
+  "source": "صحيفة الشرق الأوسط",
+  "title": "المملكة: اعتراض وتدمير صاروخ باليستي و65 مسيّرة، مساء الخميس",
+  "summary": "الدفاعات الجوية السعودية تعترض وتدمر صاروخًا باليستيًا و65 طائرة مسيّرة أُطلقت باتجاه مناطق مختلفة بالمملكة.",
+  "url": "https://news.google.com/rss/articles/CBMiswVBVV95cUxNVHpnbTJrV0EwMHpGYXFFNXlMNnFPS2ROOFp4cnpEWm1LZm5FbWNqbEN3QUlwWUM4aGQ0NnhfQ2JhZkNlNkJFZTFUUm15V1liMVM5V2VRVV8xNjluUzRKY0FyMC1QUWpwOU4tZDdiWkxoN1VCNUx2bWU0MEpMZ3J4VlBoc2pHVTRHcGpNV2EzNkJkM2xyY3JKcEMxNW91ZUQ4WG5YTktDVFlrTnE5QVhzTFVpOGlyMmNsOTZBb282cEQ3eFQxLTctZ3V0LTBSZktfRzdHTVN3Q3lfc2NtOWVFSDFWbFJsb3VMVUkteHE4bXFOd21mWEY4NTFOT3pFdXBxcGJXRlozQzFNZ3lLanJMM05uMXplc2pHdzNnSUl3UGltbEVJckZPQUN3U1pwczlnNVZXYTZVbXJZYUZWcEJkd0s0WHJBUGpVNjJGeG5Na2Z4NDNiZVp2UWUxRzRZVTNDdjh1aGZMOFRwNTlZcy04MHlDbUxwcUYySkxOeUEwdVJqWFB2eFZvYjFQNE83QnM4dGl1RHJRMTJEcG81VWdtUldNR3kxdzRPTVNMUHg5VmpSeUM0eGFQZFZ3clNxLUVHWklJLXlFX3Rzek9BWjc4TEoyMHFvYXFPR1hJMF95bS10V29aTlZUdHVuZkF5c2JXUXZiMWNuTFdKYXdUSGlpS3pSWDNYamhQRndMdU5CQkg1N1lGcVR0MU1hdzA4ZXhxNi1VaTBmNkR2cnV1VU5USFpYN3RxUm9vd1RicVFYYS1Qd19fZTlvVkFIVU5rMjh1ODlMa2VtQ0JtWjY1TjU4alZfRVBuZXBMZVU5TElqQWhjNlVvaEdsZ1RQc3pBTXJ0cnltTHdocGVvX3hGUENiZ2dadW5NODNIRW0wNm9laE81UkdocExxUklOZi1yRktlOHdj?oc=5",
+  "missiles": 1,
+  "drones": 65,
+  "id": "2026-11-12-int-ukdocexxuklozi1yrktlohdj"
+ },
+ {
   "ts": "2026-11-12T17:36:00+03:00",
   "region": "yemen",
   "type": "report",
