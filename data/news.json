@@ -1,5 +1,27 @@
 [
  {
+  "ts": "2026-11-12T22:39:00+03:00",
+  "region": "east",
+  "type": "official",
+  "kind": "other",
+  "source": "جريدة الرياض",
+  "title": "التحالف: ‏اعتراض وتدمير طائرة مسيّرة في الشرقية",
+  "summary": "نقلاً عن جريدة الرياض.",
+  "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5QVG45NkVuaDVhX0RFMGE0YjNLX1k0eWhEMnUyQ0w2Zi1PSDQ1cVgtanNvVFktb2VHdnRoVENIWWZIZ3llVjBv?oc=5",
+  "id": "2026-11-12-east-b2vhdnroveniwwziz3llvjbv"
+ },
+ {
+  "ts": "2026-11-12T22:21:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "other",
+  "source": "عكاظ",
+  "title": "التحالف: تدمير مسيرة بمنطقة الرياض أطلقتها ميليشيا الحوثي",
+  "summary": "نقلاً عن عكاظ.",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wQ3F1ZFZzVGpYRGRZNjlubGN1N1VfYlJEN0xMbXFsRlEtbkFENVhqbjM3VE5WTHQwRkE2TFF1X1hrRGN5QXJVblRKS2Y5RzdpZGlBR0QtbzRUTndSVTdv0gFUQVVfeXFMTkxWclVMMWNFTWxHUHhKbWJldV9rMzVLSWFDdm1zLXFzNllobmljU2FZbUJFTngxZVR2aEpvN3ItUGZUN1FrTF9FdEtuZlByNGRfamVs?oc=5",
+  "id": "2026-11-12-ksa-n1frtf9fdetuzlbyngrfamvs"
+ },
+ {
   "ts": "2026-11-12T22:13:00+03:00",
   "region": "ksa",
   "type": "official",
