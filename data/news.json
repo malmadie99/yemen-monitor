@@ -1,5 +1,18 @@
 [
  {
+  "ts": "2026-11-12T22:13:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "intercept",
+  "source": "تحالف دعم الشرعية عبر صحيفة سبق",
+  "title": "منطقة الرياض: اعتراض وتدمير طائرة مسيّرة، مساء الخميس",
+  "summary": "أعلن تحالف دعم الشرعية اعتراض وتدمير مسيّرة أطلقتها الميليشيا الحوثية باتجاه منطقة الرياض.",
+  "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1sU19BbXRyNkNpbTNsdVBFVTlxWi1NemdpYS1mMVBRVVAzdDBNVFFONDNRX0RiSDgzX244WGdwS2hRRlBNQk9n?oc=5",
+  "missiles": 0,
+  "drones": 1,
+  "id": "2026-11-12-int-sdgzx244wgdws2hrrlbnqk9n"
+ },
+ {
   "ts": "2026-11-12T17:36:00+03:00",
   "region": "yemen",
   "type": "report",
