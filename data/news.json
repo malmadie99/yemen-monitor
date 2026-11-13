@@ -1,5 +1,18 @@
 [
  {
+  "ts": "2026-11-13T09:18:00+03:00",
+  "region": "east",
+  "type": "official",
+  "kind": "intercept",
+  "source": "التحالف عبر وكالة الأنباء القطرية",
+  "title": "المنطقة الشرقية: اعتراض وتدمير مسيّرة، صباح الجمعة",
+  "summary": "أعلن تحالف دعم الشرعية اعتراض وتدمير طائرة مسيّرة أطلقتها الميليشيا الحوثية باتجاه المنطقة الشرقية.",
+  "url": "https://news.google.com/rss/articles/CBMiswRBVV95cUxQT3VOVHJXS1NRaU1EQmhRc1VDTDZodlJlR0dSSWpSX05KR2RsUERLbWt0WnN6RTZ1cDBrTi0zcEg3QnpTTGF4cC1mTUNtUFFXSmp0LWlpNkVQUkV5NnhkS2JhOU9mY1VldU8wZURpVW81NmNwOTNYN2FmczhBamotT29XNklScmtFLW1LQ1oyZ2RLV3F6MzRDMVdkUUFLZ3NLM1FHSnBFN3JFRjhZa3p0UkJzdEhKcTlFRWhZWUdKU1lFdU9BOHVJbXhRZC1yNldJSDVRR1A3YjdNeDRYMGJEVmtXdm92Y1RTbjEzRThFS1ptRDNXUVZEUDRUajRMOVRZaC1MajdrZXQyakRBTnE4SGM2ajduX0F3SGFUeWtHNHpaYjR0bDNWQnpzMnIyeXpDdy1ES2oweGdGUU94clZVU3hFS3QyUkdDRDNwZkFWYTBaVjVuQWtNVTNrZE4zZlk4TjQ5RXk2UW1mT0JfZGgwNE45ZC1tcW9jOXVBTzNhdzIzQlJDSWozUnlIc0ttRWNqRWVzdU5sQU9yTFdCSXdyVmJueGhBNWp0OXpMMmt1SnFzcEQ3NGJ5ajVxSlMyb1YwbkpiaFRlcG5fSVZ0bXZQbF9JX1F3Nm5KX293eEpNRVBxNFR4RVA2SHQyc0FEZkF4WGJHRURhU2xzNTNEdDZWc21Nbm51cGhFTjh3a0xsVFFoRHNtYVZRZE9veDBUSW4tOTdHcXMwVXJOOVcyd3JIeUEtQQ?oc=5",
+  "missiles": 0,
+  "drones": 1,
+  "id": "2026-11-13-int-dhcxmwvxjoovcyd3jieuetqq"
+ },
+ {
   "ts": "2026-11-12T22:39:00+03:00",
   "region": "east",
   "type": "official",
