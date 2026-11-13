@@ -1,5 +1,27 @@
 [
  {
+  "ts": "2026-11-13T17:47:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "other",
+  "source": "صحيفة سبق الإلكترونية",
+  "title": "الدفاع المدني: زوال الخطر عن منطقة جازان مع استمرار التقيد بالتعليمات",
+  "summary": "نقلاً عن صحيفة سبق الإلكترونية.",
+  "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5nUlFPNjRYVDY0enJJc2QzSlpGRm5DSUMxWWVtNG16M3plQTNuT0ZXaHFPeFF1U21BdFU4YlN6TFJvczVXUzhn?oc=5",
+  "id": "2026-11-13-ksa-u21bdfu4yln6tfjvczvxuzhn"
+ },
+ {
+  "ts": "2026-11-13T17:21:00+03:00",
+  "region": "yemen",
+  "type": "report",
+  "kind": "other",
+  "source": "جريدة الرياض",
+  "title": "الجيش اليمني: 943 عملية استهداف وتحييد 221 حوثيًا ضمن «فجر اليمن»",
+  "summary": "نقلاً عن جريدة الرياض. رواية طرف واحد.",
+  "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE41VDBCektobHpRcF93ZWxXdXRtTGtUYWRtY1VUdjNzT0xLc1NUaDB1Q0VWTXlwNmJ3UnAyVkk3VFI3bWlKdnJR?oc=5",
+  "id": "2026-11-13-yemen-nmj3unayvkk3vfi3bwlkdnjr"
+ },
+ {
   "ts": "2026-11-13T09:18:00+03:00",
   "region": "east",
   "type": "official",
