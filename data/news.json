@@ -1,5 +1,18 @@
 [
  {
+  "ts": "2026-11-14T16:09:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "intercept",
+  "source": "قوات التحالف عبر صحيفة سبق",
+  "title": "منطقتا الرياض والجنوبية: اعتراض وتدمير طائرتين مسيّرتين، عصر السبت",
+  "summary": "أعلنت قوات التحالف عن اعتراض وتدمير طائرتين مسيّرتين أطلقتهما الجماعة الحوثية باتجاه الرياض والمنطقة الجنوبية.",
+  "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBkTDVjME0wdUw0eXgycHp0ZkFxVXFBdll6RXI5aEQxZFBheHdpcUw3d0x0ZXRkNVd5TmRzczBGUlEtaXZxNFMw?oc=5",
+  "missiles": 0,
+  "drones": 2,
+  "id": "2026-11-14-int-nvd5tmrzczbguletaxzxnfmw"
+ },
+ {
   "ts": "2026-11-14T12:57:00+03:00",
   "region": "yemen",
   "type": "report",
