@@ -2402,17 +2402,6 @@
   "id": "2026-10-25-riyadh-allclear"
  },
  {
-  "ts": "2026-10-25T05:45:00+03:00",
-  "region": "ksa",
-  "type": "official",
-  "kind": "other",
-  "source": "عكاظ",
-  "title": "التحالف: اعتراض وتدمير طائرتين مسيّرتين في منطقة الرياض",
-  "summary": "نقلاً عن عكاظ.",
-  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BSjR3TE1NaVAwMWlnVWE0ZGxqQUpwN0M2UlV5bU1JRGY3aHJUV1huQjJlVTZVSzdQdnhXR2x5dVpRb1FWdDlycHhaUUI2NHZNalHSAVRBVV95cUxNZnBBNW81U1lqUndjT0UzdW5oaTRub3JNb2o1dFl2V0MtdEJRUDVvU2s4VWpSR1ZsSGJibnhMckhPMlR5VVBDMzlLaHA5WkpOSGJwXzc?oc=5",
-  "id": "2026-10-25-int-5vvbdmzllaha5wkposgjwxzc"
- },
- {
   "drones": 1,
   "kind": "intercept",
   "missiles": 0,
