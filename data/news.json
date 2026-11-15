@@ -13,6 +13,19 @@
   "id": "2026-11-15-int-umd2n1lwzentvgextkdpnm44"
  },
  {
+  "ts": "2026-11-15T04:25:00+03:00",
+  "region": "east",
+  "type": "official",
+  "kind": "intercept",
+  "source": "وزارة الدفاع عبر صحيفة الشرق الأوسط",
+  "title": "المنطقة الشرقية والرياض: اعتراض صاروخين و3 مسيّرات، فجر الأحد",
+  "summary": "أعلنت الدفاعات السعودية اعتراض وتدمير صاروخين باليستيين وثلاث طائرات مسيّرة أُطلقت باتجاه الرياض والمنطقة الشرقية فجر الأحد.",
+  "url": "https://news.google.com/rss/articles/CBMiuAVBVV95cUxQbU1WdTkwcEF3cXJVZkJtNkIyamwxZGdqelBzYlc5WUxab2NndUpIVGtKYkpYaFZSWWduRXlVNGROMVExY1E2RTA0U2tiMGw5UlZmTk5Jcmp5N2NjVk43NzJMSDJnaUJUX3J5anRZNDNwV19DY0JuaEk3YVpTZE0wa1ZvUDRsVmdIUjdpS21ydjItZ05zNmlvanNMQUZ6bkwxR2NIYjNBQ0NUTUFYSWd0OTV1SFJkR1VfcWpWTWJ4SlY1TWM1OWFLMnFPUWRtNmswYk1jR3lSMUNRLXF5ZkVGVjQ1R2ZhQVJNdDRhZElsdHRYR1E0S1ZyMU1Nb2dScUdhNW5uQk0wSlhoX0lUcnB0UE52bUxSRzAtQzFRSU9uTTFJWE8zc2tRaU15MU9RbWljaGJEVjhpUFUwcnFnWUJlNlQwS2o5eGJLYllfQUFleDZLMVlobS1YNktsMHcwMmp6aE5yajNEekJVam9FUndRSm93V2Nfdm50MElGakdxWGdRQTQtOTJFcV9IREx3dWx6ci0xQk1GS1lJemZ2SVZ3RVMtekhEaUVRT28xV01wOTBadk5nd3J1LTNGM01uSVRmVUJWN0xJNTdlXzZWN28xWlZWaGNHNF84LWpaSi0yN0xXOXJWVmxQX2ZJaG9jWWZLcEV0MFdFNFNqVTNyQ2ZkeHVKVnBPT3dURFdSV1BZUkE5SnV6dk13OXRFNTlyaW5FTENqTDlGcndWc1BNdUs1VTVUZlM5SXctZU1jUFhoNVZkSGc4emxtQmswZ3Jab2NTcWd1ZEhvaUJ2bjNhVzJtX01OOVdtTTI2M0hZWVJIWnJ4RmFuSUEwSG1JTWZyYW56YzBaNTZ3eGRxSmlJODY5dXJ2aEd4NWczMWNHVmR3TnJ2RTMtSHVnMEVZcjhEOVF1amMxMnRKckE?oc=5",
+  "missiles": 2,
+  "drones": 3,
+  "id": "2026-11-15-int-nmevzcjheovf1ammxmnrkcke"
+ },
+ {
   "ts": "2026-11-14T21:25:00+03:00",
   "region": "yemen",
   "type": "report",
