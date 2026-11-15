@@ -1,5 +1,18 @@
 [
  {
+  "ts": "2026-11-15T04:32:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "intercept",
+  "source": "تحالف دعم الشرعية عبر صحيفة سبق الإلكترونية",
+  "title": "منطقة الرياض: اعتراض وتدمير صاروخين باليستيين، فجر الأحد",
+  "summary": "أعلن التحالف اعتراض وتدمير صاروخين باليستيين أطلقتهما الميليشيا الحوثية باتجاه مدينة الرياض فجر اليوم.",
+  "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1vMGoteThScC1zbUctTVlnZkU2MWtkekl2WE13TTRjUGhKbVgwamx5Y3lGRVF6Umd2N1lWZENtVGExTkdpNm44?oc=5",
+  "missiles": 2,
+  "drones": 0,
+  "id": "2026-11-15-int-umd2n1lwzentvgextkdpnm44"
+ },
+ {
   "ts": "2026-11-14T21:25:00+03:00",
   "region": "yemen",
   "type": "report",
