@@ -2323,28 +2323,6 @@
   "id": "2026-10-25-ksa-zvktzn1hxzldkeji1ltfvujq"
  },
  {
-  "ts": "2026-10-25T12:42:00+03:00",
-  "region": "ksa",
-  "type": "official",
-  "kind": "other",
-  "source": "الشرق للأخبار",
-  "title": "التحالف يعلن اعتراض 12 صاروخاً ومسيرتين بالرياض وجنوب السعودية",
-  "summary": "نقلاً عن الشرق للأخبار.",
-  "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxQQVdCMVFKNWJUMGd3dHhBcElOQUpWTmRZLUpjZ05oa0UxOVZuTFQ3anFTbld4QkNJZkRrQnNqM3VFOHVDdndfWlhFeEtQSVozWGZNclVSamxncmpDOXk3d09wRzVvaXdvNmtFNlpVdW5DbnUzUXM2dVh0NWJ4NDVfcVhNU1F4MzFnVjlXTVduZTNoeU12UGpEbi1PX3ZHcEYxd0dXZ3VwcHZqcVV1NFJnY2w3M2VKWkkxNFN2WkdyNWJWb21sWllXQlJwbkk2NjV2RW1CMUcwZUhGbTFUTk9STDMzZjJHclFxNnpVZFlZSVhOX3Y2SlFLUmJpV2lzd3ZrSFNDYUZRZ3IwSk5EYmlEWlpqVDhqZHhmZHRXcktLWDMxVXU2cmNOVjViWkpaME9GamdKZzc3UGFEOGx0TmZUbEpaWGE1Z0RBSlh2alJDazVxQm1RN0RLTmd6RmpHcDk0endjMTRBdUI1QUJEQnNBXzJQaFFhQ1pSOUYzOW1kX3NfZ3dxRnVWcF9JZlc2ZTJxODZOUUlBOUJvQ1ExY2xQSWxiQ1lISGo2MlQ3YzJPOWxYa0lTQjVCRXJtdHNSQ1Y2bDBDN1MwdDl2QWNCT2JRWGw3OWl4cmVPUHhqUUg2YUViQzdzcTZwaldR?oc=5",
-  "id": "2026-10-25-int-uhhquug2yuviqzdzctzwaldr"
- },
- {
-  "ts": "2026-10-25T12:26:00+03:00",
-  "region": "ksa",
-  "type": "report",
-  "kind": "other",
-  "source": "Reuters",
-  "title": "السعودية تعترض مسيرات وصواريخ مع استمرار القتال مع الحوثيين",
-  "summary": "نقلاً عن Reuters.",
-  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1WRkpoU0hYYlZjNnpmSlFtb1NMREhJcnJGUlFJTmNoaWFMU0xOM2tjMmRzalhBTGpJNzIzanhjWmtRNi0zWUFwalBUQTF3OWtvR00zaE9nNjFHUlpabXFxNmZ0WFRmVUw5a1B6WWliWUVhYk8wc2NvbjFHMA?oc=5",
-  "id": "2026-10-25-ksa-b6wwliwuvhyk8wc2nvbjfhma"
- },
- {
   "ts": "2026-10-25T11:59:00+03:00",
   "region": "ksa",
   "type": "official",
@@ -2356,17 +2334,6 @@
   "missiles": 10,
   "drones": 0,
   "id": "2026-10-25-int-2r2n1y1dkrucxelzuynzyx3m"
- },
- {
-  "ts": "2026-10-25T11:32:00+03:00",
-  "region": "ksa",
-  "type": "report",
-  "kind": "other",
-  "source": "Anadolu Ajansı",
-  "title": "السعودية.. زوال الخطر عن 4 محافظات بعد إطلاق إنذارات مبكرة",
-  "summary": "نقلاً عن Anadolu Ajansı.",
-  "url": "https://news.google.com/rss/articles/CBMiqARBVV95cUxPS29Tejl1N25zWUdTSHdNOXZjc29SVllwcVFTWVRtT2xfUVc1MXZnLXRDakhvd28tTE5ocUd4UVVsc3hudEozT0hud2tIUUpCejItS240ZjlBcWVXSVR3TTN5eG9la3cxLWI1TmprMG1US1FFZTdaVlp4SnBZQXRsS0IwRE1EOVZkSGlVUVVDQ1d2WGcxcjlTYWJQelRQdGdRQnVuWnNIcnlHUktDdURGOXhCSlFkY09LUGZsQmdBTzNmUTJ3SGhDTE9KUEdrdlZCSDk4TV9tNXJubGh4WmNpUGc3WkZMX0NENThMQlFzQjc5S0t4OXBFQmJXTm90dE80eVRTTktsZGpxSTJJcExIc3JFSjlpZFpuMEt6MWZkN3B5elBSN3lfcVJURGlRaTJWbHJUemE0WnRvemhYb3gzNmRDa3JwY0U5SG1kU29NQVQ4cXJnb0M0NXBMQ1UwVzFKOThJNmJCaFcxUnNhdmx1Q1BmVW0zaFYtbVdWUlJ5NmZnc0ZrV204MnZVNDB6Z1JZdkJpai1TTFAzbGlhOTRtNkR0a2YwXzh4UFp6Y0pYRVRsU2g2R3Q0bWpSM0VjMF9kemc2Y1pVc1RXYkVLSGJBckNlUmFiWFNYemVSR1hoMzBtREdlSFc2b243QmlkZ2ppdlZjZWFha1JnRnh1OGxrSV96b3FIcFVid3dDb19zRFRQTkJLUnYxUjBQcUlQMl9oT3NOR1o1X3U?oc=5",
-  "id": "2026-10-25-ksa-xujbqculqml9ot3nor1o1x3u"
  },
  {
   "drones": 0,
