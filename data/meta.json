@@ -1,6 +1,6 @@
 {
  "casualties": {
-  "houthiAsOf": "2026-11-14T17:54+03:00",
+  "houthiAsOf": "2026-11-15T17:28+03:00",
   "houthiDays": {
    "2026-10-10": 1550,
    "2026-10-11": 1150,
@@ -31,11 +31,12 @@
    "2026-11-11": 138,
    "2026-11-12": 219,
    "2026-11-13": 221,
-   "2026-11-14": 321
+   "2026-11-14": 321,
+   "2026-11-15": 201
   },
   "houthiNote": "محيَّد = قتيل أو جريح، حسب متحدث القوات المسلحة اليمنية (رقم من طرف واحد). المجموع = حصائله اليومية (24 ساعة) المعلنة من 10 إلى 24 أكتوبر؛ أيام العملية الأولى و22 أكتوبر ما لقيت لها أرقام رسمية، فالمجموع الفعلي أعلى.",
   "houthiUnit": "حوثي محيَّد (قتيل أو جريح)",
-  "houthiUrl": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4xc2RUMVFhem9Ha0dqaGhTS2xZa09kM2xiM09OWjhaaHd4T2pOQ0wtYlNBWVFmektjbEhIWER1eG80Sm5INGpr?oc=5",
+  "houthiUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oX2EwT2JVbTV4OElleEhXb0V4aWtscUM5MWFmUDRVNENXd3pEQjJIMzAtVlRVdGl2Y2xNTHZLdjBKWktPeHhzWFlfR2J4ZXUwTGd5ZjJn0gFUQVVfeXFMTUNrZXAzQ0R1aW5KS19EYzVHY1dEYk1WdWc2QzY2c3dFSkY4S0tDRGJyb0lsQXplOEI3R0YyMldHajBiMW5mRkwwVG5qdV9fSnFaaWRT?oc=5",
   "ksaAsOf": "2026-10-18T18:33:00+03:00",
   "ksaDeaths": 19,
   "ksaExtra": [
@@ -64,7 +65,7 @@
   "ksaInjuries": 364,
   "ksaNote": "19 وفاة و364 إصابة بالمطارات حسب مؤتمر التحالف (15 أكتوبر)، مضافًا لها الحالات الرسمية المعلنة بعده: 6 إصابات في نجران (18 أكتوبر)، ووفاتان وإصابتان في حقل شيبة (21 أكتوبر)، ووفاة و8 إصابات في مطار الملك فهد بالدمام (21 أكتوبر). إصابات الهجمات خارج المطارات قبل 15 أكتوبر غير مشمولة",
   "ksaUrl": "https://sabq.org/article/ab8lehj",
-  "vehicleAsOf": "2026-11-03T22:00+03:00",
+  "vehicleAsOf": "2026-11-15T17:28+03:00",
   "vehicleDays": {
    "2026-10-11": 180,
    "2026-10-12": 380,
@@ -80,13 +81,14 @@
    "2026-10-26": 140,
    "2026-10-27": 146,
    "2026-11-01": 169,
-   "2026-11-03": 120
+   "2026-11-03": 120,
+   "2026-11-15": 121
   },
   "vehicleNote": "آليات وعربات وأسلحة حوثية دُمّرت أو أُعطبت، حسب الحصائل اليومية لمتحدث القوات المسلحة اليمنية من 11 إلى 24 أكتوبر (رقم من طرف واحد). حصيلة 18 أكتوبر قالت \"عشرات\" بدون رقم، و21-22 أكتوبر والأيام الأولى بدون أرقام، فالمجموع الفعلي أعلى.",
-  "vehicleUrl": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA1Yk1sS1F5bDZJWFZoa2E0aFFWVzFBb3diWkZ3eGlvSEJ5WkRYZFdDQ0R4Z1U3S09NLTZNNlJPYm1xb0o2aVkw?oc=5"
+  "vehicleUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oX2EwT2JVbTV4OElleEhXb0V4aWtscUM5MWFmUDRVNENXd3pEQjJIMzAtVlRVdGl2Y2xNTHZLdjBKWktPeHhzWFlfR2J4ZXUwTGd5ZjJn0gFUQVVfeXFMTUNrZXAzQ0R1aW5KS19EYzVHY1dEYk1WdWc2QzY2c3dFSkY4S0tDRGJyb0lsQXplOEI3R0YyMldHajBiMW5mRkwwVG5qdV9fSnFaaWRT?oc=5"
  },
  "status": {
-  "lastRun": "2026-11-15T17:37:13+03:00",
+  "lastRun": "2026-11-15T17:44:38+03:00",
   "note": "ما فيه تطورات مهمة جديدة.",
   "added": 0
  }
