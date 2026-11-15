@@ -1,5 +1,29 @@
 [
  {
+  "ts": "2026-11-15T07:28:00+03:00",
+  "region": "east",
+  "type": "official",
+  "kind": "intercept",
+  "source": "تحالف دعم الشرعية عبر وكالة الأنباء القطرية",
+  "title": "المنطقة الشرقية: اعتراض وتدمير مسيّرة، صباح الأحد",
+  "summary": "أعلن تحالف دعم الشرعية عن اعتراض وتدمير طائرة مسيّرة أُطلقت باتجاه المنطقة الشرقية.",
+  "url": "https://news.google.com/rss/articles/CBMivARBVV95cUxPR213U3Y4TC1pQnU5YUdtYlBjTDFrb1dvWHZPRW53eTBpLUlLSTlycndteEM3ZzFYMWt6ZVR6ZVFPVklyLVFsX1c4NzBYOVcxaGx4QkJPT0RFU3JESnhzanE5cW1FRjBmRWJXUUNSOHpRdXVDMEZVM2M5U0gwVnFCSHdxMnp5MEdvd1ZtM3FqRmtfNDk0aXhuRUJOYUxYa3A4bThqMkM1UXYtMGRwS2Y5c1hTTEF3UjR0aHlwa2tWandqOGs5b3JfdzlSdDg5a3Y4aUlYV1RsNVpsT2VtbkxyOTVHazh4aGRvNTd5d00wVE81YktZM2JRbVNZX3BXSWQ0M2dwcmttU0RpUlo1Y01YUXl3dmJGQXVyUEo3LU1TUlFPRXFrbzl2d2JUR0k5RWFQT2E3TkRTSFF6b3IxVUk5YTFiODd0QW5jYzFPWUVfaVo4cERpZzNjV0lNLXBpRGU5ZWY1eHQwWHFjS2JWaERFbWJhS3lZbWxiS1JZWHRXcVVfc1FUMlgtT3NHMzVYZlJfMklfaFFRd2xNeUJCYjd5ZU9MSkxlTl9xS0JkMzNfNjhwN1lvNXdMem9vSkV6V01Wb25rVkV4OVBxQUc4UzFIUnY4Q3lTcHRlYkZMUzlZeVN1a1diTFREYS01TzRLZE5xbVpDUk5BT01CUE1LWF9ta3Z2aXVydzBjaWdncmxjMDJnSW11bHA1N05maFcyMU5xT1pHaDhCbmtFN3d5akNaRUhIVG96RTlvLW5JOA?oc=5",
+  "missiles": 0,
+  "drones": 1,
+  "id": "2026-11-15-int-d5aknaruhivg96rtlvlw5joa"
+ },
+ {
+  "ts": "2026-11-15T07:24:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "other",
+  "source": "الدفاع المدني السعودي عبر وكالة الأنباء القطرية",
+  "title": "مدينة الرياض: الدفاع المدني يطلق إنذارًا مبكرًا تحذيرًا من خطر، صباح الأحد",
+  "summary": "أطلق الدفاع المدني السعودي إنذارًا مبكرًا للتحذير من وجود خطر في مدينة الرياض، داعيًا للتقيد بإرشادات السلامة.",
+  "url": "https://news.google.com/rss/articles/CBMixwRBVV95cUxNREVsc1RPVms0cms4VGtnLWUtcDNLa2g5SW1zSkV4MFp5Y1NrRFB2Y3pGWDVxT1ItWUVXR2JFOE05QVhpbnJpQk5MWW9lRkVCZW0zT282YVhabHpTTllwa0szVWtsWUoxLThIeUtpcm8tdjE5WnVNMERDbzQydlFaY1d2elpMTHlVTllnbDNSLXBCWVJneE85UEhOWm5WeWdCeEFzekEzLWFWcURlWXVDR2V0bk1JWjQ0UWpBZUFhei1KVW4zR2tQaFFQVEM1Y205WXhaZnBCTDZtTVNCUkJoT2wwa290bGtTcmhHTmtPd19VNFJjbDZTLU1DVko4SVBIT29CZ1NMWGFtZTZjN1ljbzlmNEFsRXpVT1NTa0ZaeGFFRmhuVlV6UWlialFmV1V4cUV6bmFoQWxHcWhZVk15MHRvWGxPbGktMEk0QzZ0Q0hFSVlQMTQ5VmFtcjh2OU5STnZ6S3ZEWExnX19KVDRCX2pCNWdJNzFjbGQ3bTdNRWxHclV3d2hMMjNHeFV5REhBYkl3QzdOcWdiR2ZXd1QzbVNiVU5yNU5pZDQ1Q3c2cEN0VjZOcWpYd2pZbHA0TmVldnpXZFRrLU81aS03VGx2WjA2SXI1NXRSOGE3RkdpTHIza3dqa3Q0WGNpVXZXQWZjYWdGTUlHQmhoQV96cXhmNTZoWE4xaW1iSTZQQ25DYUxHWGR4cXhkbEFTUF9Gc25UcUhxdUpnWHVvUUJmQWw5cTUwYmxhNEdLdmdTQTZYMGxWT3NhbEE0?oc=5",
+  "id": "2026-11-15-ksa-nedldmdtqtzymgxwt3nhbee0"
+ },
+ {
   "ts": "2026-11-15T04:32:00+03:00",
   "region": "ksa",
   "type": "official",
