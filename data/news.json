@@ -2380,17 +2380,6 @@
   "id": "2026-10-25-int-zeevlwdfn3shjdnjhpq1h5uq"
  },
  {
-  "ts": "2026-10-25T07:58:00+03:00",
-  "region": "yemen",
-  "type": "report",
-  "kind": "other",
-  "source": "https://www.sabanew.net/",
-  "title": "وزارة النقل تدين استهداف ميليشيات الحوثي لمطار عدن بصاروخين باليستيين",
-  "summary": "نقلاً عن https://www.sabanew.net/. رواية طرف واحد.",
-  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1peUdkZU1OdHBYM3QycVc2c0ptLWpiLWI1VzluNjAyMHhqdlQzelZlWXhYWXl2Xzk5OUZsd1AyNDhWM0NhYV9Fd2JCVGRDZjVY?oc=5",
-  "id": "2026-10-25-yemen-ndhwm0nhyv9fd2jcvgrdzjvy"
- },
- {
   "drones": 0,
   "kind": "intercept",
   "missiles": 1,
