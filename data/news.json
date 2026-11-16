@@ -1,5 +1,18 @@
 [
  {
+  "ts": "2026-11-16T16:53:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "intercept",
+  "source": "قوات التحالف عبر وكالة الأنباء القطرية",
+  "title": "منطقتا مكة والرياض: اعتراض وتدمير طائرتين مسيّرتين، عصر الاثنين",
+  "summary": "أعلنت قوات التحالف اعتراض وتدمير طائرتين مسيّرتين أُطلقتا باتجاه منطقتي مكة المكرمة والرياض عصر اليوم الاثنين.",
+  "url": "https://news.google.com/rss/articles/CBMiowRBVV95cUxPTjRSN2dfbm1kd2JqNDNucHNURHdzMTRicEZFdXNZdzlxYy1XRFA4NmlnSGU2N253UTNiRWhST2tNSktpTkpKa3ppc25XVks2NUFaUEhVMXBWLTI5eEVCZnptbzQ3c0NXV2YySW5mMENLZG15OHppYVFyR0ZnMWRseG9RVkFMcjZ5QlRxdllEWWRZcHA1S1REWXFyazRrYldfdGdQZTZjeC1nZjluUkZfcENlQ0FBNkVfVGtvbFc4VjVjZE02NjZLNHVzaGl4YlFncjRqUkJNeDdsc0lfWHUxS2h1dF9qSS11dGYxaUV6SS11MDRqajViaUJ3VEYtWEE5Qk9KVDBDeDdVVmV1eDhya0U0VkVDbTluUHBvZzdOZ1ZlYnhKTTE0d0tlVkFjTVVpLXNZT0M3MHJDUzJXblBhVi1DMDNqLUxhWS11a3VVYXE0QnpKamNiRDZ5NmJDc0hMUXQtUjdrTGV5aFh6cDF2X19jNWlhczIwUUREazI0OFRHRzNId2RJckhfTGZRenFNVi1aNFVSS2xyUDFhQ2tBdDdWN05ISXZrMDRxdDNaei13LWxJNDFfcHZIX1laQlY2OWhCbW13enBxZTY3YWJ1TnNPQnNrUUlodW9yQk03NXJaNG9GaXg2LWtoNGtvNWJyZjBXOFd1TVhLMm5waWJudkNWeVV4MG43QzZTdnJNNEZjcEtUUDZxeHpGVWdPaFZGbUJF?oc=5",
+  "missiles": 0,
+  "drones": 2,
+  "id": "2026-11-16-int-cetuudzxehpgvwdpafzgbujf"
+ },
+ {
   "ts": "2026-11-16T15:10:00+03:00",
   "region": "yemen",
   "type": "report",
