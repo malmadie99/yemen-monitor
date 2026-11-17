@@ -1,5 +1,18 @@
 [
  {
+  "ts": "2026-11-17T18:44:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "intercept",
+  "source": "تحالف دعم الشرعية عبر وكالة سبأ",
+  "title": "منطقة الرياض: اعتراض وتدمير مسيّرة، مساء الثلاثاء",
+  "summary": "أعلن التحالف اعتراض وتدمير طائرة مسيّرة أطلقتها الميليشيا الحوثية باتجاه منطقة الرياض.",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5NVTVOZDNDOV91SkdzdXcwS3o3amM4dWs3TkpJWm1jQXRBOGVaWE9TbVlOWmQtMmpqQm1ZR3kybjFDNnlGTnktR1dqdC1Qc1NO?oc=5",
+  "missiles": 0,
+  "drones": 1,
+  "id": "2026-11-17-int-bjfdnnlgtnktr1dqdc1qc1no"
+ },
+ {
   "ts": "2026-11-16T17:48:00+03:00",
   "region": "yemen",
   "type": "report",
@@ -2070,17 +2083,6 @@
   "summary": "نقلاً عن جريدة الرياض.",
   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5MSjFkbVlLbHZXWGlRdEhhUm5VdWxRb1g1OFU4WWRJSm5NU05OcjNxLW95WEUzVUoyd3hFQUFncDQyeWY5TkxN?oc=5",
   "id": "2026-10-27-ksa-vuoyd3hfqufncdqyewy5tkxn"
- },
- {
-  "ts": "2026-10-27T18:45:00+03:00",
-  "region": "ksa",
-  "type": "official",
-  "kind": "other",
-  "source": "Anadolu Ajansı",
-  "title": "الحوثي تتحدث عن استهداف وزارة الدفاع السعودية ومطار أبها",
-  "summary": "نقلاً عن Anadolu Ajansı.",
-  "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxOUVlNaHBJYlRwRFJ0eVFOeU9nenN5dmttMVZKMkVZMlE3VjhBQnlvcXVrNkpsdXZYYTVkMm9BcDBaUlFIN2pKSWlQT2JzTEZLNzUxTDRPLXl3aU1oS0Q4dmktYWdFbWVHUE9SQ0NRN2hWSGlwUFgtOGFMTTZsSkMteTNUbG9zMnFXS19BTjhUcDhfZ0hxOVdRNW9fOU9GYl83TDJIRjdqdWxtbXc4d2w4WFpVY0s3VHB6TXFKRWpxTGlkT2hrdjhlcklfSG1hRExacVpTOW9wTUdVOXQtSVRrX0FiRnZhUlFmeW8zems5cWxSN3lOM0U3Y1g2cDJsTFFGbWZaVVZoQ0hBaW12MktxYlB4cVdlM0IzLTJkdGV4cWtwZm4yc0kzS0pjMkFWbFRPNGZWQTFIcE5uSG1TR1N3VU1mR1p6N1YtNERUOFdESkg4TktQY1JTbW9KOHFNRkJFajdaeEdveHlIM0Y2eGxGYjFDSzR4aVltRHlMNEY5Mkp6emEteDE2NEFyc240WUh4VXJZZDl2X0RnSHF1d1oxZWdkaVhPeUlhbnBwaVRubjU3SFRYS0JnMlRocGEwOVhNX2FBalM0TklDZUxrcDFJYkowSVktcERjN1dUSTN6TzNyZkFnVlVDa1YzM0VObzZva3FlU0JuamtzaHh1X0E?oc=5",
-  "id": "2026-10-27-ksa-obzzva3flu0juamtzahh1x0e"
  },
  {
   "ts": "2026-10-26T00:21:00+03:00",
