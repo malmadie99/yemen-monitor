@@ -38,7 +38,7 @@
   },
   "houthiNote": "محيَّد = قتيل أو جريح، حسب متحدث القوات المسلحة اليمنية (رقم من طرف واحد). المجموع = حصائله اليومية (24 ساعة) المعلنة من 10 إلى 24 أكتوبر؛ أيام العملية الأولى و22 أكتوبر ما لقيت لها أرقام رسمية، فالمجموع الفعلي أعلى.",
   "houthiUnit": "حوثي محيَّد (قتيل أو جريح)",
-  "houthiUrl": "https://news.google.com/rss/articles/CBMipANBVV95cUxOOVdDNWFZREd4V3ZYcXZYTUJyeEFNY2JyTDJCM1pRM3hRY3ZfbFE0QjJQVlZ5VTNtLTMwN2JVQ1F0QkN5Y2dZbE55WWh4cmE2dUUzZ1VPdFl2QmNyMm5iM0RKNExocVFUR0VidjdSb2kzMXJpQ2RUOUpmSGtEVnJOaDJHdV9DS1VrYjJmYmJJQkx3NVByS1l4UnFCOFppam1JNkppRnR0eVRjOE44NkVicEdXbHdTZHlOaU5uaTBUbXNXellDYV9paEtYMExRRmVwQ0hTNHV1bjYteTA5VDVzLXowZjA4VFplUjJpSGhYcnVCbVJGX2NwNU0tNFJIWU5QM1cwdXFITFRFeXIxamNtSjA1X2JiNm42LTRVeEU2d1ZRcFh6NXFBQ3BzRlpWT2JTVnlfa0swQW1wX2luVklnRC13bm9WcVJ3cFp5QmdPTWJ2X05XYzdqam81MEI1LTBqd0l0cHVuSTJ3aGFpVVdyWndQSmJhNW81ZkxROTd2cEtQdEFHWmFZa0hJQ0dRY3hJUkI0T08tYlF5RUs1Y254ZUp5OWbSAaoDQVVfeXFMTm9lU3FvV2NJZW1oVzhtTjB3eHlFejRIMHgybTBpUTlxT18wMDRGeGluUjhCeUVVc2hiWTBMY2hxdjJyRnFUWVNiTTdwRnZfMVkxSW9NczZpOFZJV0ZxWFRoOU1yTlZfbHRnbzg5QkZvR1Z4UTBhMV9Oam1sR3owS3lVMFpJWEU0U2Itb2YxR0ZSVmgtT0FoMFowbmltRWJCdEpZZngyVV9vc25tZUhKYVdRTmZ2QXIzU2VfRHJZcmNmOWd4X2FwTGs0dy1saHZwV1p5YmV0Uld4b0pITG1DU1lJZEtkdkkyS1dfb19jd0o2ZHBkUlRXNlpqbS1GOWFkLTRpTkpJQUxRdkhqNGU0c1I5ejgwaUR5OXo5MWZaaUJuQ0pONUFyUlN1ZGxremtDams1YkZWREphUUR4blhZcjhab2I2Wi0xYVlLWjJPbWlpcW81eGFIMDdKRnZydGRFcFk1WVpVaXp4OVJXMGxOano2ZkNnRjEzdnpGUmRzYzhkOEVzbl9mdUVBbGluWkJ4U0RQVzUwS21OOGRyWGNBYXVEUGJ6VlQ4cWh3?oc=5",
+  "houthiUrl": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNNnMzVllSdUotNnpEeVIzSmF6UWR6T016dllrQUFSTHNldWM3Q0NfYzhubTJGNks2aTh5OFpnWkl2RW0zU0lPeFFsTWZtbEZ3M3pqYW9NaEdneWRfbmp3TkQyUDhfcm5hbjJQQTEwc3QyTXNZYk01S0Nzcko3YTZwZ2V4MFY5azBkdWRTdEpHYl9nZncyMjZGRmRJVGNZZWdaSzM1Y1BpVlIzYmRMY0FTSU5md3pjTjFjTW9NZUNGT0pJQ05ldmtTMHYzakxKdTZqOW04VlJnakJDWlRwUlVyZlVCUVh6QWhhRHZXUGh3Ml9fZzJEV1ktRnEwY0ptNzh6dDdTU3NRTEdMWjJoaWU1aHEtaUkxcWstLUV4dUVtLTYyaUlOT0dyN3IxekV4LVJQel96NVJna1FkVHIzcGxhUjg2dU5UWnVRcF9GaWNrbW5ScjA3NXFYcDBqV2JHQmc4ZXlWaUp6eDJoaDlIbm9qUXNJZm5VOWFtVkZ6VTF0TzU1RDVMalRn?oc=5",
   "ksaAsOf": "2026-10-18T18:33:00+03:00",
   "ksaDeaths": 19,
   "ksaExtra": [
@@ -90,8 +90,8 @@
   "vehicleUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oX2EwT2JVbTV4OElleEhXb0V4aWtscUM5MWFmUDRVNENXd3pEQjJIMzAtVlRVdGl2Y2xNTHZLdjBKWktPeHhzWFlfR2J4ZXUwTGd5ZjJn0gFUQVVfeXFMTUNrZXAzQ0R1aW5KS19EYzVHY1dEYk1WdWc2QzY2c3dFSkY4S0tDRGJyb0lsQXplOEI3R0YyMldHajBiMW5mRkwwVG5qdV9fSnFaaWRT?oc=5"
  },
  "status": {
-  "lastRun": "2026-11-17T21:53:31+03:00",
-  "note": "ما فيه تطورات مهمة جديدة.",
-  "added": 0
+  "lastRun": "2026-11-18T01:14:42+03:00",
+  "note": "أُضيف 1 خبر.",
+  "added": 1
  }
 }
