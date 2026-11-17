@@ -1,6 +1,6 @@
 {
  "casualties": {
-  "houthiAsOf": "2026-11-16T17:48+03:00",
+  "houthiAsOf": "2026-11-17T19:32+03:00",
   "houthiDays": {
    "2026-10-10": 1550,
    "2026-10-11": 1150,
@@ -33,11 +33,12 @@
    "2026-11-13": 221,
    "2026-11-14": 321,
    "2026-11-15": 201,
-   "2026-11-16": 173
+   "2026-11-16": 173,
+   "2026-11-17": 178
   },
   "houthiNote": "محيَّد = قتيل أو جريح، حسب متحدث القوات المسلحة اليمنية (رقم من طرف واحد). المجموع = حصائله اليومية (24 ساعة) المعلنة من 10 إلى 24 أكتوبر؛ أيام العملية الأولى و22 أكتوبر ما لقيت لها أرقام رسمية، فالمجموع الفعلي أعلى.",
   "houthiUnit": "حوثي محيَّد (قتيل أو جريح)",
-  "houthiUrl": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5Fb2pibzNmNXo2XzFBRFp4YnZ0dU5zS29KZE5QZ2NhbEdpNGVkUER0QTBWZU9reVlBX1F2LUhIMm9PZmxVdm9J?oc=5",
+  "houthiUrl": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1MMlN3bmNKd0NhQ2xVODdWRENfelppRkt0SHFxMzhvekIzQkRheUFFY3cyZzFXSFhDRkV1bHplVTNadWtaTjZB?oc=5",
   "ksaAsOf": "2026-10-18T18:33:00+03:00",
   "ksaDeaths": 19,
   "ksaExtra": [
@@ -89,8 +90,8 @@
   "vehicleUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oX2EwT2JVbTV4OElleEhXb0V4aWtscUM5MWFmUDRVNENXd3pEQjJIMzAtVlRVdGl2Y2xNTHZLdjBKWktPeHhzWFlfR2J4ZXUwTGd5ZjJn0gFUQVVfeXFMTUNrZXAzQ0R1aW5KS19EYzVHY1dEYk1WdWc2QzY2c3dFSkY4S0tDRGJyb0lsQXplOEI3R0YyMldHajBiMW5mRkwwVG5qdV9fSnFaaWRT?oc=5"
  },
  "status": {
-  "lastRun": "2026-11-17T19:35:09+03:00",
-  "note": "ما فيه تطورات مهمة جديدة.",
-  "added": 0
+  "lastRun": "2026-11-17T19:41:20+03:00",
+  "note": "إضافة تقرير جديد عن خسائر الحوثيين حسب إعلان الجيش اليمني مساء الثلاثاء.",
+  "added": 1
  }
 }
