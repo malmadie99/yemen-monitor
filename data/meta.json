@@ -1,6 +1,6 @@
 {
  "casualties": {
-  "houthiAsOf": "2026-11-17T20:10+03:00",
+  "houthiAsOf": "2026-11-18T20:33+03:00",
   "houthiDays": {
    "2026-10-10": 1550,
    "2026-10-11": 1150,
@@ -34,11 +34,12 @@
    "2026-11-14": 321,
    "2026-11-15": 201,
    "2026-11-16": 173,
-   "2026-11-17": 178
+   "2026-11-17": 178,
+   "2026-11-18": 142
   },
   "houthiNote": "محيَّد = قتيل أو جريح، حسب متحدث القوات المسلحة اليمنية (رقم من طرف واحد). المجموع = حصائله اليومية (24 ساعة) المعلنة من 10 إلى 24 أكتوبر؛ أيام العملية الأولى و22 أكتوبر ما لقيت لها أرقام رسمية، فالمجموع الفعلي أعلى.",
   "houthiUnit": "حوثي محيَّد (قتيل أو جريح)",
-  "houthiUrl": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNNnMzVllSdUotNnpEeVIzSmF6UWR6T016dllrQUFSTHNldWM3Q0NfYzhubTJGNks2aTh5OFpnWkl2RW0zU0lPeFFsTWZtbEZ3M3pqYW9NaEdneWRfbmp3TkQyUDhfcm5hbjJQQTEwc3QyTXNZYk01S0Nzcko3YTZwZ2V4MFY5azBkdWRTdEpHYl9nZncyMjZGRmRJVGNZZWdaSzM1Y1BpVlIzYmRMY0FTSU5md3pjTjFjTW9NZUNGT0pJQ05ldmtTMHYzakxKdTZqOW04VlJnakJDWlRwUlVyZlVCUVh6QWhhRHZXUGh3Ml9fZzJEV1ktRnEwY0ptNzh6dDdTU3NRTEdMWjJoaWU1aHEtaUkxcWstLUV4dUVtLTYyaUlOT0dyN3IxekV4LVJQel96NVJna1FkVHIzcGxhUjg2dU5UWnVRcF9GaWNrbW5ScjA3NXFYcDBqV2JHQmc4ZXlWaUp6eDJoaDlIbm9qUXNJZm5VOWFtVkZ6VTF0TzU1RDVMalRn?oc=5",
+  "houthiUrl": "https://news.google.com/rss/articles/CBMixgNBVV95cUxNbDB0LUNjOUgzbHZnSm04X1BNV2pvYU5NbWhJQnpBR0h3UThYN0E2OXlNek1JQ19oNlVlSkRLU3dGazcwSlZhMmI2VGhmOFJDaGNmdXF4cGRwaW5lSW15UUgtdVE5YmctaG5MaDFCUFpQRi1JYXhUbXZ6WTVsb19Wdnh2LXQ5YVNpdFpCVkkxSjRBVnlPRENteTJscXNWb3dDdm1MeEM2OU1RVVloM2ltekUzLXZoeXc4SjF0bGNpXzdZTWlocE9fOF9sV0M0bHhTWGhtS2Y2MGhybGhLdnZRcUNQbkNOSzZOTF9YQU1IYk41YjhkeDQ4LXFhaV9pRDg1eTVJb2hocXdTb0hyTXRrVmYzLUxJblN0T2VwQ2ZlR0locGJ6MTh2bWVCa2xHV25nVGhSMzZuR3ZQQUFtZjAwakJGYmlUSURlNmg2dktJMVBFOC1MN2hGRGhjSTRndVV6dzc3a0NhcmFxZ0VqV3VvYllaUzJCWGIxQkhUNUZGQmZmV2cwYmFxYTNKbFQzV0tzUE9uWElZQjNQTExmT25OcTg2Y0NSTEtGTlZIVU41R2FJeEFPUFlLOHozZTJ4Z2RhYnRRMjVB?oc=5",
   "ksaAsOf": "2026-10-18T18:33:00+03:00",
   "ksaDeaths": 19,
   "ksaExtra": [
@@ -90,7 +91,7 @@
   "vehicleUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oX2EwT2JVbTV4OElleEhXb0V4aWtscUM5MWFmUDRVNENXd3pEQjJIMzAtVlRVdGl2Y2xNTHZLdjBKWktPeHhzWFlfR2J4ZXUwTGd5ZjJn0gFUQVVfeXFMTUNrZXAzQ0R1aW5KS19EYzVHY1dEYk1WdWc2QzY2c3dFSkY4S0tDRGJyb0lsQXplOEI3R0YyMldHajBiMW5mRkwwVG5qdV9fSnFaaWRT?oc=5"
  },
  "status": {
-  "lastRun": "2026-11-18T20:31:29+03:00",
+  "lastRun": "2026-11-18T20:36:33+03:00",
   "note": "ما فيه تطورات مهمة جديدة.",
   "added": 0
  }
