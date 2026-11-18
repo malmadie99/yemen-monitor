@@ -1,5 +1,16 @@
 [
  {
+  "ts": "2026-11-19T00:25:00+03:00",
+  "region": "ksa",
+  "type": "claim",
+  "kind": "other",
+  "source": "France 24",
+  "title": "الحوثيون يعلنون استهداف مطار الملك خالد والمركز المالي في الرياض والكويت تتصدى لهجمات بمسيّرات",
+  "summary": "نقلاً عن France 24. غير مؤكد.",
+  "url": "https://news.google.com/rss/articles/CBMi9wVBVV95cUxNM21iTFQwWF8tMjdyOTlsVE9lUTRGa2UtM2JVYUhYZkVmUzAxSkFtYmdtQWdxbkRsN3ZJdVc0VWVlZXhDajl2RVpLNk9YZTZGc1JuWU1YbzU3N2lJNklXT3RVZU1wM25uMzRoa3FmaFBvZU8wZXRIc2JCdGk1YlQ3eU5acGQzTDNCcDU5bkMzcHg5Q0d6TEpPLUt5QlJvNWZ0bi15a3Z1anJhODJncjU5NWdWTU5TV3UxRU9QNDUwWjllcU9nWkhYNk9NRjB4T2NWQ1lGbUZBQkl4eElJN0VEcVpvWGR0OWpQdjhnVklfRENIQU9qaTVyYkMzNmFRZmY3ZFZPQWxPZVZ3LUJYNnUzTUkwY2hHQWVKM1BkRVNXSk52bDU2dGR2Y3RiMXIzdktxOVpJb01vUHlQeGJfd3BQSU1SNE5VX3VfQlFfTmxYZ0hFZ3dLMlpWUDNJOGUyWkstU1NnMG45TjBvOHRGYjZCbFNnMTdyUUJRZjBKUzZLMzk0dF9CM3hrdWI5d2lZS20zSFJmR2FjTjltZUdxS0xGVjFFbHdEdXNULUxJWThfdkRWa2hTQl9iVnBfRWxaVDI0VXlDYl9FeF81RGFsV3hHOFlITnptbjhhRGgtWjZqOHRCWFJmbG15cS12ZWpnRFBVWHhlZjJfZDNhZDMwakZVdlhGRG9vSjJocWNnQjNleGxtMmVvSkJLZEZ6ZmNqeGZhZm9FOW9qWWtGNDk2MDljaVoyU3FOMGtmVmZ0MFJrSE9YUzhSWVE1eXBXdVJBak9LT0lNbUZ4MlBVaWtNWnliZVlxY3ZrUFBmeXJyVzlZM0tvUTUzejRxcUtRNzV0ZTZXak9UUlQwSWduWlB4UWd1OUFiSHA1QnlhOV9qVmxFZkhhbnFxbFIzaWZJUzR6d19vVkV4ejBQX0N4dVVTRkhqZnNHdV82N215NDRSRko5WXZpY3RJZVRXQ3pIbU91azh5SGVMb0lsZkFTTllQUV9TM3JpdFFZQWM?oc=5",
+  "id": "2026-11-19-ksa-szkfttllquv9tm3jpdffzqwm"
+ },
+ {
   "ts": "2026-11-18T20:23:00+03:00",
   "region": "yemen",
   "type": "report",
@@ -2127,17 +2138,6 @@
   "missiles": 7,
   "drones": 6,
   "id": "2026-10-29-int-quvuyl8wtfm0ngltcxrnegvn"
- },
- {
-  "ts": "2026-10-28T23:37:00+03:00",
-  "region": "ksa",
-  "type": "official",
-  "kind": "other",
-  "source": "الشرق الأوسط",
-  "title": "التحالف: تدمير باليستي أطلقته ميليشيا الحوثي باتجاه الرياض",
-  "summary": "نقلاً عن الشرق الأوسط.",
-  "url": "https://news.google.com/rss/articles/CBMi7gRBVV95cUxQQzFzaXhOdl9lN3VuUW1KTmNzWUF3ZW5DYnFLczNvNE4waXlYT0hjN0NxODhscjJ4UWVDQ0piR1BiZ1RtRTlWR1RVZHd4dlVlTkdvRWJSYWt3bUFHcS1qSWxjRDA0QloybWFuUU9HcF90WU5CVTJGWjI4YldiTUhHd1k3cXU3M1NxWHVibWZ6ME5tUFZwV0VkeGszUEpFdDlQbjQ0OE1GMWdFNWZ0djRQMW14RXNjZk5ZcHR3WWhXSTN1ZnNlLWJ4MWNzSjMtVmE3NjI0R2g5OWRIOERHc1BLTjdzYVBtREpJQ0I2ZmdxZkMwNGkwWmVQcFVYZGtHTWo5Qll4VzRkaGJpUW1ybXZndVA0NnFCMnRtR0p5Y2FvcE1fRDJNYllRWHplbjRyY29YaDNGczdQMXdWNzgzb1VTdnVRa1pqTjVfOFQzdjBlcEJGVDR5VjY3QjB6VVJNdE9TSV8ybXlBemZCNXNnSVFJX1RIcEZjenpmWmp4WEpWdmNZX0JpVU9fTzZlNVhCMkR0OGhOWklwQ0RYeEpSekVySjlFeGxRMkxyWFdPcjU2RldidjJKbUZqLV9ZWGVNV1ZWSWVDQTFTWHhaQUthRGJqc0RpaUxtdnRLMHdGOTNHMy1uZzNwZWZnMkR1TTJmZlNFbjlPUDlKQmNwWXUxQ0VFSHZiV3FJOXVVd19HVkhuX0ZLRzlKZ3JtVU9zWFlsOU5TakxCZURoNkFZVmhIWVg3MkpaZFRxcmxqaHQyUGZoQnJHWTVYb2NXN0w2TmFUVjB1aEdsOEZhRG1UWllyWlZQcGtFa2Z6VjdkaldKMU1n?oc=5",
-  "id": "2026-10-28-ksa-wlzqcgtfa2z6vjdkaldkmu1n"
  },
  {
   "ts": "2026-10-28T02:42:00+03:00",
