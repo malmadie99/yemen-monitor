@@ -1,5 +1,18 @@
 [
  {
+  "ts": "2026-11-18T07:21:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "intercept",
+  "source": "تحالف دعم الشرعية عبر صحيفة سبق",
+  "title": "منطقة الرياض: اعتراض وتدمير صاروخ كروز، صباح الأربعاء",
+  "summary": "أعلن تحالف دعم الشرعية اعتراض وتدمير صاروخ طواف (كروز) أطلقته الميليشيا الحوثية باتجاه منطقة الرياض.",
+  "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1LcWtlVFBkU3JNOGpIMW43M1BubFNiajJhZWM4ZlVGX0UtMTJGaFcwNmFVOHZFODNxVmJ0akRIWXJqcnVTakZN?oc=5",
+  "missiles": 1,
+  "drones": 0,
+  "id": "2026-11-18-int-odnxvmj0akriwxjqcnvtakzn"
+ },
+ {
   "ts": "2026-11-18T04:57:00+03:00",
   "region": "ksa",
   "type": "official",
