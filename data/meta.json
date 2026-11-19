@@ -1,6 +1,6 @@
 {
  "casualties": {
-  "houthiAsOf": "2026-11-18T20:33+03:00",
+  "houthiAsOf": "2026-11-19T18:45+03:00",
   "houthiDays": {
    "2026-10-10": 1550,
    "2026-10-11": 1150,
@@ -35,11 +35,12 @@
    "2026-11-15": 201,
    "2026-11-16": 173,
    "2026-11-17": 178,
-   "2026-11-18": 142
+   "2026-11-18": 142,
+   "2026-11-19": 144
   },
   "houthiNote": "محيَّد = قتيل أو جريح، حسب متحدث القوات المسلحة اليمنية (رقم من طرف واحد). المجموع = حصائله اليومية (24 ساعة) المعلنة من 10 إلى 24 أكتوبر؛ أيام العملية الأولى و22 أكتوبر ما لقيت لها أرقام رسمية، فالمجموع الفعلي أعلى.",
   "houthiUnit": "حوثي محيَّد (قتيل أو جريح)",
-  "houthiUrl": "https://news.google.com/rss/articles/CBMixgNBVV95cUxNbDB0LUNjOUgzbHZnSm04X1BNV2pvYU5NbWhJQnpBR0h3UThYN0E2OXlNek1JQ19oNlVlSkRLU3dGazcwSlZhMmI2VGhmOFJDaGNmdXF4cGRwaW5lSW15UUgtdVE5YmctaG5MaDFCUFpQRi1JYXhUbXZ6WTVsb19Wdnh2LXQ5YVNpdFpCVkkxSjRBVnlPRENteTJscXNWb3dDdm1MeEM2OU1RVVloM2ltekUzLXZoeXc4SjF0bGNpXzdZTWlocE9fOF9sV0M0bHhTWGhtS2Y2MGhybGhLdnZRcUNQbkNOSzZOTF9YQU1IYk41YjhkeDQ4LXFhaV9pRDg1eTVJb2hocXdTb0hyTXRrVmYzLUxJblN0T2VwQ2ZlR0locGJ6MTh2bWVCa2xHV25nVGhSMzZuR3ZQQUFtZjAwakJGYmlUSURlNmg2dktJMVBFOC1MN2hGRGhjSTRndVV6dzc3a0NhcmFxZ0VqV3VvYllaUzJCWGIxQkhUNUZGQmZmV2cwYmFxYTNKbFQzV0tzUE9uWElZQjNQTExmT25OcTg2Y0NSTEtGTlZIVU41R2FJeEFPUFlLOHozZTJ4Z2RhYnRRMjVB?oc=5",
+  "houthiUrl": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1SNHRicXV2SXNOcktzRlN4bmNvWHlSUlA5d1B6bUhLQlhSNm91TkRRMVNPeXdxTGRXb1lDM0RCeDhJYjFTWFdN?oc=5",
   "ksaAsOf": "2026-10-18T18:33:00+03:00",
   "ksaDeaths": 19,
   "ksaExtra": [
@@ -68,7 +69,7 @@
   "ksaInjuries": 364,
   "ksaNote": "19 وفاة و364 إصابة بالمطارات حسب مؤتمر التحالف (15 أكتوبر)، مضافًا لها الحالات الرسمية المعلنة بعده: 6 إصابات في نجران (18 أكتوبر)، ووفاتان وإصابتان في حقل شيبة (21 أكتوبر)، ووفاة و8 إصابات في مطار الملك فهد بالدمام (21 أكتوبر). إصابات الهجمات خارج المطارات قبل 15 أكتوبر غير مشمولة",
   "ksaUrl": "https://sabq.org/article/ab8lehj",
-  "vehicleAsOf": "2026-11-15T17:28+03:00",
+  "vehicleAsOf": "2026-11-19T18:45+03:00",
   "vehicleDays": {
    "2026-10-11": 180,
    "2026-10-12": 380,
@@ -85,14 +86,15 @@
    "2026-10-27": 146,
    "2026-11-01": 169,
    "2026-11-03": 120,
-   "2026-11-15": 121
+   "2026-11-15": 121,
+   "2026-11-19": 96
   },
   "vehicleNote": "آليات وعربات وأسلحة حوثية دُمّرت أو أُعطبت، حسب الحصائل اليومية لمتحدث القوات المسلحة اليمنية من 11 إلى 24 أكتوبر (رقم من طرف واحد). حصيلة 18 أكتوبر قالت \"عشرات\" بدون رقم، و21-22 أكتوبر والأيام الأولى بدون أرقام، فالمجموع الفعلي أعلى.",
-  "vehicleUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oX2EwT2JVbTV4OElleEhXb0V4aWtscUM5MWFmUDRVNENXd3pEQjJIMzAtVlRVdGl2Y2xNTHZLdjBKWktPeHhzWFlfR2J4ZXUwTGd5ZjJn0gFUQVVfeXFMTUNrZXAzQ0R1aW5KS19EYzVHY1dEYk1WdWc2QzY2c3dFSkY4S0tDRGJyb0lsQXplOEI3R0YyMldHajBiMW5mRkwwVG5qdV9fSnFaaWRT?oc=5"
+  "vehicleUrl": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1SNHRicXV2SXNOcktzRlN4bmNvWHlSUlA5d1B6bUhLQlhSNm91TkRRMVNPeXdxTGRXb1lDM0RCeDhJYjFTWFdN?oc=5"
  },
  "status": {
-  "lastRun": "2026-11-19T18:44:01+03:00",
-  "note": "ما فيه تطورات مهمة جديدة.",
-  "added": 0
+  "lastRun": "2026-11-19T18:49:06+03:00",
+  "note": "أُضيف 1 خبر.",
+  "added": 1
  }
 }
