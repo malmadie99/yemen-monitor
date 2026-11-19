@@ -22,6 +22,19 @@
   "id": "2026-11-19-ksa-syzvyrkvvcdrwu2rtcghiu1k"
  },
  {
+  "ts": "2026-11-19T14:58:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "intercept",
+  "source": "التحالف عبر صحيفة الشرق الأوسط",
+  "title": "السعودية: اعتراض صاروخين باليستي وكروز، ظهر الخميس",
+  "summary": "أعلن التحالف تدمير صاروخ كروز وصاروخ باليستي أُطلقا باتجاه الرياض والخرج وخميس مشيط.",
+  "url": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxQalZzWmN2dGZ1aEdnVDBtS1k0WDJ2cE5FNDRtU0xWaEx5N2dCcmxZUC0yZG5oVDBCZi1hNVJ1RE9HSTJGU3JmYjd3SU9YWVl6UnZMb0FsVXNFUVFoWW9NTFR3MTBxSGNYeTZHRDEyRHphWmVxa1d0Nl9Xem1wR1BCZmhGWXJ4M0dVRV8wa2JCUmxzc2J0UHJWMDhURG5yOWZ6OTRUS3pnd1dTTmpKc0tKWDc5Y2ZHVURVam1adFhMN0wtYzZMSXZ6ZWZYNEM3OW83MG1TTEM0ZVoxZWpqckxPeExXd3lGQWxWUFpjbVJsN2k0aGJMVGp5aXk4VDNNTEx2LUkyaDFlcG9USkljTHZmQk1OVDFlWGliNUxCdE5qVkpzSF9ETnV2VzVVTG1QYkNzQWc3Tm13ZVFsQ0NCQnpoNEwyVlRadE9JMmQ3WGR0WVJCb1BWWUFXOXZWc01vSHhibGdHYzJRVnpISzllY1VsQnVYb1ZjSzRsVGllUC15STdfTjZRbGV1M2E5bVlseG1jdnBFWlBDT0NYOGJjNGdTU3Z5RnZzMkdweGU2NC1mLThob3NIQlE2cThaOElVRlZreTZjeXR5cmpYNTk3WUk5MC1pNUVXcG5KV0dZQ2hLcGZ0ZTVycFMteFNYTFRtVlVDNkJocDFnazlCZkVsOW9CZG91RXlDSjBHUE5VSnd3OVBfXzY1WGF3TEFLd002Z3RmZm9mV0ZfWlRnd1dXWTJWQnJQendZVFpVYUdCRXhFc3Y1NGw2TGlRTXluQlhiajZoN01CWDFpVQ?oc=5",
+  "missiles": 2,
+  "drones": 0,
+  "id": "2026-11-19-int-lrtxluqlhiajzon01cwdfpvq"
+ },
+ {
   "ts": "2026-11-19T11:33:00+03:00",
   "region": "ksa",
   "type": "report",
