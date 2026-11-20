@@ -1,5 +1,18 @@
 [
  {
+  "ts": "2026-11-20T04:21:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "intercept",
+  "source": "التحالف عبر صحيفة اليوم",
+  "title": "المنطقة الجنوبية: اعتراض وتدمير مسيّرة، فجر الجمعة",
+  "summary": "أعلن التحالف اعتراض وتدمير طائرة مسيّرة أطلقتها الميليشيا الحوثية باتجاه المنطقة الجنوبية فجر الجمعة.",
+  "url": "https://news.google.com/rss/articles/CBMiuAVBVV95cUxPTVBJdjJDWVFJbW8yUUVEOXE4RlJRSFY2VXZfSkhhN0lGU0hOOFVlOWRSRzhNZzdndHpDWU15bTZscFJRTGdSQjhQd2xNQ0JEV2s0enBsYm9FeFd4S0NNa0M0UEZmd0tjVmVqZVNLMFBXZHNfckVGQlNvbkdvS3cwWGVtUUNSOFNoVkZMMkJxU1FpRHc3Ym0xUm1yVFhiMWFrQThCUU1tc1NjdF8wR0Z2OE4wYjBfU3JoUjJwUFRLQ1IxY09LeENUR2ZlSXdMMUlpN09oeTdZZUh4MGZETWFkNjAxUFFZQVRTVmRKczdBUFhER0ZBa0o4YmJvWmF2TllUYXdrLWFkNGQwc0N1Qm9rb3JXTmNEV3l2VDJneFZZZThuYUdqNmlRa3JBLUFVX2lYRHBhbTZreUZGWGVPa0lSTTJES1NmU3FRM2VKU0c0S3A3SWh0VmZ1WTJXSElKYTZqZmpScDJrZEFQSExDSXkzOTBVUjV1VmxJY3RQX19HNTBrS1BBblJRdWFXM2RrcWg1QzMxYzJBdUhXT25iSzZhSDlfb3BEX0pPZnRDaWx0NWF0TVB5d0pXcENqZUdrbk8xM0EtTEV0cnJXSy0wTFNWQ0lqeU9xanJSeUNDSDRwN3BLbmx2NHVnSF9IQV9BcFdsbERWcTFUZ1FEXzBrcmRJcVlvUkVBTHhEZXM0VlNnZ2hZeUNra2x6WXhSNmwyQnF3dFUwRnBkRi1xOENCOTVROTFqY2RVYWt1YTRwcHBPS0VpRFlsclZRVHNSYmY5MlAxbjhXZUFBNEtnYV9SY2dHZkRMU1dnM3kwNnlZOFBnMGlVbl91RDg2TTF6c3FjMkJpREdDMWdkUWtxRzlHUTFrcjJUYmNTaDdIVk10MGswaVdVV0hCRjluSUJKdXpORkVCU2dFYVU3cUTSAVNBVV95cUxPeVhOSGFSaFlaRlRiZ1B0bGFQQmRvZzVIemNHSGVFQWRSOTZXZTY1bUV2RlhwTDloUjA1Y0VwaFdqeTdNMUwyaWZ4VHJWaEdKM1I3NA?oc=5",
+  "missiles": 0,
+  "drones": 1,
+  "id": "2026-11-20-int-dnmuwyawz4vhjwaedkm1i3na"
+ },
+ {
   "ts": "2026-11-19T21:17:00+03:00",
   "region": "ksa",
   "type": "official",
