@@ -1,5 +1,18 @@
 [
  {
+  "ts": "2026-11-22T00:31:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "intercept",
+  "source": "التحالف عبر صحيفة سبق الإلكترونية",
+  "title": "المنطقة الغربية: اعتراض وتدمير صاروخ باليستي، فجر الأحد",
+  "summary": "أعلن التحالف اعتراض وتدمير صاروخ باليستي أطلقته المليشيات الحوثية باتجاه المنطقة الغربية.",
+  "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBuZTJxbzBjS19lRnlKSldhZ0JFSThlZXNHazZEQzFXbVNHMmUtMVplM1d0aHotaThQTGVkczhjaFptVzlpYWtv?oc=5",
+  "missiles": 1,
+  "drones": 0,
+  "id": "2026-11-22-int-athqtgvkczhjafptvzlpywtv"
+ },
+ {
   "ts": "2026-11-21T21:53:00+03:00",
   "region": "yemen",
   "type": "report",
