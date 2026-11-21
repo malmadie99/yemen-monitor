@@ -1,5 +1,18 @@
 [
  {
+  "ts": "2026-11-21T03:27:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "intercept",
+  "source": "التحالف عبر الإخبارية",
+  "title": "الرياض: اعتراض وتدمير 3 صواريخ باليستية، فجر السبت",
+  "summary": "أعلن التحالف اعتراض وتدمير ثلاثة صواريخ باليستية أطلقتها الميليشيا الحوثية باتجاه مدينة الرياض فجر اليوم.",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FUlc2NkluUGxwckFUT1Rqbm1idG8tMXVxUVltNldpMW9kVHRERXBsTk5JZl81cTJaRVBaMHdrYi1FbEVUV3lEQndNQi1SdzF1MGV5QQ?oc=5",
+  "missiles": 3,
+  "drones": 0,
+  "id": "2026-11-21-int-vuv3leqndnqi1sdzf1mgv5qq"
+ },
+ {
   "ts": "2026-11-21T01:13:00+03:00",
   "region": "ksa",
   "type": "official",
@@ -2079,17 +2092,6 @@
   "summary": "نقلاً عن alyaum.",
   "url": "https://news.google.com/rss/articles/CBMi8ARBVV95cUxNd1duVC1yaU1MQWFYRkVrYnVHMmkzRVFuVmphcmRWdWNCZHFoNWtRZjdMNjRiLXV4a1ZMMHJVZlNNVDUwdFNWR2Z6M3dKY0ZuOXpSaWNBSFZPdUxYMmtVeEpDbWNRT0h0Z2huZTNMZVRKa2d1VWRaaFpVc25LZG9UVjBJSUxNNE11TVdnb1NsLTVTbXJ5bHRpMnVwSVFFSWkwNzhmbVRKQXA0bllsc3RKR01fbGo5TVF2UWhKalRtMWhjQjdvN1h4Ym96d0RNNmFpOUE3VXQ2MnJjZXhfTkhBU05ZbHNZRkpLVmVBcHZKZk9oX2pwcmlfVExoR2JUaGZKSVpLNDFpNlEteVhCYkVCREtRZk93aUEtdW5aYUg0eTJiZVFCSEdVT3NqaUY3Rl9QRDZJdktUVmlmc3R5MWFHUVNhYkQ3MlI1NlBKNlYtVnhmOXhUQi1oR2t1eWFXeUEtWnExeElmNEEzcFVWTnBUTG9WZkRkY0htajBiYmh0MkpzLWpaNTF4U1RRUWhmNV9rTmhEWHMtZnFJZWYxbUdDUDNUZHRya3JJQWJTYk00R2pheXM0RjFUWW1LdTFCcDJJbGRlOHQ3bVZINnBfa2ZDbzVNSlVlUjhMeXpGaUdvXzBBTThKTFZwWHp0RUNKY0toR1dvWlZpNEtYVFFpNkRLb0dPS2xYTDU5cDNpaGZndlYyd3lTQjFLRzIwMG1PWGtMSEFXbE5OYVJwZEh0eWV3R2NubFhqVDEyM3U1YkQ0cFBHQXpQOUV0aV9GUzdBUjlsTDRnRS1uSjNqNl95UFg3ZnB1bUZncjJYc1J0TVQ3WXjSAVNBVV95cUxNSC1GenV5cFlualQ2b3E1NTVBSVJTN3Y5aHB6dXVweGxOUk5lSXZWQTBPbjdoem9GckR0TWxlaFVLcmdRWWtzaERCdlRWY3lyeTVSQQ?oc=5",
   "id": "2026-10-31-ksa-drwwtzaercdlrwy3lyetvsqq"
- },
- {
-  "ts": "2026-10-31T03:51:00+03:00",
-  "region": "ksa",
-  "type": "official",
-  "kind": "other",
-  "source": "alyaum",
-  "title": "التحالف: تدمير طائرة مسيّرة بالمنطقة الجنوبية أطلقتها ميليشيا الحوثي",
-  "summary": "نقلاً عن alyaum.",
-  "url": "https://news.google.com/rss/articles/CBMiyAVBVV95cUxPQm84U0FyZm9JQTFwUEN1UW1OUFRqVWhKRkJMUTBoUnNSaUVSWTdaNzQxZTR5WDdFNU1BSWRUMWVLbEs3ZE4xYjVWYTN2cGVuSlRqSUswS3FkaXhkQUpRdWJxS181WXI0UDNpdFhzR2NpanFNdWswRE1mU05iOHotbVd1WG9tWE9DYXBLMFJhaVFfa3pZSXVjVWZRWXhqaFhrb3FORGQtLV9NQmsyOG4tWVd3YTh4Z1lOY2VKRndDdkt1Y0ZNUHA3XzN0akp2R0toc0hLbl9qdWNwRThROUg2MUlKMTdxZDFERXA2UXpadENOYUZ1QzZEMWhZV2otUmpHZ2MzcWV3YlZjaXd6ZHRReDFCSG8xejI3Tm9nNFJOVnRNMHhkLXNzbkc5RDVRNWVNcjFpQURYRVplM3JiYkZ4aE5ORjdwMmNCRXlwVG1ZdUFDVk1FVEh2UWttZVpvZzdXek1vMG9IOFFnMWhEQWhoMzVQdkVZdUVKZHpER2VjRHlWaXVVbEo1TUpXN2xjOHIxTjVDY0VjUElXdGV6NjFhd3pfU0t0VmtlODdUQ3lQdERldnp3blJDQ2pTSFpsdFNnLS1nTjR4UHNNS2NWTTVNVk15RjZ5MXZLdGhiSlpHTVBVaG5feUMyUW5WUDd0enRUYUtxRTlLWDYzX05FRkxOVFJxdlN3LThiNnVaUEsyNXNGZmhCc2ZPVUx6LVlxNGwtRHN3Y0RPWTA2Ri0zOG9uM3NpMzdINEJaX1diUGUwV3FtOEQ3VDdwbEI0Qm5oWmdfYVhWczMzWDVWMG1hLXctMjJYYnV6YW1KMjY4Q0ZYSFA3bVA4aU5Sd3E3ampNc09obGQtZVBJTHhRMU5NYjY5UlJrY21uTjRPTDQ0UUxzTjdnbFU2aUlGaTNyS1JZVWR5Y3NlWFVmQ2d1N2hsOF9ucDAzNlVnR1lW0gFTQVVfeXFMTzJzVjFubXZPSzNGNnBnNU0tcXl4ZW05d3lCcWNmcE9xQXBBbFRmMUpkZ2d4aGg3eFh3Mzh3ajg0aUhQLS15R3JLa3hkNGlwTkVia1k?oc=5",
-  "id": "2026-10-31-ksa-qls15r3jla3hknglwtkvia1k"
  },
  {
   "ts": "2026-10-31T01:56:00+03:00",
