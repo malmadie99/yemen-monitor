@@ -11,6 +11,19 @@
   "id": "2026-11-22-yemen-tjtxppc1vpms02nxblrdhoyw"
  },
  {
+  "ts": "2026-11-22T19:50:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "intercept",
+  "source": "التحالف عبر قناة العربية",
+  "title": "المنطقة الجنوبية: اعتراض وتدمير مسيّرة، مساء الأحد",
+  "summary": "أعلن التحالف اعتراض وتدمير طائرة مسيّرة مفخخة أطلقتها الجماعة الحوثية باتجاه المنطقة الجنوبية.",
+  "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxNRGRwSVRKUTBhd2t0Z0Z5aEVXWHB6S1B1eU9rUE1MTmoyYlp0Z3NxZTYzYlpUekpYaG9oSndueFg0aU96RU5ERkhrZXNpWmR3Sk03ZHZWQm1qZC1RWWdPLWRDVmhtcllJNld4UU11ZHgzRVRLMkhBZXduZWY1cWN4RHNtZkY4d1dvdkJlTGg1VVBOZjI3YTJ5Nk5faFlHX2UyQjQ4SGRFQ2Z4d19OQWIxUzRVaHhaRXZCeFRtOWJtNXRlYmhiVjFMbkFjNzNsckEwdkdkd2RIZDY1WlVnUm5ZNWpXV3k1RjFpRFdkSElEY3BuaEE1TjU3dnV1VVdFdG1RcHRUeDY3SER1MFp0Q2FocjlJV1pyMkRkbEhwajdES1JkTXAtNFFjSlhrU3I0RXg2YW5nWUZUMUlPaHUzMlYyLXAzSG4yLWoxQVN5LXNDZVpOYk96emtCUUdORkJCNkh0V1RqRGpTUWo5VWJ0cTVxSEh5SEFGUEpyVTdSMVBDczRuWHBoNzF6TFY3MkRKV0VmMi1QaUN3Q1FhLTlDc19fa1Foc1l6Nkd6U0RZdGw0SFktV1l6ekJn0gG8A0FVX3lxTFBkMFZfb0ZfQjlXRm93c3JwejhuZ1Jiel8yaklfazdtM3duTkhXTS1qN2N0ZEg5QUxxZG5WelBVTGhscXlWS05sNWh5SWdFYk9QX0VMR2psVmV3SUxpTmJFQ3JaeG1KSWRPVWpETmh1bUVMYnZnOWhselEzSy1WWUdnTUhFYXFhSzdEa2M3RUg1Z2NsSnNSQ19NVVBkbHZEX2ZRNUVsZVBsb1k1dGREV0FUY2NUenNpVGY0UGRVNnBjaVlMSTJ5TUM1bjB2bkZCdk1lVUViVzlNSEZuYXlLXzBpVV9ZLVgzUnNBWUxnbnFTNDd5aTVBU2hDMHFaT3pmNkhhNkc4RjY1bDVLaUxPSTVSV1dFQnhvR1otVG5iZG9mckg4Y0d0SEZDY3M1OGRVanhHb0ZmdGo3UmRqc2VhelI5amN2X0hOeHNuelREUWVyRm9vTDNsanhVdnByN3EyYmZlcW1mUTlpYWxaQ1o2S3c3LURxMXRoUFdjWEpOSWZpa0R3OE8zMEZkemIyUnBfME9XQndQemg4Sk1UZjc4SHlUOFcxbU8xS21HX1lpUk5jcG1VRGQtdzlaNlZxUg?oc=5",
+  "missiles": 0,
+  "drones": 1,
+  "id": "2026-11-22-int-lpuk5jcg1vrgqtdzlanlzxug"
+ },
+ {
   "ts": "2026-11-22T12:52:00+03:00",
   "region": "ksa",
   "type": "official",
@@ -2061,17 +2074,6 @@
   "summary": "أعلنت القوات المسلحة اليمنية إلحاق خسائر واسعة بميليشيا الحوثي شملت تدمير وإعطاب 169 آلية ومعدة عسكرية، حسب الجيش اليمني.",
   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93RkxrekVTWVpLLWcza1NRTTNXLU1naEd4NkQ5Q3A3V3l4ZXZkbkFIWFlRY3ZVQ2hWeTJjOVpjamdRcWZvSHJIOGNFYldScXQzbzRR0gFTQVVfeXFMT3dGTGt6RVNZWkstZzNrU1FNM1ctTWdoR3g2RDlDcDdXeXhldmRuQUhYWVFjdlVDaFZ5MmM5WmNqZ1FxZm9Ickg4Y0ViV1JxdDNvNFE?oc=5",
   "id": "2026-11-01-yemen-xzm9ickg4y0viv1jxddnvnfe"
- },
- {
-  "ts": "2026-11-01T20:00:00+03:00",
-  "region": "ksa",
-  "type": "report",
-  "kind": "other",
-  "source": "Qatar news agency",
-  "title": "تحالف دعم الشرعية في اليمن: ‏اعتراض وتدمير طائرة مسيرة باتجاه المنطقة الجنوبية السعودية",
-  "summary": "نقلاً عن Qatar news agency.",
-  "url": "https://news.google.com/rss/articles/CBMitwVBVV95cUxOYmk4MFl0MHBwdEN2ZFFCQmctUnJfdC15eUVLeUcwSVZvajJha2xrRTloVHZTOVJoTF9vb1Z6cUhYMkFtMi01UmxkU2V2ZDFiWjVHUFNwazd2ZUFpRDBaSlQzWE9ZWGV6cUNoM2tsaTZSRmdCdEJuZS0wRnZEcGFubHlvdjRMQmVtRzhpdDE4UG1xTklMbkgtWHc3bUdic3hZc2Z4V0lJbmhSZnZ3TlRQVlNDVEV3Z21JZXh6NHFtMndUSU1fWVVwNUZJYmlRWlMybURPV2g2aTlpY296S1VCSjVUOElvaXFsOUZtOGlUYnpDRk1QZHpWMGlSR09LOHpNM2p2NTEtOF9ITkFhQ0ZrV1FPMHlfVWVuVEVkZy01blBjX3VFNnRaOC1WcEVmRE8wY0xUeE13dHlUNUxfTDhJWWtsNWpaRk85UFBTZTBtTVVlN0d5VXNtZURrSWFJWThVakNuRF93ZmlwMENyMlduamhkLTBTNHFCOEF6bjZUcDJsanpNa2xwWWFSR1cyb2ZFQ25LSlplYWw2MkR0bFZfYkVwRG04Z2doeC1qX05xQVNKUHFKelN1Y2VyZHhfZHY0R3pvWHFPZTVjT0hnWmsyaDN4aUZMRnhsV0ROemsxN0FUNGIzM2F6YUEtSG0tOUY4TC1YZ0FJcDJJdDcwUmk4azczOGhIOXZnVjR3em9KcnpxNThhYzJlTmF0WW5yNm0yNUp4ajBKcm8wY3BfM1hNS2NmbFVKTDluNFBGdGx4a0ZnT0RtMjRVU25aWklwQ0hELVg1OVJyeHBVWXRSR3p0WUp3NU1nNk9ibXlEZHJndjNVa1Q5X1FPZ3dtdUhTalEyTGFaaUJrejhWQzZEd2JOaklCWVVlekc3QS0wallPWUFqQTRSS05najJrOFhkRVhWdTJQS1JKcw?oc=5",
-  "id": "2026-11-01-ksa-5najjrofhkrvhwdtjqs1jkcw"
  },
  {
   "ts": "2026-11-01T19:02:00+03:00",
