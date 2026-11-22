@@ -1,6 +1,6 @@
 {
  "casualties": {
-  "houthiAsOf": "2026-11-20T19:16+03:00",
+  "houthiAsOf": "2026-11-22T18:00+03:00",
   "houthiDays": {
    "2026-10-10": 1550,
    "2026-10-11": 1150,
@@ -37,11 +37,12 @@
    "2026-11-17": 178,
    "2026-11-18": 142,
    "2026-11-19": 144,
-   "2026-11-20": 193
+   "2026-11-20": 193,
+   "2026-11-22": 86
   },
   "houthiNote": "محيَّد = قتيل أو جريح، حسب متحدث القوات المسلحة اليمنية (رقم من طرف واحد). المجموع = حصائله اليومية (24 ساعة) المعلنة من 10 إلى 24 أكتوبر؛ أيام العملية الأولى و22 أكتوبر ما لقيت لها أرقام رسمية، فالمجموع الفعلي أعلى.",
   "houthiUnit": "حوثي محيَّد (قتيل أو جريح)",
-  "houthiUrl": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5rZHMyaklUVmxBeWtGUjJvOVU4SkNuUFZfeTFwUnF4WjFqcU1odFdRMXp6RjhyeWtlSDIzQTgwcXp1SjVCbDhr?oc=5",
+  "houthiUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOMmFGRmY0UDlBVHpUdHoxTTZHdGx1Q3VybXIwWTVIMFQ4SU9JX1dIMmdLenNqMjhGVGhNS1hiTjZaY1pFbE1HekotQzE5NTNO?oc=5",
   "ksaAsOf": "2026-10-18T18:33:00+03:00",
   "ksaDeaths": 19,
   "ksaExtra": [
@@ -70,7 +71,7 @@
   "ksaInjuries": 364,
   "ksaNote": "19 وفاة و364 إصابة بالمطارات حسب مؤتمر التحالف (15 أكتوبر)، مضافًا لها الحالات الرسمية المعلنة بعده: 6 إصابات في نجران (18 أكتوبر)، ووفاتان وإصابتان في حقل شيبة (21 أكتوبر)، ووفاة و8 إصابات في مطار الملك فهد بالدمام (21 أكتوبر). إصابات الهجمات خارج المطارات قبل 15 أكتوبر غير مشمولة",
   "ksaUrl": "https://sabq.org/article/ab8lehj",
-  "vehicleAsOf": "2026-11-19T18:45+03:00",
+  "vehicleAsOf": "2026-11-22T18:00+03:00",
   "vehicleDays": {
    "2026-10-11": 180,
    "2026-10-12": 380,
@@ -88,13 +89,14 @@
    "2026-11-01": 169,
    "2026-11-03": 120,
    "2026-11-15": 121,
-   "2026-11-19": 96
+   "2026-11-19": 96,
+   "2026-11-22": 64
   },
   "vehicleNote": "آليات وعربات وأسلحة حوثية دُمّرت أو أُعطبت، حسب الحصائل اليومية لمتحدث القوات المسلحة اليمنية من 11 إلى 24 أكتوبر (رقم من طرف واحد). حصيلة 18 أكتوبر قالت \"عشرات\" بدون رقم، و21-22 أكتوبر والأيام الأولى بدون أرقام، فالمجموع الفعلي أعلى.",
-  "vehicleUrl": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1SNHRicXV2SXNOcktzRlN4bmNvWHlSUlA5d1B6bUhLQlhSNm91TkRRMVNPeXdxTGRXb1lDM0RCeDhJYjFTWFdN?oc=5"
+  "vehicleUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOMmFGRmY0UDlBVHpUdHoxTTZHdGx1Q3VybXIwWTVIMFQ4SU9JX1dIMmdLenNqMjhGVGhNS1hiTjZaY1pFbE1HekotQzE5NTNO?oc=5"
  },
  "status": {
-  "lastRun": "2026-11-22T15:20:42+03:00",
+  "lastRun": "2026-11-22T18:14:09+03:00",
   "note": "ما فيه تطورات مهمة جديدة.",
   "added": 0
  }
