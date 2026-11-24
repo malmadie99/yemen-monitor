@@ -1,5 +1,18 @@
 [
  {
+  "ts": "2026-11-24T02:11:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "intercept",
+  "source": "التحالف العربي عبر صحيفة عكاظ",
+  "title": "المنطقة الجنوبية: اعتراض وتدمير مسيّرة، فجر الثلاثاء",
+  "summary": "أعلن التحالف العربي اعتراض وتدمير طائرة مسيّرة أطلقتها الميليشيا الحوثية باتجاه المنطقة الجنوبية فجر اليوم.",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Pa29FQXJQQ2xJU09EU29fZUxmSmw3UWxMLXJHY1FhcGxvTHYxNlBMVnhYNTdCTmtEY09INFRpdHc0dmlSY0JZNVh6Mk11UFB2Y1E?oc=5",
+  "missiles": 0,
+  "drones": 1,
+  "id": "2026-11-24-int-0dmlsy0jznvh6mk11ufb2y1e"
+ },
+ {
   "ts": "2026-11-23T18:52:00+03:00",
   "region": "yemen",
   "type": "report",
