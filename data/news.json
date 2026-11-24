@@ -1,5 +1,16 @@
 [
  {
+  "ts": "2026-11-24T21:15:00+03:00",
+  "region": "yemen",
+  "type": "report",
+  "kind": "other",
+  "source": "الجيش اليمني عبر صحيفة عكاظ",
+  "title": "اليمن: الجيش يعلن تحييد 97 حوثياً في 697 عملية، مساء الثلاثاء",
+  "summary": "أعلن الجيش اليمني عن تنفيذ 697 عملية استهداف أسفرت عن تحييد 97 عنصراً حوثياً، حسب الجيش اليمني.",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81ZllpYzF4MWZud3NrZlQ1NVhFcDQ3NmhVSWIzUkF2NjNXSFl5VEVkWDhSUXlNc05uOWJwNGRRd3BoRVdaVm1MSXB3U2d1Qk1BdU15OEJB0gFUQVVfeXFMTWJMNXB4OHRuY3VkbDU5bUdwdm5XcUtCNnRNaWVTM3V6Sk1udVRpLVoyTWp4anhBNEgwSS1DYlR5MXBGSnFZSmNBRzdtQlhueWt0V3RG?oc=5",
+  "id": "2026-11-24-yemen-snfzsmnbrzdtqlhuewt0v3rg"
+ },
+ {
   "ts": "2026-11-24T02:11:00+03:00",
   "region": "ksa",
   "type": "official",
@@ -1870,72 +1881,6 @@
   "summary": "نقلاً عن Qatar news agency.",
   "url": "https://news.google.com/rss/articles/CBMinwVBVV95cUxPend5czc4eXh1bVJtUFE3Q0k3RDh5OW4tR3E4SjBYd0JwSzJUV2hZajNlaVhROUlxTkVET0R5eHZCTU5BdlBRNXZ0b0ExdURwbUxkWk1TOXRlZEdRTWs3OFpOazhzZFNaUlZjLUs1akM5YmtWV1E2UV9MM2FfbWtKYUFqV0V4aUJsZS1oUGVMR2dORXNfbndkUXdqLWNjSzBFaGJqZlBDc2NIbi0wM3dYcVU1QmJBZURFSzlXaDhQNEt5bDhyWkpvQXh3c1pxdjlmYzNQQmRNSER3WVRRR2ZFTzJESDJTUzB1YnJ1WUNzMGpVZnYzS0d4UXdZRjZXMTd5R2NtcWZ2VnhMUENQQnZhWHNCNXlDTDRMdVpDbGRDbk9wdnIxQkZCdFVVZ2lvWWd2bEtSX1BVZGVyeXpjQlRjVUVQekI3eWpnemZhamdpYTdoOTlPX291SUcwWFY5b3ZPamNacjFwcXY1T3dEYnp3SWpXTURHS3RRSG5CR01ldlVhcm93am5qZnVYaWpMQWQ5dW12Z01RRkMtMGlMdDlVc0hfNXhvNEp2c3JSZDc0bnY5M2lqRlBPbjE5R3BCdjZmUERoRDlZNng4ZWhXZ1pMbU5veC1VRWJLNkVFWWlac0hENTZtV2hQV1RIZzhNbjlwSWx1ZjdqNnlLa25tYVF1Yi1KbkRnM0pWYzhnNmM4cHNHeTNPVndzU2lQMmpCMngzVGVhbTN2TzRuNmkwNXNWSTBRNFhEME5qbmdPYnVqNG1FNElHT1RpWWxxUVJzZXU4VXEwc2EzelVieHpYWk5MeHNOdE1LYWZfdnEybVN4MU0wY1ROODlCYnVQVk1EV1JTVlIyMURaSlJlazVLdktMbTMwQTU0UWg3WnNISkpKVQ?oc=5",
   "id": "2026-11-04-ksa-tmbtmwqtu0uwg3wnniskpkvq"
- },
- {
-  "ts": "2026-11-04T00:04:00+03:00",
-  "region": "ksa",
-  "type": "official",
-  "kind": "other",
-  "source": "Anadolu Ajansı",
-  "title": "التحالف: تدمير مسيرة أطلقها الحوثي تجاه المنطقة الجنوبية بالسعودية",
-  "summary": "نقلاً عن Anadolu Ajansı.",
-  "url": "https://news.google.com/rss/articles/CBMixgRBVV95cUxPbWxtMjZHbVdLQnZQNXZheDBQNndqRHFUZDB1RWpjME9meDVpS2lwOHduVkZMVm9wZ0tmQ1YxSmhQa3ZpRlczeEd5emZyS1RzODFkU1htZVFiRnowUFhaQzNpN3BFRHVCZkUyTFFjNXhSRW5FcHN1VEtBejJvX1dMWlltQUY3QS0xdnBYY0xhZ195M21wbjAwZ2pFZDBxbVJncE56aDdjWWd5SDZzcktmeDhtQUVwS21yZS1BMUR3ZFVSU0V0RFhhVzRlUzRGZlRNTlFQNjUtUmJKVHpIbEhzU3BhQmhpNVZzZk8tSlNpZy11LXQyRVIzTGxRQkJ0NTc4RHE4TTJTNkpyRzJGaDdQVEVQNko1TGcxQWdjVkJuMFJaczNweXFrZDlGdnAyWkZmRG5FYXJUdlJzVzREWmt5VWYwaXpObk5HeHZzaEFWU1NVMEZrcXp0MnVfVWlrTl84ZlBKOWlZdDFNcWtQTHgwSW9OX0pjeWo1NnRScHdZSmNzalFHTFRPelpDT2hEM3F3WG4yWTBBejZwMTFHRjY4VERQRk1hY3R2c1VIcl83M19kTjlRTzNJaFBTeEpqUlNNMWpoY1lwWGxCakVoak85WGZqSlVlQXhpSVNvQ05jOUU5U0w0ZHY5cWpnYkxMU3ZmWEpabDNWZ2VrZC1QOGhXWkxWOXZjQTlkaWEwaExtMGJmZGJ5UWllYVJSN2VaT0VhMmlEejVaaTNhN3Bfa1JJOVF3blB5bUpzQnpPVm56MjlSeGFwbEE?oc=5",
-  "id": "2026-11-04-ksa-5bupzqnppvm56mjlsegfwbee"
- },
- {
-  "ts": "2026-11-03T22:35:00+03:00",
-  "region": "ksa",
-  "type": "official",
-  "kind": "other",
-  "source": "العربية",
-  "title": "التحالف: اعتراض مسيرة أطلقتها ميليشيا الحوثي الإرهابية باتجاه المنطقة الجنوبية",
-  "summary": "نقلاً عن العربية.",
-  "url": "https://news.google.com/rss/articles/CBMijwVBVV95cUxPZVdFVk0tdzhGWmQ1bmloTC03eVRKSTIxTkF5R3FTZHh1YmJaWmVPdmE1a2EyZmhmT09qTmhkQlhLS1drX1dGUnA4YVRQdnpxM3pFaHMyaE5LNjluNXFxcHVvUHZqeXM2QThsUFVSUDFRZkE4Qmh5cGZ3REdVNjZJbTlieG03cExwVVVwUUpqUzFkdXpVQXVlS3phOWllMjFTdGoyY1NfbGozWGhkM3NFZXRTcFpPWDdMblJjOFFRTFlvaHNrU1dsOElaajRIVjlMNnFuSmZWTldBNEY1bV9KTnRsWUZvRTBLYmlvS3R6YUx6Y3AzVEQ2R1BISVc4U1hUcDhVTTNRY1dXYy1YMWxYS0VuN0VlNktMX2ZGS2w2eG5lU3IzM0dfMlptUHF6cExkYmwxQjJDMS1wYXBJWGU1OVdSOWViT3ZxakxSaUVzejlORzg1Zm4wdXpmdXNBWDJhQjYyeGdKazFONXpUb0ZwTjgyUUpQeHZoSjFydFg5WlVxeGozclZMZmlnOUw0RkZ3ejM1WGdhWDB4d2xicnQzVEZqRkxiQXoyV1lNMUxyNjRzNHdiSUtLeDV1YzVhanVfQ0szNTVqOGZrbGtUdHVHZDF3OEhIWjdiNUdYTENuQ042bFl6NjY1LWpiNGxhT29pTjZXcXVGci1ZRDUzeURXOFVSdmFUdThpMWQ1ai13SnU0Z3c1amVPNXdtZnFTZVpRX1NpbVlzMEZRdHJieE5COS02akNUR21tM3c1emNUOHZGZGVnWEEtSEhaRlNkMmxSSEZZaWFmeVpPOHFLNUNoRUJyVWNqRlVaTGZkLVVZVERuZ1lDR3k1Ul9lZHc2U0w5bFBXenB3S1JuNXJQNWln0gGPBUFVX3lxTE9lV0VWTS13OEZaZDVuaWhMLTd5VEpJMjFOQXlHcVNkeHViYlpaZU92YTVrYTJmaGZPT2pOaGRCWEtLV2tfV0ZScDhhVFB2enEzekVoczJoTks2OW41cXFwdW9Qdmp5czZBOGxQVVJQMVFmQThCaHlwZndER1U2NkltOWJ4bTdwTHBVVXBRSmpTMWR1elVBdWVLemE5aWUyMVN0ajJjU19sajNYaGQzc0VldFNwWk9YN0xuUmM4UVFMWW9oc2tTV2w4SVpqNEhWOUw2cW5KZlZOV0E0RjVtX0pOdGxZRm9FMEtiaW9LdHphTHpjcDNURDZHUEhJVzhTWFRwOFVNM1FjV1djLVgxbFhLRW43RWU2S0xfZkZLbDZ4bmVTcjMzR18yWm1QcXpwTGRibDFCMkMxLXBhcElYZTU5V1I5ZWJPdnFqTFJpRXN6OU5HODVmbjB1emZ1c0FYMmFCNjJ4Z0prMU41elRvRnBOODJRSlB4dmhKMXJ0WDlaVXF4ajNyVkxmaWc5TDRGRnd6MzVYZ2FYMHh3bGJydDNURmpGTGJBejJXWU0xTHI2NHM0d2JJS0t4NXVjNWFqdV9DSzM1NWo4Zmtsa1R0dUdkMXc4SEhaN2I1R1hMQ25DTjZsWXo2NjUtamI0bGFPb2lONldxdUZyLVlENTN5RFc4VVJ2YVR1OGkxZDVqLXdKdTRndzVqZU81d21mcVNlWlFfU2ltWXMwRlF0cmJ4TkI5LTZqQ1RHbW0zdzV6Y1Q4dkZkZWdYQS1ISFpGU2QybFJIRllpYWZ5Wk84cUs1Q2hFQnJVY2pGVVpMZmQtVVlURG5nWUNHeTVSX2VkdzZTTDlsUFd6cHdLUm41clA1aWc?oc=5",
-  "id": "2026-11-03-ksa-ttdlsufd6chdlum41cla1awc"
- },
- {
-  "ts": "2026-11-03T22:07:00+03:00",
-  "region": "east",
-  "type": "report",
-  "kind": "other",
-  "source": "جريدة الرياض",
-  "title": "اعتراض وتدمير طائرة مسيّرة بالمنطقة الشرقية",
-  "summary": "نقلاً عن جريدة الرياض.",
-  "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1QRXZpZ1NZd3pGN25nTGJkQmZjZXJTQmItb0k0RFNEeDJlTjVkZ3dXVThNUnEwaGVuTFgycmpReU1UcFlhQXNv?oc=5",
-  "id": "2026-11-03-east-agvutfgycmpreu1ucflhqxnv"
- },
- {
-  "ts": "2026-11-03T20:41:00+03:00",
-  "region": "east",
-  "type": "official",
-  "kind": "other",
-  "source": "الشرق الأوسط",
-  "title": "«التحالف»: تدمير مُسيّرتين في مكة المكرمة والشرقية",
-  "summary": "نقلاً عن الشرق الأوسط.",
-  "url": "https://news.google.com/rss/articles/CBMipARBVV95cUxOcUZ4OFdxaDhESkxHOG41S2xYbHM5ZThwajB4MV9jZHVoS0YyTzU1T0VIR3FnVnpDdHhDdWJSbDhySTBoWkdGSjc4Q2MyTThqUl9lUkhEczdISnRDcC1hY2N0WmxmRUZFVFJYRVBuOUNNNGd6X1VHQy1JaTl6WERYZHBqczd2T3ljQVJSa1EwbExSbW1RRjR4SUM1Rm1YQm1taVRIcTBjREF2Nklyd3pKdjE1eXlwd2g2UUZUcEt3RkVxNEdIY1NmUG41Y0FlOXM5eHU2WmNlak9aNGpMTmNvbFFoRXRSQTVqd0wzalduLVppNTZjNl9lM29uQ1Axa0Q5NXB0UWlnWmpJTW0ybXY1bXBPVWFrdXBlcGZGcnBfUTRKNTIyWmkxUnJva0dGV20yOG00Qzg3MzNpMXoxeDlTbUItOW9SMFRMU2diNXQ0T1RaN2ZSVVloZkw2b3k2TWZDS2VNSGFtNWYyMFJkaDN0dUJfcU05U3lzdUIzWDVjM053c2RUUi1pY3E0Q3llNDZyZDcwT2QtSnlqNm9wVWlEUXo3TUJ6RkIwTXFKTTFDMjhWVFZUWkxCSWxiUUZ5MXRaZkdqUDhPX1VXcFZQY2dXdTh2N1N6czJ3NExTaGlmTzFtN2ZxTG85dUNkejZ2TlQybzdWRHNTQlNMMmlMdkt4SXJUWWVmckxvWXRrLURETDhNMXowWndtd3EzbEFxaHQ4OVFQdg?oc=5",
-  "id": "2026-11-03-east-owwndtd3ezbefxahq4ovfqdg"
- },
- {
-  "ts": "2026-11-03T19:42:00+03:00",
-  "region": "ksa",
-  "type": "report",
-  "kind": "other",
-  "source": "العربية",
-  "title": "الجيش اليمني ينفذ 1,208 عملية استهداف وتحييد 370 حوثيا خلال 24 ساعة",
-  "summary": "نقلاً عن العربية.",
-  "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxNajRxWkhoaVVhMnhIa2hnWHJsRHk4Ym9NckFLclZMbnFUZ25RQVQ0anF6XzZFb2d2LW5YWGt1RzlDaVFOenJlWVBMWDJLRU5vRm1iR3Buc3R3V1lVY1lXS18wc2RyalZTckRGR2xFak8tRnZJRjQ0WGtXZUxQNTVzZElkQlpJQlBmZ1pUVVQwbGpnVUNSczhwZVNMQ3BUTnZPUndPRlhVYld5dzZiZ3BMSjRUdkVyeGZQZnNaanp3d1Y4bHI2MDljY0dwRlp6aGJST081a2dzYmFDSUNUNFZrbmp1VFJhS05DdkdxdEZYc0dpeVQ1QWdaMW5RWk9rTGJQeWNUNkI1WGJiYWFNTGlnM2RfNFppODliU1FBeGpnYTZLYzhyR2NqRjNlNmxPRU5pRXRwSEZnWDY3M1daemdhV0xJQmFReGxMdGlDWFl5T3RIQWhwSG5jeTZpMWlBN29JSDd0TDU3bS05dy0tUkliQTVBTGNXN0dsV3lrMUZkLVVDZndGZTVsZlNROXNqal84bnFZd1BPZndvQ0tRNjBKQmYxdW5vZUhSQ3BfZmZzbk1jSTk5VlRqZk85dl9rVGY5dzd5NG94S3RUVWFHSFluUS1MUEFIZWZZdENpY3ZYVGZiRXNteGs3X2dfN1lIVEUxQ3hQOXB0OUs4QdIB-gNBVV95cUxNajRxWkhoaVVhMnhIa2hnWHJsRHk4Ym9NckFLclZMbnFUZ25RQVQ0anF6XzZFb2d2LW5YWGt1RzlDaVFOenJlWVBMWDJLRU5vRm1iR3Buc3R3V1lVY1lXS18wc2RyalZTckRGR2xFak8tRnZJRjQ0WGtXZUxQNTVzZElkQlpJQlBmZ1pUVVQwbGpnVUNSczhwZVNMQ3BUTnZPUndPRlhVYld5dzZiZ3BMSjRUdkVyeGZQZnNaanp3d1Y4bHI2MDljY0dwRlp6aGJST081a2dzYmFDSUNUNFZrbmp1VFJhS05DdkdxdEZYc0dpeVQ1QWdaMW5RWk9rTGJQeWNUNkI1WGJiYWFNTGlnM2RfNFppODliU1FBeGpnYTZLYzhyR2NqRjNlNmxPRU5pRXRwSEZnWDY3M1daemdhV0xJQmFReGxMdGlDWFl5T3RIQWhwSG5jeTZpMWlBN29JSDd0TDU3bS05dy0tUkliQTVBTGNXN0dsV3lrMUZkLVVDZndGZTVsZlNROXNqal84bnFZd1BPZndvQ0tRNjBKQmYxdW5vZUhSQ3BfZmZzbk1jSTk5VlRqZk85dl9rVGY5dzd5NG94S3RUVWFHSFluUS1MUEFIZWZZdENpY3ZYVGZiRXNteGs3X2dfN1lIVEUxQ3hQOXB0OUs4QQ?oc=5",
-  "id": "2026-11-03-ksa-dfn1liveuxq3hqoxb0ous4qq"
- },
- {
-  "ts": "2026-11-03T19:32:00+03:00",
-  "region": "ksa",
-  "type": "report",
-  "kind": "other",
-  "source": "عكاظ",
-  "title": "الجيش اليمني: نفذنا 1208 استهدافات وقتلنا وأصبنا 370 حوثياً",
-  "summary": "نقلاً عن عكاظ.",
-  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kdHNwZUxQalVMVmtmQk9paU9xWWxRNGpnTEdpR0haWnQwLXdKVnhwemhwMTFKak45SF9lQW1mZWNneVpYZDNpTkpZcXprYWEwdzBBZzh3?oc=5",
-  "id": "2026-11-03-ksa-zdnptkpzcxprywewdzbbzzh3"
  },
  {
   "ts": "2026-11-03T12:26:00+03:00",
