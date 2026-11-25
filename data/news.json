@@ -1,5 +1,16 @@
 [
  {
+  "ts": "2026-11-25T23:00:00+03:00",
+  "region": "ksa",
+  "type": "official",
+  "kind": "other",
+  "source": "Anadolu Ajansı",
+  "title": "التحالف: تدمير مسيرة حوثية بمحيط ميناء جدة السعودي",
+  "summary": "نقلاً عن Anadolu Ajansı.",
+  "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxQMmhjdDJ0cUhaUmRsSVhWYzlqRWR5aWFCMGlxd0ZuaDB6V0pQZUhsTEtyQUVZdXNqZlFXT0h6dV90bTdhSzRNUzJwUUNqMWZYYm8tRm5hWlltRnc1ZmZpLUJySnpsZnR5MGVZTk14TnFsN0pxRkloX1JNbFN5OHpHdlhjQUE5a3ZqQ1JFNDdhZl9PS3hySVMzWjZQdmw1SlJXT0RUSzVTWUw3NG5mVzVYb1JTZkJVbzR3WGRXNEsxeURsTWhnbGZhMWN4eXVoczZneVUzV21QVlJiaVE3YVV0Y0lXWUl1TlFBRGx5WEJweGxMY01RUFFDVllPc2t2cmhRTDUtczFJMGtOX25laURxeGJ0M0c1a3JCUVJTa3hLMExmaW5GdkVDdXd6XzZFRTJqV1lKeUV4eTRzdDJKcWNENlZIc2FFVnY0eWdVOXhOUFpuNnpYZG02aHItWGd3V3VnT1VNMFFULU5YeWd6cWd6QXBDdVdMTnZpNnNvVXZYX0xjOUM4MmN3MGh2Rzk2N2QwbjdNZjlUYnVuMEJMbS1SREV6Q1BFRU9tNHZxVGVDTDY4N0FOdGEtY1F0R20zaUJuRGt6enhkcGJlQjZiSWNUUDF2NVhVRDlrU1FvRVJlM2ZQR0dYQWc4eWpwbDl4LWNZQjhiM1ZINUFqcnV1SXUtVg?oc=5",
+  "id": "2026-11-25-ksa-nzqjhim1zinufqcnv1sxutvg"
+ },
+ {
   "ts": "2026-11-25T22:38:00+03:00",
   "region": "ksa",
   "type": "official",
@@ -1850,17 +1861,6 @@
   "summary": "نقلاً عن صحيفة سبق الإلكترونية.",
   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAzeGphTEUzbW1BMWk2RVRnSjRFUmZrMGV5N1pjWnYwaHBWYXlFYTBDd0prQlNGTlhfVnByQlZfTGN2RkFpdl8w?oc=5",
   "id": "2026-11-05-ksa-tlhfvnbyqlzftgn2rkfpdl8w"
- },
- {
-  "ts": "2026-11-04T23:01:00+03:00",
-  "region": "east",
-  "type": "official",
-  "kind": "other",
-  "source": "الشرق الأوسط",
-  "title": "«التحالف»: تدمير 3 مُسيّرات في مناطق مكة المكرمة والشرقية والجنوبية",
-  "summary": "نقلاً عن الشرق الأوسط.",
-  "url": "https://news.google.com/rss/articles/CBMikgVBVV95cUxNcUMyZGlaV3BQcm1OcnVlVnJqd0pTMDB6bjFST19xLWFTbEVJdU4wbEdUenpndzFaRExMQnJDaVNfY3NoeWgtX0txRXg2UUF3LTY0UzN3dTY5N2tBVHNPRUZkU05CWHBwc2FlWm1xYk96LVNvQVdJc3RfcWtLdGVYU2NHYkttTFJDaXFENHBfR3h6ZGJjLXh2WDJiMUx4cUpfT3N3WlBfWDZhdjlBTEctWk9fUFdHNEFmWnJFRkZlc1JJYmxZVFJIM0JyMzN5VHhLLTBNejNWUlBobEJUc0pZREpFdG1sSFVvZlAtZG5xWkFXUXBVcEdpMXJwUkptMnFoWHJzZmZ0Z0xreHdzZzlWeEJBTjhOWGhaRXZ0OWFhQTR5cFRoT2VhQl9WbEVmNDlldjc1Q2ZaUlpXZnhZR1JVbHdqNm5OY0tkaDlwT3djajlUY1hGQm1Sa3A5MXhiaE9wN05VV1JYbXpFRTlCUGpiUFJHX3hGOFhzOTVSTWpjaUQyWlJNbUx1UEtkWUJ0d1RkcW5qLXNPNHRTNUxKU0xRcW96eWhGMTB2NTVUNGFrWFhlRGtqNk11X2JXT3IyWUlHcWtlNjRRam5RMGZDWFNkNE5YVmxIUUhtSld6Q1IxdTRmTzFXbHgtUU5aWElMeFcyR1ZXc2pycm1VWkRIc1FHVXg0LWZRMXVVU1dYVTdNS2ZCUU05SVFBTnY4RXRoYzVDSzl6UWk3VW1RV2s1UUkycnBzYmtEclJpUWhvRWdWRnNhczVLWmJFdFlocENxY1RIX0dUVlJXdVVPLWVLc2QzZ0xFM2N6MktlOVJEMEZ3NmpYY3g5ZnVxVDlvRDMxQkZDc1RxSFF3b254YzBQVi1iamdn?oc=5",
-  "id": "2026-11-04-east-c1rxsff3b254yzbqvi1iamdn"
  },
  {
   "ts": "2026-11-03T12:26:00+03:00",
