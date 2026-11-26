@@ -1,6 +1,6 @@
 {
  "casualties": {
-  "houthiAsOf": "2026-11-25T22:53+03:00",
+  "houthiAsOf": "2026-11-26T20:38+03:00",
   "houthiDays": {
    "2026-10-10": 1550,
    "2026-10-11": 1150,
@@ -40,11 +40,12 @@
    "2026-11-20": 193,
    "2026-11-22": 86,
    "2026-11-24": 97,
-   "2026-11-25": 109
+   "2026-11-25": 109,
+   "2026-11-26": 117
   },
   "houthiNote": "محيَّد = قتيل أو جريح، حسب متحدث القوات المسلحة اليمنية (رقم من طرف واحد). المجموع = حصائله اليومية (24 ساعة) المعلنة من 10 إلى 24 أكتوبر؛ أيام العملية الأولى و22 أكتوبر ما لقيت لها أرقام رسمية، فالمجموع الفعلي أعلى.",
   "houthiUnit": "حوثي محيَّد (قتيل أو جريح)",
-  "houthiUrl": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxOZGZiLXRWVFBqdXM2cUR5MFl2Z1V3cVliNFB5eEtmbjBaaEZEN2FKdHRSdE9SVXVoeHoyeDJXUVhudXZGWGhHVU50ZzFYWVMtY2JEVVFFYWFWWnMxUl9kN3AzQVlUdjctUDdMWDA2WEtYR2R2dTk4YWdrZWp3VWpRd3lWa2hDMXBjeVFXVk5kcmRzOXg3Ui02THRyZ3lYT19TZ19MYlRfMUJfX1hPZTBRTnNVc2hYU2hYcTBRNml0VVdqbXZUQ2JuUWdkQlJZUXdyeUNpamx4VzhvYzNVQ0Z1eF9JLU5oWFVmaDF3TGRzQ1h3QmZJb3FkNmh5em1Uci1zNTBrcUdCUk5GcWZHbjM5LTUtLVJjMmNvS3dwRzRQd0hHQ1hRTUF0T0FGWjU4WjdIVXVxVDJqakpqbVkwcHRNSXJPX1diVWFYRkpEU1RmTlItQlczczVYX3FfeG5OaGFzYkljQlhST0puQXZ2YnM1OGF5VmZocUNMMHNlM1BUOHlRODVudXJtRnk3N2lZWW1WVldMTlp1eTFPdkxodmhXUllBS1Y0SVBBNzNaMDdoUExxWF84N0V4X3dqMFNIeWt1Qzk0Q0lkb0pORE1qYnEwY05yclp3TFZhcFB6dXlldw?oc=5",
+  "houthiUrl": "https://news.google.com/rss/articles/CBMingNBVV95cUxQdG5xMGJ5TER0clJvei1IYjJudF9pYkItX0I5ZWxmZjRaQV9XaXYxeUdPcTVVSTNaSHFfbHpKbXJEXzR1dE5vaWJoUjVnaHhQNnpBOFVBWG1EQTJvaGhpMXlLX2EwLTQxMDQteEhfRTdKcE15REhPRUg0OE95Mzg2cjJwa0hDNlNxajhIRGN6RTBlRkJLakRrczROdlN1MEZBU2ZvT0JITFpjZ1dqbTVUUnZ6VE1SZTlqY0lNckJlN2Zudk9ZOE5ueHhOb3dobVFzcDBxcF9mSmlVZk1wbXVSTlBsekdxQ0NjaUhaTncxM1ZCSGMzaXdhSFhiekNESmdFbk9Yejk2aXFucFlvaXNUVXN6OHFWUHNuQjlzQUhTN18zVmU3Wm5uWldEcjRtVzVfaGRDWjdZaWJnUnludG8wcXlKVEl0QUkxNVYxQjBaakdKWkcyTEJMU19wYWpDWkpUYWs0cDZRZHdwRHlqVWtOX2ZqRDI5RUx1dnpqaW1sSnFna3dlVG9GMnR2aXNqOHFlNzVZdFJTbERHQW44Snc?oc=5",
   "ksaAsOf": "2026-10-18T18:33:00+03:00",
   "ksaDeaths": 19,
   "ksaExtra": [
@@ -99,8 +100,8 @@
   "vehicleUrl": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE95WFBtaHBHeVZMUmd0ZnVVc1NqZ01qMFlWTkxMeFBUcVlGQXVOMm5oSWdIYllVV1U1S2tSNUJ4YTVtTnJCaEhF?oc=5"
  },
  "status": {
-  "lastRun": "2026-11-26T18:07:27+03:00",
-  "note": "ما فيه تطورات مهمة جديدة.",
-  "added": 0
+  "lastRun": "2026-11-26T22:32:59+03:00",
+  "note": "أُضيف 2 خبر.",
+  "added": 2
  }
 }

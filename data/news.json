@@ -1,5 +1,27 @@
 [
  {
+  "ts": "2026-11-26T20:38:00+03:00",
+  "region": "ksa",
+  "type": "report",
+  "kind": "other",
+  "source": "Anadolu Ajansı",
+  "title": "الجيش اليمني: تحييد 117 حوثيا في 767 عملية استهداف",
+  "summary": "نقلاً عن Anadolu Ajansı.",
+  "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxQdG5xMGJ5TER0clJvei1IYjJudF9pYkItX0I5ZWxmZjRaQV9XaXYxeUdPcTVVSTNaSHFfbHpKbXJEXzR1dE5vaWJoUjVnaHhQNnpBOFVBWG1EQTJvaGhpMXlLX2EwLTQxMDQteEhfRTdKcE15REhPRUg0OE95Mzg2cjJwa0hDNlNxajhIRGN6RTBlRkJLakRrczROdlN1MEZBU2ZvT0JITFpjZ1dqbTVUUnZ6VE1SZTlqY0lNckJlN2Zudk9ZOE5ueHhOb3dobVFzcDBxcF9mSmlVZk1wbXVSTlBsekdxQ0NjaUhaTncxM1ZCSGMzaXdhSFhiekNESmdFbk9Yejk2aXFucFlvaXNUVXN6OHFWUHNuQjlzQUhTN18zVmU3Wm5uWldEcjRtVzVfaGRDWjdZaWJnUnludG8wcXlKVEl0QUkxNVYxQjBaakdKWkcyTEJMU19wYWpDWkpUYWs0cDZRZHdwRHlqVWtOX2ZqRDI5RUx1dnpqaW1sSnFna3dlVG9GMnR2aXNqOHFlNzVZdFJTbERHQW44Snc?oc=5",
+  "id": "2026-11-26-ksa-qohflnzvzdfjtberhqw44snc"
+ },
+ {
+  "ts": "2026-11-26T19:03:00+03:00",
+  "region": "yemen",
+  "type": "report",
+  "kind": "other",
+  "source": "عكاظ",
+  "title": "«فجر اليمن» تنفذ 767 عملية استهداف وتحيّد 117 حوثياً",
+  "summary": "نقلاً عن عكاظ. رواية طرف واحد.",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GRjhvRXlSR2VVdjBjRkdzdEZVTFVwcVpETENxMlo4SWN6YjNBU1VLdzBkR3lxZ1Q3UDF1LTBjcFFsTWlYSDA0a2d5anlQSzF0eDg5U9IBVEFVX3lxTE9GRjhvRXlSR2VVdjBjRkdzdEZVTFVwcVpETENxMlo4SWN6YjNBU1VLdzBkR3lxZ1Q3UDF1LTBjcFFsTWlYSDA0a2d5anlQSzF0eDg5Uw?oc=5",
+  "id": "2026-11-26-yemen-lysda0a2d5anlqszf0edg5uw"
+ },
+ {
   "ts": "2026-11-26T13:41:00+03:00",
   "region": "yemen",
   "type": "claim",
@@ -1872,50 +1894,6 @@
   "summary": "نقلاً عن Anadolu Ajansı.",
   "url": "https://news.google.com/rss/articles/CBMizARBVV95cUxQVjJPY1dNemY1MkpHdWUxWWZ1SkgzQWh2WDdaaFBKa01Ob0h4T2ZDampzS1g3eks3QmRWYVVxLUlGZzFzVjVjX19KRHA3OGVjSFh0cXRWYV9sMEF3VENkMUY4cDJqcjhNb2cyRnk1R096V3JNdk9vMF9meU9wRlltRTlRLU9HckkwSVFYQUJCT2xQUXF2THh6VzJTUnJZT0hiVC1VczAwUTJDQlhSclBkMVQ4LUFtVEUzOFBXYTFEQllzTktpelZPSjg1MzhrbWxLQjNISThBckUwRGxnZkhTQzBHNWZ6dFJIVkZBems3R3RTTEZLaGNGSlJxeXVpOUlBOXV2WmtGMG5rQ3ZaUDJNMV9GaTlmdjNrbjBJZ0pCbmNlSnp4U2RhdzQ5QnF0eGU4bHR4THJVVFZHakFqNmpCNlhSMFZBc2drTy1fNFFaRGExNmpNdmVlck1jSHJEN2tHSWg5dmplZkl2TllZN1VTVDZYM1hTWHFEM2gxaUdZdmpDbGRYRmNoTkduOWQ0bS1PUEg4MThNcGJlWXkzNWM5WjhwYm5XRlh0VUR6cGFnVkZpbktSTHQ0czh6MnJvNjBDQkplOGo5LVRjRTRqQUs0d2ltZjUwR0ZWQ1ZOc1pKa2k3NjYxVW92OTlyb1QzZDU2Qi0xNFMxbHhmMklvNmtTNmNPOXB1dHdDYmV2RWxEYlk2Z1hCdGdoQWo2eHRZZFNIS3RtRXVrVFU5R21BTHdZeENiemNmRUx4ZUJjZ25NMzROZFJJZ0xaQnNuQ3k?oc=5",
   "id": "2026-11-05-ksa-jz25nmzrozfjjz0xaqnnuq3k"
- },
- {
-  "ts": "2026-11-05T21:11:00+03:00",
-  "region": "east",
-  "type": "claim",
-  "kind": "other",
-  "source": "جماعة الحوثي عبر وكالة الأناضول",
-  "title": "المنطقة الشرقية: ادعاء حوثي باستهداف مطار، مساء الخميس",
-  "summary": "ادعت ميليشيا الحوثي استهداف مطار بالمنطقة الشرقية وتعطيل حركة الملاحة فيه (غير مؤكد).",
-  "url": "https://news.google.com/rss/articles/CBMitwRBVV95cUxPa3BOV3R0Vmx3Y0IxeFNjbEZ6WUhZbUZ1QTFxTlUwNl9NYmZfMnZOcTVyUXdoVDFVRjJMRkp5aWlrSkNXVVFfWlBETmxHSkJOX2xLczBDMEljR3FDM2tTcDNxOGx1M3BRNmlLbWM2WlVYdUhRakEyQVVVQ0xmT2ZvQXhJam5QMFpaT211eVJsM29RZUIyc0tOS2ladng0NWl0NHpFVnctWXlURm9JODVTeXcyQk4tM2s3MWhHYk5yWlNicFFqM3pPSWU2aUVVVkxKVXJLVXU5VFZreWp5Ung4NTdRZ3pxTjIxTG9UQkRaYW9Qc3d5dVBjZUxxSEItUmsyLTBZX2xWRlZOR1d1bVFUZ0tUZFE2eWx2X3pDR09HcnNxUWJwbzZQQjNnMkljZVJOWVhHa19KZFpsdWxVNS1QTE1OM1RpMWZ5WGpHcV9YQlVZN3ZhMGhOWWNzTUNucTRrZ2hTbThEY084bmthQm9jR0UxUGNsbTR0RHFlLUYxWG1ZUE1ITGVGaDdYWWlDNTNseWJwdjRWdk54SlZLUndTVzhGNlRSXzFOODE2VUM2OHRZYWc4S25TbG9DZFZyRU9hNndkd1VQYV9DRWlLVVJLUjVUV2UyT1VHeXBCODRZWklKQTZEakV5dGFTYVBDWWVpTkFwc2h4UWhEX3BxZ1puaHpBdGZEaWVMdWdTRWpwa0ttRHhHUzMtMXE5Z1pvU2xZUUxuY3N0ZG5Bc05kSHdVbngxcHUwUmc?oc=5",
-  "id": "2026-11-05-east-0zg5bc05kshdvbngxchuwumc"
- },
- {
-  "ts": "2026-11-05T18:57:00+03:00",
-  "region": "yemen",
-  "type": "report",
-  "kind": "other",
-  "source": "صحيفة سبق الإلكترونية",
-  "title": "القوات المسلحة اليمنية: 1298 عملية استهداف ضمن «فجر اليمن» وتحييد 440 عنصراً حوثياً",
-  "summary": "نقلاً عن صحيفة سبق الإلكترونية. رواية طرف واحد.",
-  "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9pNWUwdkhfanBsNlF2QU5TeExLTlZzcFBZVkl3Qm9PdjZfQlVRTVZZeV9CWC1qZWE4QV95S3B4MzZPM2NnNTkw?oc=5",
-  "id": "2026-11-05-yemen-zwe4qv95s3b4mzzpm2nnntkw"
- },
- {
-  "ts": "2026-11-05T18:31:00+03:00",
-  "region": "east",
-  "type": "official",
-  "kind": "other",
-  "source": "https://www.sabanew.net/",
-  "title": "التحالف: اعتراض وتدمير طائرة مسيّرة بالمنطقة الشرقية في السعودية",
-  "summary": "نقلاً عن https://www.sabanew.net/.",
-  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Mb3ZYdTBPbmdvb09lRDNWdEpzV3pWRHlQUjFBWHNhSmliQnQ4Vmc4dVFocHVRdW14Nnd4VXBpNjJoeWJpamlMMnpmY2JBMXBC?oc=5",
-  "id": "2026-11-05-east-njjoewjpamlmmnpmy2jbmxbc"
- },
- {
-  "ts": "2026-11-05T18:24:00+03:00",
-  "region": "ksa",
-  "type": "official",
-  "kind": "other",
-  "source": "الدفاع المدني عبر صحيفة الشرق الأوسط",
-  "title": "السعودية: إعلان زوال الخطر في 10 مدن، مساء الخميس",
-  "summary": "أعلنت الجهات المختصة رفع تنبيهات الطوارئ وزوال حالة الخطر في 10 مدن سعودية بعد إطلاق الإنذار المبكر.",
-  "url": "https://news.google.com/rss/articles/CBMi3ARBVV95cUxNaWY4NWxzc2FUTzQ4dk9VTVZkUU9wR0RIaXdnaVZGUEV3RG96eV9SZzZEaUxwZDd4SDhGdUVsek1neFdYYTJlYm96M2FGcTQyZGN0VVRBZFNJSUt2QTVHRl92ZWtaUWpFTkZ5eWtEaFRDMHVuX2FFdE5Tcm51MTFXX0VEQjFmVVdIalVsTWJTR056Z3pBM1FheWpTMUczX1Q5cHFDcS1KeVlmMWVHWjlFU1BEOXZSMXJ1a0UtWWhfYUNCbGZNYjdZTHR4aFdqZW9UU2N4aFN0R2JRZ1BNVGFPaHFNeVpudVQ3TUQ1THY1Y0ZZSHdLam9CN0I4VG5uUWNxbTFoUnpFUEZ6NDZYZW5BaU5pRUdoNlN6RnBYM0FaaExjS0JwT0ZXZlZXRVZJb2ZHbTYzTzNkR1Exc2JUR2RFOTJOWDZSb1laSG5IYzI3Rnc1MU5ESXdtQkdEZGQ1SklSSVgxSkdHS0Z0cm9UOTJsN2kyV3lJVTBJNHdKUllZa3RWc0lkMEgwa2M1dWRQZ3p3dHJzeU1kdG5Tc25EM0VVOGJ0bldCMllGUWhPTGx1M3VWQnluTmlKVUdYQWFGTmVibUNhUVJXRVRPTmtsalpLZDhQckZMTlBYWHNFeHhmNVNxcXFuT1hFZl9JRDV4VWtYcjRiR3E3ZVBaaW5UQm1ZUlZZWk9zaTktMHNRQjF4ZlN2eG80N25GQjliZkxtMktYVlJmanNjODQ2YWFHQktEdTdoeTlKNEtlN3B4Y0VXaGNHUDNfcF9GNmczQW5DNnFsZjVOZEJ6SDFVbXJh?oc=5",
-  "id": "2026-11-05-ksa-qw5dnnfszjvozej6sdfvbxjh"
  },
  {
   "ts": "2026-11-05T13:15:00+03:00",
