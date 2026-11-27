@@ -1,6 +1,6 @@
 {
  "casualties": {
-  "houthiAsOf": "2026-11-27T19:53+03:00",
+  "houthiAsOf": "2026-11-27T20:35+03:00",
   "houthiDays": {
    "2026-10-10": 1550,
    "2026-10-11": 1150,
@@ -46,7 +46,7 @@
   },
   "houthiNote": "محيَّد = قتيل أو جريح، حسب متحدث القوات المسلحة اليمنية (رقم من طرف واحد). المجموع = حصائله اليومية (24 ساعة) المعلنة من 10 إلى 24 أكتوبر؛ أيام العملية الأولى و22 أكتوبر ما لقيت لها أرقام رسمية، فالمجموع الفعلي أعلى.",
   "houthiUnit": "حوثي محيَّد (قتيل أو جريح)",
-  "houthiUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zd1NpSktYSjhmRVgzQ2hKSFc2RkJXdkVZbHhKN2ZnQTR5MkdCRGo3cG5DZmg5TVRyZUpVTWkyZ2phSF9NSnBkMFJ5d09lS2hwODV5dmFn0gFUQVVfeXFMUF9wQXZFajZ6SG45RER1VVY3c3I0Qlp4MmRLcm9MYVM0U2dna1JmdHZHX0tLbFlKejRrT3VreC1oczdvRXpNdmEwakgybkxfVGJVQThK?oc=5",
+  "houthiUrl": "https://news.google.com/rss/articles/CBMiywNBVV95cUxOazgtOGtVeXVLU2k5NGlyTkJXYUxEX0NISXhVTmF1eG4wZmNUYU9scjBvaWVUTmVIaEthWHgyNzhpNWFCanZsNUs3X0JtSEwxLXc5UXNOaVlydU9uUnVWc0o3cHhrUEN1NjNaMEVTSm5tN2tIXzZGdnlqcWI4YldpZGc2ZEJaVlRoZEhJa2dnU1JZb1llTXltdlRTX2pwTXhLUEpOOGg4YnViYVF1NzMteExwREV5U0d2ZGFqcUlnclplNFZ6UDI2Skl0U2puUjJNMTFvQ2l6MEFqYVotZWNCUGhJS2RYWkJraExUc0owNjZrMW9ENWt4Um55TDBUWXc3eHd4akpEQnVHRHVLaE9mS293TzBHMzE3ZHVXaUVLTlYzTko4SWNTZ3BONTNSYkRsdV9mMENLU1RndWw4UlRVUHZmRll5YWlVekF0ZmxPT3AtV0tiaGQzTUtUeFVoYUhlOVVCYVd2aHRwVkhYWVFhSjVRY180WmZJdzJJZEdEUE9SVnNscl9KZFV2SnZ1SjYwNVg0dWM4ejJoT29TX1N2WEZsMy12ZlBHeGJBX2VneHY2QWtZdmNIUm55RFJ1VUxqcDhZMnZwU21kZTTSAcsDQVVfeXFMTms4LThrVXl1S1NpOTRpck5CV2FMRF9DSEl4VU5hdXhuMGZjVGFPbHIwb2llVE5lSGhLYVh4Mjc4aTVhQmp2bDVLN19CbUhMMS13OVFzTmlZcnVPblJ1VnNKN3B4a1BDdTYzWjBFU0pubTdrSF82RnZ5anFiOGJXaWRnNmRCWlZUaGRISWtnZ1NSWW9ZZU15bXZUU19qcE14S1BKTjhoOGJ1YmFRdTczLXhMcERFeVNHdmRhanFJZ3JaZTRWelAyNkpJdFNqblIyTTExb0NpejBBamFaLWVjQlBoSUtkWFpCa2hMVHNKMDY2azFvRDVreFJueUwwVFl3N3h3eGpKREJ1R0R1S2hPZktvd08wRzMxN2R1V2lFS05WM05KOEljU2dwTjUzUmJEbHVfZjBDS1NUZ3VsOFJUVVB2ZkZZeWFpVXpBdGZsT09wLVdLYmhkM01LVHhVaGFIZTlVQmFXdmh0cFZIWFlRYUo1UWNfNFpmSXcySWRHRFBPUlZzbHJfSmRVdkp2dUo2MDVYNHVjOHoyaE9vU19TdlhGbDMtdmZQR3hiQV9lZ3h2NkFrWXZjSFJueURSdVVManA4WTJ2cFNtZGU0?oc=5",
   "ksaAsOf": "2026-10-18T18:33:00+03:00",
   "ksaDeaths": 19,
   "ksaExtra": [
@@ -75,7 +75,7 @@
   "ksaInjuries": 364,
   "ksaNote": "19 وفاة و364 إصابة بالمطارات حسب مؤتمر التحالف (15 أكتوبر)، مضافًا لها الحالات الرسمية المعلنة بعده: 6 إصابات في نجران (18 أكتوبر)، ووفاتان وإصابتان في حقل شيبة (21 أكتوبر)، ووفاة و8 إصابات في مطار الملك فهد بالدمام (21 أكتوبر). إصابات الهجمات خارج المطارات قبل 15 أكتوبر غير مشمولة",
   "ksaUrl": "https://sabq.org/article/ab8lehj",
-  "vehicleAsOf": "2026-11-27T19:53+03:00",
+  "vehicleAsOf": "2026-11-27T20:35+03:00",
   "vehicleDays": {
    "2026-10-11": 180,
    "2026-10-12": 380,
@@ -99,10 +99,10 @@
    "2026-11-27": 81
   },
   "vehicleNote": "آليات وعربات وأسلحة حوثية دُمّرت أو أُعطبت، حسب الحصائل اليومية لمتحدث القوات المسلحة اليمنية من 11 إلى 24 أكتوبر (رقم من طرف واحد). حصيلة 18 أكتوبر قالت \"عشرات\" بدون رقم، و21-22 أكتوبر والأيام الأولى بدون أرقام، فالمجموع الفعلي أعلى.",
-  "vehicleUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zd1NpSktYSjhmRVgzQ2hKSFc2RkJXdkVZbHhKN2ZnQTR5MkdCRGo3cG5DZmg5TVRyZUpVTWkyZ2phSF9NSnBkMFJ5d09lS2hwODV5dmFn0gFUQVVfeXFMUF9wQXZFajZ6SG45RER1VVY3c3I0Qlp4MmRLcm9MYVM0U2dna1JmdHZHX0tLbFlKejRrT3VreC1oczdvRXpNdmEwakgybkxfVGJVQThK?oc=5"
+  "vehicleUrl": "https://news.google.com/rss/articles/CBMiywNBVV95cUxOazgtOGtVeXVLU2k5NGlyTkJXYUxEX0NISXhVTmF1eG4wZmNUYU9scjBvaWVUTmVIaEthWHgyNzhpNWFCanZsNUs3X0JtSEwxLXc5UXNOaVlydU9uUnVWc0o3cHhrUEN1NjNaMEVTSm5tN2tIXzZGdnlqcWI4YldpZGc2ZEJaVlRoZEhJa2dnU1JZb1llTXltdlRTX2pwTXhLUEpOOGg4YnViYVF1NzMteExwREV5U0d2ZGFqcUlnclplNFZ6UDI2Skl0U2puUjJNMTFvQ2l6MEFqYVotZWNCUGhJS2RYWkJraExUc0owNjZrMW9ENWt4Um55TDBUWXc3eHd4akpEQnVHRHVLaE9mS293TzBHMzE3ZHVXaUVLTlYzTko4SWNTZ3BONTNSYkRsdV9mMENLU1RndWw4UlRVUHZmRll5YWlVekF0ZmxPT3AtV0tiaGQzTUtUeFVoYUhlOVVCYVd2aHRwVkhYWVFhSjVRY180WmZJdzJJZEdEUE9SVnNscl9KZFV2SnZ1SjYwNVg0dWM4ejJoT29TX1N2WEZsMy12ZlBHeGJBX2VneHY2QWtZdmNIUm55RFJ1VUxqcDhZMnZwU21kZTTSAcsDQVVfeXFMTms4LThrVXl1S1NpOTRpck5CV2FMRF9DSEl4VU5hdXhuMGZjVGFPbHIwb2llVE5lSGhLYVh4Mjc4aTVhQmp2bDVLN19CbUhMMS13OVFzTmlZcnVPblJ1VnNKN3B4a1BDdTYzWjBFU0pubTdrSF82RnZ5anFiOGJXaWRnNmRCWlZUaGRISWtnZ1NSWW9ZZU15bXZUU19qcE14S1BKTjhoOGJ1YmFRdTczLXhMcERFeVNHdmRhanFJZ3JaZTRWelAyNkpJdFNqblIyTTExb0NpejBBamFaLWVjQlBoSUtkWFpCa2hMVHNKMDY2azFvRDVreFJueUwwVFl3N3h3eGpKREJ1R0R1S2hPZktvd08wRzMxN2R1V2lFS05WM05KOEljU2dwTjUzUmJEbHVfZjBDS1NUZ3VsOFJUVVB2ZkZZeWFpVXpBdGZsT09wLVdLYmhkM01LVHhVaGFIZTlVQmFXdmh0cFZIWFlRYUo1UWNfNFpmSXcySWRHRFBPUlZzbHJfSmRVdkp2dUo2MDVYNHVjOHoyaE9vU19TdlhGbDMtdmZQR3hiQV9lZ3h2NkFrWXZjSFJueURSdVVManA4WTJ2cFNtZGU0?oc=5"
  },
  "status": {
-  "lastRun": "2026-11-27T20:43:36+03:00",
+  "lastRun": "2026-11-28T00:07:40+03:00",
   "note": "ما فيه تطورات مهمة جديدة.",
   "added": 0
  }
